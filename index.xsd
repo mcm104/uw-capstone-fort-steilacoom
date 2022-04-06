@@ -21,12 +21,6 @@
                                             </xs:complexType>
                                         </xs:element>
                                         <xs:element maxOccurs="unbounded" minOccurs="0"
-                                            name="childTerm">
-                                            <xs:complexType>
-                                                <xs:attribute ref="term"/>
-                                            </xs:complexType>
-                                        </xs:element>
-                                        <xs:element maxOccurs="unbounded" minOccurs="0"
                                             name="relatedTerm">
                                             <xs:complexType>
                                                 <xs:attribute ref="term"/>
@@ -56,6 +50,6 @@
         </xs:complexType>
     </xs:element>
     <xs:attribute name="id" type="xs:ID"/>
-    <xs:attribute name="term" type="xs:IDREF"/>
+    <xs:attribute name="term_id" type="xs:IDREF"/>
     <xs:attribute name="uri" type="xs:anyURI"/>
 </xs:schema>
