@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+    vc:minVersion="1.0" vc:maxVersion="1.1">
+
+    <xs:element name="nameAuthorityFile">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="agents">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element maxOccurs="unbounded" name="agent">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="preferredName"/>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="alternateName"/>
+                                        <xs:element name="dateOfBirth" minOccurs="0">
+                                            <xs:complexType>
+                                                <xs:choice>
+                                                  <xs:group ref="dates"/>
+                                                </xs:choice>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element minOccurs="0" name="dateOfDeath">
+                                            <xs:complexType>
+                                                <xs:choice>
+                                                  <xs:group ref="dates"/>
+                                                </xs:choice>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="dateOfMarriage">
+                                            <xs:complexType>
+                                                <xs:choice>
+                                                  <xs:group ref="dates"/>
+                                                </xs:choice>
+                                                <xs:attribute ref="relatedAgent"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="hasParent">
+                                            <xs:complexType>
+                                                <xs:attribute ref="relatedAgent" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="hasSpouse">
+                                            <xs:complexType>
+                                                <xs:attribute ref="relatedAgent" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="tribalAffiliation"/>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="demographicTerm">
+                                            <xs:complexType>
+                                                <xs:attribute ref="uri" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element minOccurs="0" name="sources">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element maxOccurs="unbounded" name="source">
+                                                  <xs:complexType>
+                                                  <xs:attribute ref="uri" use="required"/>
+                                                  </xs:complexType>
+                                                  </xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute ref="id" use="required"/>
+                                    <xs:attribute name="agentType" use="required">
+                                        <xs:simpleType>
+                                            <xs:restriction base="xs:string">
+                                                <xs:enumeration value="person"/>
+                                                <xs:enumeration value="family"/>
+                                                <xs:enumeration value="corporate body"/>
+                                            </xs:restriction>
+                                        </xs:simpleType>
+                                    </xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:attribute name="uri" type="xs:anyURI"/>
+    <xs:attribute name="id" type="xs:ID"/>
+    <xs:attribute name="relatedAgent" type="xs:IDREF"/>
+    <xs:group name="dates">
+        <xs:sequence>
+            <xs:element minOccurs="0" name="year" type="xs:gYear"/>
+            <xs:element minOccurs="0" name="yearMonth" type="xs:gYearMonth"/>
+            <xs:element minOccurs="0" name="date" type="xs:date"/>
+            <xs:element minOccurs="0" name="approximateDate"/>
+            <xs:element minOccurs="0" name="unknown">
+                <xs:complexType>
+                    <xs:attribute name="value" type="xs:boolean" use="required"/>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:group>
+</xs:schema>

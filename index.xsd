@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+    vc:minVersion="1.0" vc:maxVersion="1.1">
+
+    <xs:element name="newsletterIndex">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="terms">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="term" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="preferredTerm"/>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="alternateTerm"/>
+                                        <xs:element minOccurs="0" name="parentTerm">
+                                            <xs:complexType>
+                                                <xs:attribute ref="term"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="childTerm">
+                                            <xs:complexType>
+                                                <xs:attribute ref="term"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="relatedTerm">
+                                            <xs:complexType>
+                                                <xs:attribute ref="term"/>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element minOccurs="0" name="scopeNotes"/>
+                                        <xs:element minOccurs="0" name="definition"/>
+                                        <xs:element minOccurs="0" name="sources">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                  <xs:element maxOccurs="unbounded" name="source">
+                                                  <xs:complexType>
+                                                  <xs:attribute ref="uri"/>
+                                                  </xs:complexType>
+                                                  </xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute ref="id"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:attribute name="id" type="xs:ID"/>
+    <xs:attribute name="term" type="xs:IDREF"/>
+    <xs:attribute name="uri" type="xs:anyURI"/>
+</xs:schema>
