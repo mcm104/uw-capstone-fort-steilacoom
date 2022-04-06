@@ -52,4 +52,5 @@
     <xs:attribute name="id" type="xs:ID"/>
     <xs:attribute name="term_id" type="xs:IDREF"/>
     <xs:attribute name="uri" type="xs:anyURI"/>
+    <xs:element name="term" type="xs:IDREF"/>
 </xs:schema>
