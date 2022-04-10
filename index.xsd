@@ -17,13 +17,13 @@
                                             name="alternateTerm"/>
                                         <xs:element minOccurs="0" name="parentTerm">
                                             <xs:complexType>
-                                                <xs:attribute ref="term"/>
+                                                <xs:attribute ref="term_id" use="required"/>
                                             </xs:complexType>
                                         </xs:element>
                                         <xs:element maxOccurs="unbounded" minOccurs="0"
                                             name="relatedTerm">
                                             <xs:complexType>
-                                                <xs:attribute ref="term"/>
+                                                <xs:attribute ref="term_id" use="required"/>
                                             </xs:complexType>
                                         </xs:element>
                                         <xs:element minOccurs="0" name="scopeNotes"/>
@@ -33,14 +33,14 @@
                                                 <xs:sequence>
                                                   <xs:element maxOccurs="unbounded" name="source">
                                                   <xs:complexType>
-                                                  <xs:attribute ref="uri"/>
+                                                  <xs:attribute ref="uri" use="required"/>
                                                   </xs:complexType>
                                                   </xs:element>
                                                 </xs:sequence>
                                             </xs:complexType>
                                         </xs:element>
                                     </xs:sequence>
-                                    <xs:attribute ref="id"/>
+                                    <xs:attribute ref="id" use="required"/>
                                 </xs:complexType>
                             </xs:element>
                         </xs:sequence>

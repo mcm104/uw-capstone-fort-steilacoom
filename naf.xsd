@@ -15,6 +15,12 @@
                                         <xs:element name="preferredName"/>
                                         <xs:element maxOccurs="unbounded" minOccurs="0"
                                             name="alternateName"/>
+                                        <xs:element maxOccurs="unbounded" minOccurs="0"
+                                            name="family">
+                                            <xs:complexType>
+                                                <xs:attribute ref="relatedAgent" use="required"/>
+                                            </xs:complexType>
+                                        </xs:element>
                                         <xs:element name="dateOfBirth" minOccurs="0">
                                             <xs:complexType>
                                                 <xs:choice>
@@ -54,7 +60,7 @@
                                             name="tribalAffiliation"/>
                                         <xs:element maxOccurs="unbounded" minOccurs="0"
                                             name="demographicTerm">
-                                            <xs:complexType>
+                                            <xs:complexType mixed="true">
                                                 <xs:attribute ref="uri" use="required"/>
                                             </xs:complexType>
                                         </xs:element>
