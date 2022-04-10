@@ -1,0 +1,81 @@
+<newsletterIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="index.xsd">
+	<terms>
+		<!-- <terms>
+		<term id='term_'>
+		<preferredTerm></preferredTerm>
+		<alternateTerm/>
+		<parentTerm term_id=''></parentTerm>
+		<relatedTerm term_id=''></relatedTerm>
+		<scopeNotes/>
+		<definition/>
+		<sources>
+			<source uri=''/>
+		</sources>
+	</term> -->
+
+		<term id="Politics">
+			<preferredTerm>Politics</preferredTerm>
+		</term>
+
+		<term id="Movements">
+			<preferredTerm>Movements</preferredTerm>
+			<parentTerm term_id="Politics"/>
+		</term>
+
+		<term id="Abolitionism">
+			<preferredTerm>Abolitionism</preferredTerm>
+			<parentTerm term_id="Movements"/>
+		</term>
+
+		<term id="Manifest_Destiny">
+			<preferredTerm>Manifest Destiny</preferredTerm>
+			<parentTerm term_id="Movements"/>
+		</term>
+
+		<term id="Nativism">
+			<preferredTerm>Nativism</preferredTerm>
+			<parentTerm term_id="Movements"/>
+		</term>
+
+		<term id="US-Indigenous_Relations">
+			<preferredTerm>US-Indigenous Relations</preferredTerm>
+			<parentTerm term_id="Politics"/>
+		</term>
+
+		<term id="American_Indian_Removal">
+			<preferredTerm>American Indian Removal (1830-1847)</preferredTerm>
+			<parentTerm term_id="US-Indigenous_Relations"/>
+		</term>
+
+		<term id="Indian_Removal_Act_of_1830">
+			<preferredTerm>Indian Removal Act of 1830</preferredTerm>
+			<parentTerm term_id="American_Indian_Removal"/>
+		</term>
+
+		<term id="Treaty_of_Medicine_Creek">
+			<preferredTerm>Treaty of Medicine Creek (1854)</preferredTerm>
+			<parentTerm term_id="US-Indigenous_Relations"/>
+		</term>
+
+		<term id="Medicine_Creek_Treaty_Council">
+			<preferredTerm>Medicine Creek Treaty Council</preferredTerm>
+			<parentTerm term_id="Treaty_of_Medicine_Creek"/>
+		</term>
+
+		<term id="Permanent_Indian_Frontier">
+			<preferredTerm>Permanent Indian Frontier (1840)</preferredTerm>
+			<parentTerm term_id="US-Indigenous_Relations"/>
+		</term>
+
+		<term id="US-Great_Britain_Relations">
+			<preferredTerm>US-Great Britain Relations</preferredTerm>
+			<parentTerm term_id="Politics"/>
+		</term>
+
+		<term id="Oregon_Treaty">
+			<preferredTerm>Oregon Treaty (1846)</preferredTerm>
+			<parentTerm term_id="US-Great_Britain_Relations"/>
+		</term>
+	</terms>
+</newsletterIndex>
