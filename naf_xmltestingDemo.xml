@@ -48,7 +48,6 @@
 
 		<agent id="Abby_Casey" agentType="person">
 			<preferredName>Abby Casey</preferredName>
-			<alternateName/>
 			<family relatedAgent="Casey"/>
 			<dateOfMarriage relatedAgent="Lewis_Cass_Hunt">
 				<year>1860</year>
