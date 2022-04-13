@@ -114,6 +114,15 @@
                                 </xsl:for-each>
                             </ul>
                         </xsl:if>
+                        <xsl:if test="@agentType='family'">
+                            <xsl:variable name="family_name" select="@id"/>
+                            <ul>
+                                <xsl:for-each select="//agent[family/@relatedAgent=$family_name]">
+                                    <xsl:variable name="agent_id" select="@id"/>
+                                    <li><a href="{$agent_id}.html"><xsl:value-of select="preferredName"/></a></li>
+                                </xsl:for-each>
+                            </ul>
+                        </xsl:if>
                     </body>
                 </html>
             </xsl:result-document>
