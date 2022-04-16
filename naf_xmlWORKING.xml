@@ -1,0 +1,673 @@
+<nameAuthorityFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="naf.xsd">
+	<agents>
+		<!-- <agent id='' agentType=''>
+			<preferredName></preferredName>
+			<alternateName/>
+			<parentTerm agent=''></parentTerm>
+			<relatedTerm agent=''></relatedTerm>
+			<scopeNotes/>
+			<definition/>
+			<sources>
+				<source uri=''/>
+			</sources>
+		</agent> -->
+
+		<agent id="Casey" agentType="family">
+			<preferredName>Casey</preferredName>
+		</agent>
+
+		<agent id="Silas_Casey_II" agentType="person">
+			<preferredName>Silas Casey II</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<year>1807</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1882</year>
+			</dateOfDeath>
+			<dateOfMarriage relatedAgent="Abigail_Abby_Perry_Pearce_Casey">
+				<year>1830</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+		</agent>
+
+		<agent id="Abigail_Abby_Perry_Pearce_Casey" agentType="person">
+			<preferredName>Abigail "Abby" Perry Pearce Casey</preferredName>
+			<alternateName>Abigail Casey</alternateName>
+			<alternateName>Abby Casey</alternateName>
+			<alternateName>Mrs. Casey</alternateName>
+			<family relatedAgent="Casey"/>
+			<dateOfMarriage relatedAgent="Silas_Casey_II">
+				<year>1830</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Silas_Casey_II"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+		<agent id="Abby_Casey" agentType="person">
+			<preferredName>Abby Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfMarriage relatedAgent="Lewis_Cass_Hunt">
+				<year>1860</year>
+			</dateOfMarriage>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<hasSpouse relatedAgent="Lewis_Cass_Hunt"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+		<agent id="Lewis_Cass_Hunt" agentType="person">
+			<preferredName>Lewis Cass Hunt</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfMarriage relatedAgent="Abby_Casey">
+				<year>1860</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Abby_Casey"/>
+		</agent>
+
+		<agent id="Edward_Wanton_Casey" agentType="person">
+			<preferredName>Edward "Ned" Wanton Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<year>1850</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1891</year>
+			</dateOfDeath>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+		</agent>
+
+		<agent id="Elizabeth_Bessie_Casey_Scott" agentType="person">
+			<preferredName>Elizabeth "Bessie" Casey Scott</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<approximateDate>1844</approximateDate>
+			</dateOfBirth>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+		<agent id="Thomas_Lincoln_Casey" agentType="person">
+			<preferredName>Thomas Lincoln Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<approximateDate>1832</approximateDate>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1896</year>
+			</dateOfDeath>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+			<hasSpouse relatedAgent="Emma_Weir_Casey"/>
+		</agent>
+
+		<agent id="Emma_Weir_Casey" agentType="person">
+			<preferredName>Emma Weir Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<hasSpouse relatedAgent="Thomas_Lincoln_Casey"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+		<agent id="Silas_Casey_III" agentType="person">
+			<preferredName>Silas Casey III</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<year>1841</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1913</year>
+			</dateOfDeath>
+			<dateOfMarriage relatedAgent="Sophia_Gray_Herberton_Casey">
+				<year>1865</year>
+			</dateOfMarriage>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+			<hasSpouse relatedAgent="Sophia_Gray_Herberton_Casey"/>
+		</agent>
+
+		<agent id="Sophia_Gray_Herberton_Casey" agentType="person">
+			<preferredName>Sophia Gray Herberton Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfMarriage relatedAgent="Silas_Casey_III">
+				<year>1865</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Silas_Casey_III"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+		<agent id="Bachelder" agentType="family">
+			<preferredName>Bachelder</preferredName>
+		</agent>
+		<agent id="James_M_Bachelder" agentType="person">
+			<preferredName>James M. Bachelder</preferredName>
+			<family relatedAgent="Bachelder"/>
+			<dateOfBirth>
+				<year>1817</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1865</year>
+			</dateOfDeath>
+			<hasSpouse relatedAgent="Sarah_Conklin_Bachelder"/>
+		</agent>
+		<agent id="Sarah_Conklin_Bachelder" agentType="person">
+			<preferredName>Sarah Conklin Bachelder</preferredName>
+			<family relatedAgent="Bachelder"/>
+			<hasSpouse relatedAgent="James_M_Bachelder"/>
+		</agent>
+		<agent id="Mary_Bachelder_Patterson" agentType="person">
+			<preferredName>Mary Bachelder Patterson</preferredName>
+			<family relatedAgent="Bachelder"/>
+			<dateOfBirth>
+				<year>1850</year>
+			</dateOfBirth>
+			<hasParent relatedAgent="James_M_Bachelder"/>
+			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>
+		</agent>
+		<agent id="Edward_M_Bachelder" agentType="person">
+			<preferredName>Edward M. Bachelder</preferredName>
+			<family relatedAgent="Bachelder"/>
+			<hasParent relatedAgent="James_M_Bachelder"/>
+			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>			
+		</agent>
+		<agent id="Horace_W_Bachelder" agentType="person">
+			<preferredName>Horace W. Bachelder</preferredName>
+			<family relatedAgent="Bachelder"/>
+			<hasParent relatedAgent="James_M_Bachelder"/>
+			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>				
+		</agent>
+		<agent id="Mrs_E_F_Cathart" agentType="person">
+			<preferredName> Mrs. E. F. Cathart</preferredName>
+			<family relatedAgent="Bachelder"/>
+			<hasParent relatedAgent="James_M_Bachelder"/>
+			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>				
+		</agent>
+		<agent id="Flett" agentType="family">
+			<preferredName>Flett</preferredName>
+		</agent>
+		<agent id="John_Flett" agentType="person">
+			<preferredName> John Flett</preferredName>
+			<family relatedAgent="Flett"/>
+			<hasSpouse relatedAgent="Ellen_Monro_Flett"/>
+		</agent>
+		<agent id="Ellen_Monro_Flett" agentType="person">
+			<preferredName>Ellen Monro Flett</preferredName>
+			<family relatedAgent="Flett"/>
+			<!--date in spreadsheet (1836) with letter "c"!-->
+			<hasSpouse relatedAgent="John_Flett"/>
+		</agent>
+		<agent id="Anna_Flett_Champman" agentType="person">
+			<preferredName>Anna Flett Champman</preferredName>
+			<family relatedAgent="Flett"/>
+			<dateOfMarriage relatedAgent="George_Chapman">
+				<year>1895</year>
+			</dateOfMarriage>
+			<hasParent relatedAgent="John_Flett"/>
+			<hasParent relatedAgent="Ellen_Monro_Flett"/>
+			<hasSpouse relatedAgent="George_Chapman"/>
+		</agent>
+		<agent id="George_Chapman" agentType="person">
+			<preferredName>Goerge Chapman</preferredName>
+			<family relatedAgent="Flett"/>
+			<dateOfMarriage relatedAgent="Anna_Flett_Champman">
+				<year>1895</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Anna_Flett_Champman"/>
+		</agent>
+		<agent id="Ellen_Chapman_Freckleton" agentType="person">
+			<preferredName>Ellen Chapman Freckleton</preferredName>
+			<family relatedAgent="Flett"/>
+			<dateOfBirth>
+				<year>1902</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>2001</year>
+			</dateOfDeath>
+			<!--Speculated date of marriage based of Adam Freckleton Record!-->
+			<dateOfMarriage relatedAgent="Adam_W_Freckleton">
+				<year>1936</year>
+			</dateOfMarriage>
+			<hasParent relatedAgent="Anna_Flett_Champman"/>
+			<hasParent relatedAgent="George_Chapman"/>
+			<hasSpouse relatedAgent="Adam_W_Freckleton"/>
+		</agent>
+		<agent id="Adam_W_Freckleton" agentType="person">
+			<preferredName>Adam W. Freckleton</preferredName>
+			<family relatedAgent="Flett"/>
+			<dateOfMarriage relatedAgent="Ellen_Chapman_Freckleton">
+				<year>1936</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Ellen_Chapman_Freckleton"/>
+		</agent>
+		<agent id="Kautz" agentType="family">
+			<preferredName>Kautz</preferredName>
+		</agent>
+		<agent id="August_Valentine_Kautz" agentType="person">
+			<preferredName>August Valentine Kautz</preferredName>
+			<family relatedAgent="Kautz"/>
+			<dateOfBirth>
+				<year>1828</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1895</year>
+			</dateOfDeath>
+			<dateOfMarriage relatedAgent="Charlotte_Todd_Kautz">
+				<year>1865</year>
+			</dateOfMarriage>
+			<dateOfMarriage relatedAgent="Fannie_Markbreit_Kautz">
+				<year>1872</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Charlotte_Todd_Kautz"/>
+			<hasSpouse relatedAgent="Fannie_Markbreit_Kautz"/>
+		</agent>
+		<agent id="Kitty" agentType="person">
+			<preferredName>"Kitty"</preferredName>
+			<family relatedAgent="Kautz"/>
+		</agent>
+		<agent id="Nugent" agentType="person">
+			<preferredName>Nugent</preferredName>
+			<family relatedAgent="Kautz"/>
+			<hasParent relatedAgent="August_Valentine_Kautz"/>
+			<hasParent relatedAgent="Kitty"/>
+		</agent>
+		<agent id="Augustus" agentType="person">
+			<preferredName>Augustus</preferredName>
+			<family relatedAgent="Kautz"/>
+			<hasParent relatedAgent="August_Valentine_Kautz"/>
+			<hasParent relatedAgent="Kitty"/>			
+		</agent>
+		<agent id="Charlotte_Todd_Kautz" agentType="person">
+			<preferredName>Charlotte Todd Kautz</preferredName>
+			<family relatedAgent="Kautz"/>
+			<dateOfDeath>
+				<year>1868</year>
+			</dateOfDeath>
+			<dateOfMarriage relatedAgent="August_Valentine_Kautz">
+				<year>1865</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="August_Valentine_Kautz"/>
+		</agent>
+		<agent id="Fannie_Markbreit_Kautz" agentType="person">
+			<preferredName>Frannie Markbreit Kautz</preferredName>
+			<family relatedAgent="Kautz"/>
+			<dateOfBirth>
+				<year>1849</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1913</year>
+			</dateOfDeath>
+			<dateOfMarriage relatedAgent="August_Valentine_Kautz">
+				<year>1872</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="August_Valentine_Kautz"/>
+		</agent>
+		<agent id="Austin_Kautz" agentType="person">
+			<preferredName>Austin Kautz</preferredName>
+			<family relatedAgent="Kautz"/>
+			<dateOfBirth>
+				<year>1874</year>
+			</dateOfBirth>
+			<hasParent relatedAgent="August_Valentine_Kautz"/>
+			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>
+		</agent>
+		<agent id="Francesca_Frances_Frankie_Kautz" agentType="person">
+			<preferredName>Francesca "Frances" "Frankie" Kautz</preferredName>
+			<family relatedAgent="Kautz"/>
+			<dateOfBirth>
+				<year>1875</year>
+			</dateOfBirth>
+			<hasParent relatedAgent="August_Valentine_Kautz"/>
+			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>			
+		</agent>
+		<agent id="Navarra Kautz" agentType="person">
+			<preferredName>Navarra Kautz</preferredName>
+			<family relatedAgent="Kautz"/>
+			<dateOfBirth>
+				<year>1880</year>
+			</dateOfBirth>
+			<hasParent relatedAgent="August_Valentine_Kautz"/>
+			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>	
+		</agent>
+<!--END OF FAMILY AGENDS. NON FAMILY AGENTS BELOW!-->
+		<agent id="Isaac_Ingalls_Stevens" agentType="person">
+			<preferredName>Isaac Ingalls Stevens</preferredName>
+			<dateOfBirth>
+				<year>1818</year>
+			</dateOfBirth>
+			<dateOfBirth>
+				<year>1862</year>
+			</dateOfBirth>
+			<dateOfMarriage relatedAgent="Margaret_Meg_Hazard_Stevens">
+				<year>1841</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Margaret_Meg_Hazard_Stevens"/>
+		</agent>
+		<agent id="Margaret_Meg_Hazard_Stevens" agentType="person">
+			<preferredName>Margaret "Meg" Hazard Stevens</preferredName>
+			<dateOfMarriage relatedAgent="Isaac_Ingalls_Stevens">
+				<year>1841</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Isaac_Ingalls_Stevens"/>
+		</agent>
+		<agent id="Joseph_Thomas_Heath" agentType="person">
+			<preferredName>Joseph Thomas Heath</preferredName>
+		</agent>
+		<agent id="Abraham_Benton_Moses" agentType="person">
+			<preferredName>Abraham Benton Moses</preferredName>
+		</agent>
+		<agent id="Abraham_Lincoln" agentType="person">
+			<preferredName>Abraham Lincoln</preferredName>
+			<!--Consider adding additional detail here!-->
+		</agent>
+		<agent id="Bennet_Hill" agentType="person">
+			<preferredName>Bennet Hill</preferredName>
+		</agent>
+		<agent id="Big_Foot" agentType="person">
+		<!--What?!-->
+			<preferredName>Big Foot</preferredName>
+		</agent>
+		<agent id="Caroline_Light" agentType="person">
+			<preferredName>Caroline Light</preferredName>
+		</agent>
+		<agent id="Charles_H_Mason" agentType="person">
+			<preferredName>Charles H. Mason</preferredName>
+		</agent>
+		<agent id="Charles_Prosch" agentType="person">
+			<preferredName>Charles Porsch</preferredName>
+		</agent>
+		<agent id="William_Fraser_Tolmie" agentType="person">
+			<preferredName>William Fraser Tolmie</preferredName>
+			<dateOfMarriage relatedAgent="Jane_Work_Tolmie">
+				<year>1850</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Jane_Work_Tolmie"/>
+		</agent>
+		<agent id="Jane_Work_Tolmie" agentType="person">
+			<preferredName>Jane Work Tolmie</preferredName>
+			<dateOfMarriage relatedAgent="William_Fraser_Tolmie">
+				<year>1850</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="William_Fraser_Tolmie"/>
+		</agent>
+		<agent id="E_Porter_Alexander" agentType="person">
+			<preferredName>E. Porter Alexander</preferredName>
+			<hasSpouse relatedAgent="Mrs_Alexander"/>
+		</agent>
+		<agent id="Mrs_Alexander" agentType="person">
+			<preferredName>Mrs. Alexander</preferredName>
+			<hasSpouse relatedAgent="E_Porter_Alexander"/>
+		</agent>
+		<agent id="Edward_Huggins" agentType="person">
+			<preferredName>Edward Huggins</preferredName>
+			<dateOfMarriage relatedAgent="Lelita_Work_Huggins">
+				<year>1857</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Lelita_Work_Huggins"/>
+		</agent>
+		<agent id="Lelita_Work_Huggins" agentType="person">
+			<preferredName>Lelita Work Huggins</preferredName>
+			<dateOfMarriage relatedAgent="Edward_Huggins">
+				<year>1857</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Edward_Huggins"/>
+		</agent>
+		<agent id="John_Rigney" agentType="person">
+			<preferredName>John Rigney</preferredName>
+			<dateOfMarriage relatedAgent="Elizabeth_Rigney">
+				<year>1848</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Elizabeth_Rigney"/>
+		</agent>
+		<agent id="Elizabeth_Rigney" agentType="person">
+			<preferredName>Elizabeth Rigney</preferredName>
+			<dateOfMarriage relatedAgent="John_Rigney">
+				<year>1848</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="John_Rigney"/>
+		</agent>
+		<agent id="Emily_Alvord" agentType="person">
+			<preferredName>Emily Alvord</preferredName>
+			<hasSpouse relatedAgent="Benjamin_Alvord"/>
+		</agent>
+		<agent id="Benjamin_Alvord" agentType="person">
+			<preferredName>Benjamin Alvord</preferredName>
+			<hasSpouse relatedAgent="Emily_Alvord"/>
+		</agent>
+		<agent id="Erasmus_D_Keyes" agentType="person">
+			<preferredName>Erasmus D. Keyes</preferredName>
+		</agent>
+		<agent id="Horatio_G_Pitcher" agentType="person">
+			<preferredName>Horatio G. Pitcher</preferredName>
+			<hasSpouse relatedAgent="Annie_Pitcher"/>
+		</agent>
+		<agent id="Annie_Pitcher" agentType="person">
+			<preferredName>Annie Pitcher</preferredName>
+			<hasSpouse relatedAgent="Horatio_G_Pitcher"/>
+		</agent>
+		<agent id="John_Nugen" agentType="person">
+			<preferredName>John Nugen</preferredName>
+			<dateOfBirth>
+				<year>1830</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1857</year>
+			</dateOfDeath>
+		</agent>
+		<agent id="John_Swan" agentType="person">
+			<preferredName>John Swan</preferredName>
+		</agent>
+		<agent id="Joseph_Lane" agentType="person">
+			<preferredName>Joseph Lane</preferredName>
+		</agent>
+		<agent id="William_H_Archbold" agentType="person">
+			<preferredName>William H. Archbold</preferredName>
+			<dateOfDeath>
+				<year>1869</year>
+			</dateOfDeath>
+		</agent>
+		<agent id="Lafayette_Balch" agentType="person">
+			<preferredName>Lafayette Balch</preferredName>
+		</agent>
+		<agent id="Mrs_Stephen_Barker" agentType="person">
+			<preferredName>Mrs. Stephen Barker</preferredName>
+			<hasSpouse relatedAgent="Stephen_Barker"/>
+		</agent>
+		<!--Added to Stephen Barker to complete Mrs. Stephen Barker record reference!-->
+		<agent id="Stephen_Barker" agentType="person">
+			<preferredName>Stephen Barker</preferredName>
+			<hasSpouse relatedAgent="Mrs_Stephen_Barker"/>
+		</agent>
+		<agent id="John_Baptist_Brondel" agentType="person">
+			<preferredName>John Baptist Brondel</preferredName>
+		</agent>
+		<!--Mrs E F Cathart listed in spreadsheet here. Already in Bachelder family records!-->
+		<agent id="Thomas_English" agentType="person">
+			<preferredName> Thomas English</preferredName>
+			<hasSpouse relatedAgent="Mrs_English"/>
+		</agent>
+		<agent id="Mrs_English" agentType="person">
+			<preferredName>Mrs. English</preferredName>
+			<hasSpouse relatedAgent="Thomas_English"/>
+		</agent>
+		<agent id="Sarah_Josepha_Hale" agentType="person">
+			<preferredName>Sarah Josepha Hale</preferredName>
+			<dateOfDeath>
+				<year>1879</year>
+			</dateOfDeath>
+		</agent>
+		<agent id="Sarah_McAllister_Hartman" agentType="person">
+			<preferredName>Sarah McAlister Hartman</preferredName>
+		</agent>
+		<agent id="Kate_Hewitt" agentType="person">
+			<preferredName>Kate Hewitt</preferredName>
+		</agent>
+		<agent id="Mrs_Phillip_Keach" agentType="person">
+			<preferredName>Mrs. Phillip Keach</preferredName>
+		</agent>
+		<agent id="Maurice_Maloney" agentType="person">
+			<preferredName>Maurice_Maloney</preferredName>
+			<hasSpouse relatedAgent="Mrs_Maloney"/>
+		</agent>
+		<agent id="Mrs_Maloney" agentType="person">
+			<preferredName>Mrs. Maloney</preferredName>
+			<hasSpouse relatedAgent="Maurice_Maloney"/>
+		</agent>
+		<agent id="Charlotte_Smith_McAllister" agentType="person">
+			<preferredName>Charlotte Smith McAllister</preferredName>
+			<dateOfBirth>
+				<year>1818</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1865</year>
+			</dateOfDeath>
+			<hasSpouse relatedAgent="James_Jim_McAllister"/>
+		</agent>
+		<agent id="James_Jim_McAllister" agentType="person">
+			<preferredName>James "Jim" McAllister</preferredName>
+			<dateOfBirth>
+				<year>1812</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1855</year>
+			</dateOfDeath>
+			<hasSpouse relatedAgent="Charlotte_Smith_McAllister"/>
+		</agent>
+		<agent id="Eliza_C_Porter" agentType="person">
+			<preferredName>Eliza C. Porter</preferredName>
+			<hasSpouse relatedAgent="Jeremiah_Porter"/>
+		</agent>
+		<agent id="Jeremiah_Porter" agentType="person">
+			<preferredName>Jeremiah Porter</preferredName>
+			<hasSpouse relatedAgent="Eliza_C_Porter"/>
+		</agent>
+		<agent id="Maryann_Reed" agentType="person">
+			<preferredName>Maryann Reed</preferredName>
+		</agent>
+		<agent id="Louis_Rossi" agentType="person">
+			<preferredName>Louis Rossi</preferredName>
+		</agent>
+		<agent id="Philip_Phil_Sheridan" agentType="person">
+			<preferredName>Philip "Phil" Sheridan</preferredName>
+			<dateOfDeath>
+				<year>1888</year>
+			</dateOfDeath>
+		</agent>
+		<agent id="Mary_Wells_Slaughter" agentType="person">
+			<preferredName>Mary Wells Slaughter</preferredName>
+			<dateOfBirth><year>1832</year></dateOfBirth>
+			<dateOfDeath><year>1862</year></dateOfDeath>
+		</agent>
+		<agent id="William_Alloway_Slaughter" agentType="person">
+			<preferredName>William Alloway Slaughter</preferredName>
+			<dateOfBirth><year>1827</year></dateOfBirth>
+			<dateofDeath><year>1855</year></dateofDeath>
+		</agent>
+		<agent id="Margaret_Whitesell_Taylor" agentType="person">
+			<preferredName>Margaret Whitesell Taylor</preferredName>
+			<dateOfMarriage><year>1883</year></dateOfMarriage>
+		</agent>
+		<agent id="Miss_Teen" agentType="person">
+			<preferredName>Miss Teen</preferredName>
+		</agent>
+		<agent id="Abraham_Salatat" agentType="person">
+			<preferredName>Abraham Salat</preferredName>
+			<hasSpouse relatedAgent="William_H_Wallace"/>
+		</agent>
+		<agent id="William_H_Wallace" agentType="person">
+			<preferredName>William H Wallace</preferredName>
+			<dateofBirth><year>1811</year></dateofBirth>
+			<dateofDeath><year>1878</year></dateofDeath>
+			<hasSpouse relatedAgent="Luzanne_Luzena_Brazelton_Wallace"/>
+		</agent>
+		<agent id="Luzanne_Luzena_Brazelton_Wallace" agentType="person">
+			<preferredName> Luzanne "Luzena" Brazelton Wallace</preferredName>
+			<hasSpouse relatedAgent="William_H_Wallace"/>
+		</agent>
+		<!--skipping Big Foot, already in database!-->
+		<agent id="Kanasket" agentType="person">
+			<preferredName>Kasnasket</preferredName>
+		</agent>
+		<agent id="Kitsap" agentType="person">
+			<preferredName>Kitsap</preferredName>
+		</agent>
+		<agent id="Lakalet" agentType="person">
+			<preferredName>Lakalet</preferredName>
+		</agent>
+		<agent id="Lame_Deer" agentType="person">
+			<preferredName>Lame Deer</preferredName>
+		</agent>
+		<agent id="Leschi" agentType="person">
+			<preferredName>Leschi</preferredName>
+		</agent>
+		<agent id="Plenty_Horses" agentType="person">
+			<preferredName>Plenty Horses</preferredName>
+			<alternateName>Senika-Wakan-Ota</alternateName>
+		</agent>
+		<agent id="Red_Cloud" agentType="person">
+			<preferredName>Red Cloud</preferredName>
+		</agent>
+		<agent id="Shot_Face_Charlie" agentType="person">
+			<preferredName>Shot-Face Charlie</preferredName>
+		</agent>
+		<agent id="Stickus" agentType="person">
+			<preferredName>Stickus</preferredName>
+		</agent>
+		<agent id="Wapowety" agentType="person">
+			<preferredName>Wapowety</preferredName>
+		</agent>
+		<agent id="John_Ector" agentType="person">
+			<preferredName>John Ector</preferredName>
+		</agent>
+		<agent id="George_M_Berry" agentType="person">
+			<preferredName>Goerge M. Berry</preferredName>
+		</agent>
+		<agent id="Antonio_B_Rabbeson" agentType="person">
+			<preferredName>Anotonio B. Rabbeson</preferredName>
+		</agent>
+		<agent id="Joseph_Miles" agentType="person">
+			<preferredName>Joseph Miles</preferredName>
+		</agent>
+		<agent id="Michael_Luark" agentType="person">
+			<preferredName>Michael Luark</preferredName>
+		</agent>
+		<agent id="George_McClellan" agentType="person">
+			<preferredName>George McClellan</preferredName>
+		</agent>
+		<agent id="Richard_Arnold" agentType="person">
+			<preferredName>Richard Arnold</preferredName>
+		</agent>
+		<agent id="C_H_Lanard" agentType="person">
+			<preferredName>C. H. Lanard</preferredName>
+		</agent>
+		<agent id="M_John_Hamilton" agentType="person">
+			<preferredName>M. John Hamilton</preferredName>
+		</agent>
+		<agent id="Mother_Joseph" agentType="person">
+			<preferredName>Mother Joseph</preferredName>
+		</agent>
+		<agent id="Quiemuth" agentType="person">
+			<preferredName>Quiemuth</preferredName>
+		</agent>
+		<agent id="Lashimere" agentType="person">
+			<preferredName>Lashimere</preferredName>
+		</agent>
+		<agent id="John_Fulton_Reynolds" agentType="person">
+			<preferredName>John Fulton Reynolds</preferredName>
+		</agent>
+		<agent id="Charles_Wilkes" agentType="person">
+			<preferredName>Charles Wilkes</preferredName>
+		</agent>
+		<agent id="Charles_Eaton" agentType="person">
+			<preferredName>Charles Eaton</preferredName>
+		</agent>
+		<agent id="Marcus_Whitman" agentType="person">
+			<preferredName>Marcus Whitman</preferredName>
+		</agent>
+	</agents>
+</nameAuthorityFile>

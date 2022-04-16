@@ -1,0 +1,842 @@
+<newsletterIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="index.xsd">
+	<terms>
+		<!-- <terms>
+		<term id='term_'>
+		<preferredTerm></preferredTerm>
+		<alternateTerm/>
+		<parentTerm term_id=''></parentTerm>
+		<relatedTerm term_id=''></relatedTerm>
+		<scopeNotes/>
+		<definition/>
+		<sources>
+			<source uri=''/>
+		</sources>
+	</term> -->
+
+		<term id="Politics">
+			<preferredTerm>Politics</preferredTerm>
+		</term>
+
+		<term id="Movements">
+			<preferredTerm>Movements</preferredTerm>
+			<parentTerm term_id="Politics"/>
+		</term>
+
+		<term id="Abolitionism">
+			<preferredTerm>Abolitionism</preferredTerm>
+			<parentTerm term_id="Movements"/>
+		</term>
+
+		<term id="Manifest_Destiny">
+			<preferredTerm>Manifest Destiny</preferredTerm>
+			<parentTerm term_id="Movements"/>
+		</term>
+
+		<term id="Nativism">
+			<preferredTerm>Nativism</preferredTerm>
+			<parentTerm term_id="Movements"/>
+		</term>
+
+		<term id="US-Indigenous_Relations">
+			<preferredTerm>US-Indigenous Relations</preferredTerm>
+			<parentTerm term_id="Politics"/>
+		</term>
+
+		<term id="American_Indian_Removal">
+			<preferredTerm>American Indian Removal (1830-1847)</preferredTerm>
+			<parentTerm term_id="US-Indigenous_Relations"/>
+		</term>
+
+		<term id="Indian_Removal_Act_of_1830">
+			<preferredTerm>Indian Removal Act of 1830</preferredTerm>
+			<parentTerm term_id="American_Indian_Removal"/>
+		</term>
+
+		<term id="Treaty_of_Medicine_Creek">
+			<preferredTerm>Treaty of Medicine Creek (1854)</preferredTerm>
+			<parentTerm term_id="US-Indigenous_Relations"/>
+		</term>
+
+		<term id="Medicine_Creek_Treaty_Council">
+			<preferredTerm>Medicine Creek Treaty Council</preferredTerm>
+			<parentTerm term_id="Treaty_of_Medicine_Creek"/>
+		</term>
+
+		<term id="Permanent_Indian_Frontier">
+			<preferredTerm>Permanent Indian Frontier (1840)</preferredTerm>
+			<parentTerm term_id="US-Indigenous_Relations"/>
+		</term>
+
+		<term id="US-Great_Britain_Relations">
+			<preferredTerm>US-Great Britain Relations</preferredTerm>
+			<parentTerm term_id="Politics"/>
+		</term>
+
+		<term id="Oregon_Treaty">
+			<preferredTerm>Oregon Treaty (1846)</preferredTerm>
+			<parentTerm term_id="US-Great_Britain_Relations"/>
+		</term>
+		<term id="Time_Period_Events">
+			<preferredTerm>Time Periods and Events</preferredTerm>
+		</term>
+		<term id="Antebellum">
+			<preferredTerm>Antebellum (c.1815-1861)</preferredTerm>
+			<parentTerm term_id="Time_Period_Events"/>
+		</term>
+		<term id="Gold_Rush">
+			<preferredTerm>Gold Rush</preferredTerm>
+			<parentTerm term_id="Time_Period_Events"/>
+		</term>
+		<term id="Fraser_Canyon_Gold_Rush">
+			<preferredTerm>Fraser Canyon Gold Rush (1858-1927)</preferredTerm>
+			<parentTerm term_id="Gold_Rush"/>
+		</term>
+		<term id="California_Gold_Rush">
+			<preferredTerm>California Gold Rush</preferredTerm>
+			<parentTerm term_id="Gold_Rush"/>
+		</term>
+		<term id="Travel">
+			<preferredTerm>Travel</preferredTerm>
+		</term>
+		<term id="Transportation">
+			<preferredTerm>Transportation</preferredTerm>
+			<parentTerm term_id="Travel"/>
+		</term>
+		<term id="Roads">
+			<preferredTerm>Roads</preferredTerm>
+			<parentTerm term_id="Transportation"/>
+		</term>
+		<term id="Railroads">
+			<preferredTerm>Railroads</preferredTerm>
+			<parentTerm term_id="Transportation"/>
+		</term>
+		<term id="Ships">
+			<preferredTerm>Ships</preferredTerm>
+			<parentTerm term_id="Transportation"/>
+		</term>
+		<term id="Maps">
+			<preferredTerm>Maps</preferredTerm>
+			<parentTerm term_id="Travel"/>
+		</term>
+		<term id="Bigotry_Violence">
+			<preferredTerm>Bigotry and Violence</preferredTerm>
+		</term>
+		<term id="Racism">
+			<preferredTerm>Racism</preferredTerm>
+			<parentTerm term_id="Bigotry_Violence"/>
+		</term>
+		<term id="Anti_Indigenous_Racism">
+			<preferredTerm>Anti-Indigenous Racism</preferredTerm>
+			<parentTerm term_id="Racism"/>
+		</term>
+		<term id="Anti_Black_Racism">
+			<preferredTerm>Anti-Black Racism</preferredTerm>
+			<parentTerm term_id="Racism"/>
+		</term>
+		<term id="Military_History">
+			<preferredTerm>Military History</preferredTerm>
+		</term>
+		<term id="Equipment">
+			<preferredTerm>Equipment</preferredTerm>
+			<parentTerm term_id="Military_History"/>
+		</term>
+		<term id="Artillery">
+			<preferredTerm>Artillery</preferredTerm>
+			<parentTerm term_id="Equipment"/>
+		</term>
+		<term id="Military_Uniforms">
+			<preferredTerm>Military Uniforms</preferredTerm>
+			<parentTerm term_id="Equipment"/>
+		</term>
+		<term id="Ships">
+			<preferredTerm>Ships</preferredTerm>
+			<parentTerm term_id="Equipment"/>
+		</term>
+		<term id="Barracks">
+			<preferredTerm>Barracks</preferredTerm>
+			<parentTerm term_id="Military_History"/>
+		</term>
+		<term id="Discipline">
+			<preferredTerm>Discipline</preferredTerm>
+			<parentTerm term_id="Military_History"/>
+		</term>
+		<term id="Wars_Conflicts">
+			<preferredTerm>Wars and Conflicts</preferredTerm>
+			<parentTerm term_id="Military_History"/>
+		</term>
+		<term id="American_Revolutionary_War">
+			<preferredTerm>American Revolutionary War (1775-1783)</preferredTerm>
+			<parentTerm term_id="Wars_Conflicts"/>
+		</term>
+		<term id="Mexican_American_War">
+			<preferredTerm>Mexican-American War (1846-1848)</preferredTerm>
+			<parentTerm term_id="Wars_Conflicts"/>
+		</term>
+		<term id="Aztec Club">
+			<preferredTerm>Aztec Club</preferredTerm>
+			<parentTerm term_id="Mexican_American_War"/>
+		</term>
+		<term id="American_Civil_War">
+			<preferredTerm>American Civil War (1846-1848)</preferredTerm>
+			<parentTerm term_id="Wars_Conflicts"/>
+		</term>
+		<term id="Peninsula_Campaign">
+			<preferredTerm>Peninsula Campaign</preferredTerm>
+			<parentTerm term_id="American_Civil_War"/>
+		</term>
+		<term id="Pig_War">
+			<preferredTerm>Pig War (1859)</preferredTerm>
+			<parentTerm term_id="Wars_Conflicts"/>
+		</term>
+		<term id="Puget_Sound_War">
+			<preferredTerm>Puget Sound War (1855-1856)</preferredTerm>
+			<parentTerm term_id="Wars_Conflicts"/>
+		</term>
+		<term id="Second_Seminole_War">
+			<preferredTerm>Second Seminole War (1835-1842)</preferredTerm>
+			<parentTerm term_id="Wars_Conflicts"/>
+		</term>
+		<term id="Massacre_Wounded_Knee">
+			<preferredTerm>Massacre at Wounded Knee</preferredTerm>
+			<parentTerm term_id="Wars_Conflicts"/>
+		</term>
+		<term id="West_Point">
+			<preferredTerm>West Point</preferredTerm>
+			<parentTerm term_id="Military_History"/>
+		</term>
+		<term id="Organization">
+			<preferredTerm>Organization</preferredTerm>
+			<parentTerm term_id="Military_History"/>
+		</term>
+		<term id="1_Artillery_Regiment">
+			<preferredTerm>1st U.S. Artillery Regiment</preferredTerm>
+			<parentTerm term_id="Organization"/>
+		</term>
+		<term id="4_Infantry_Regiment">
+			<preferredTerm>4th U.S. Infantry Regiment</preferredTerm>
+			<parentTerm term_id="Organization"/>
+		</term>
+		<term id="9_Infantry_Regiment">
+			<preferredTerm>9th U.S. Infantry Regiment</preferredTerm>
+			<parentTerm term_id="Organization"/>
+		</term>
+		<term id="Washington_Territory_Volunteers">
+			<preferredTerm>Washington Territory Volunteers</preferredTerm>
+			<parentTerm term_id="Organization"/>
+		</term>
+		<term id="Puget_Sound_Rangers">
+			<preferredTerm>Puget Sound Rangers</preferredTerm>
+			<parentTerm term_id="Organization"/>
+		</term>
+		<term id="Washington_Mounted_Rifles">
+			<preferredTerm>Washington Mounted Rifles</preferredTerm>
+			<parentTerm term_id="Organization"/>
+		</term>
+		<term id="Social_Cultural_History">
+			<preferredTerm>Social and Cultural History</preferredTerm>
+		</term>
+		<term id="Religion">
+			<preferredTerm>Religion</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Christianity">
+			<preferredTerm>Christianity</preferredTerm>
+			<parentTerm term_id="Religion"/>
+		</term>
+		<term id="Catholicism">
+			<preferredTerm>Catholicism</preferredTerm>
+			<parentTerm term_id="Christianity"/>
+		</term>
+		<term id="Priesthood">
+			<preferredTerm>Priesthood</preferredTerm>
+			<parentTerm term_id="Catholicism"/>
+		</term>
+		<term id="Missionary">
+			<preferredTerm>Missionary</preferredTerm>
+			<parentTerm term_id="Christianity"/>
+		</term>
+		<term id="Protestantism">
+			<preferredTerm>Protestantism</preferredTerm>
+			<parentTerm term_id="Christianity"/>
+		</term>
+		<term id="Episcopal_Church">
+			<preferredTerm>Episcopal Church</preferredTerm>
+			<parentTerm term_id="Protestantism"/>
+		</term>
+		<term id="Methodist_Episcopal_Church">
+			<preferredTerm>Methodist Episcopal Church</preferredTerm>
+			<parentTerm term_id="Episcopal_Church"/>
+		</term>
+		<term id="Sanitation_Disease">
+			<preferredTerm>Sanitation and Disease</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Cholera">
+			<preferredTerm>Cholera</preferredTerm>
+			<parentTerm term_id="Sanitation_Disease"/>
+		</term>
+		<term id="Dysentery">
+			<preferredTerm>Dysentery</preferredTerm>
+			<parentTerm term_id="Sanitation_Disease"/>
+		</term>
+		<term id="Medicine">
+			<preferredTerm>Medicine</preferredTerm>
+			<parentTerm term_id="Sanitation_Disease"/>
+		</term>
+		<term id="Measles">
+			<preferredTerm>Measles</preferredTerm>
+			<parentTerm term_id="Sanitation_Disease"/>
+		</term>
+		<term id="Scurvy">
+			<preferredTerm>Scurvy</preferredTerm>
+			<parentTerm term_id="Sanitation_Disease"/>
+		</term>
+		<term id="Smallpox">
+			<preferredTerm>Smallpox</preferredTerm>
+			<parentTerm term_id="Sanitation_Disease"/>
+		</term>
+		<term id="Western_Sanitary_Commission">
+			<preferredTerm>Western Sanitation Commission</preferredTerm>
+			<parentTerm term_id="Sanitation_Disease"/>
+		</term>
+		<term id="Healthcare">
+			<preferredTerm>Healthcare</preferredTerm>
+			<parentTerm term_id="Sanitation_Disease"/>
+		</term>
+		<term id="Mental_Illness">
+			<preferredTerm>Mental Illness</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Holidays">
+			<preferredTerm>Holidays</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Christmas">
+			<preferredTerm>Christmas</preferredTerm>
+			<parentTerm term_id="Holidays"/>
+		</term>
+		<term id="Daily_Life">
+			<preferredTerm>Daily Life</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Domestic_Work">
+			<preferredTerm>Domestic Work</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Soap_Making">
+			<preferredTerm>Soap Making</preferredTerm>
+			<parentTerm term_id="Domestic_Work"/>
+		</term>
+		<term id="Laundry">
+			<preferredTerm>Laundry</preferredTerm>
+			<parentTerm term_id="Domestic_Work"/>
+		</term>
+		<term id="Dress">
+			<preferredTerm>Dress</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Men_Dress">
+			<preferredTerm>Men's Dress</preferredTerm>
+			<parentTerm term_id="Dress"/>
+		</term>
+		<term id="Women_Dress">
+			<preferredTerm>Women's Dress</preferredTerm>
+			<parentTerm term_id="Dress"/>
+		</term>
+		<term id="Entertainment">
+			<preferredTerm>Entertainment</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Social_Gathering">
+			<preferredTerm>Social Gathering</preferredTerm>
+			<parentTerm term_id="Entertainment"/>
+		</term>
+		<term id="Civic_Activities">
+			<preferredTerm>Civic Activities</preferredTerm>
+			<parentTerm term_id="Entertainment"/>
+		</term>
+		<term id="Theater">
+			<preferredTerm>Theater</preferredTerm>
+			<parentTerm term_id="Entertainment"/>
+		</term>
+		<term id="Dances">
+			<preferredTerm>Dances</preferredTerm>
+			<parentTerm term_id="Entertainment"/>
+		</term>
+		<term id="Newspapers">
+			<preferredTerm>Newspapers</preferredTerm>
+			<parentTerm term_id="Entertainment"/>
+		</term>
+		<term id="Puget_Sound_Courier">
+			<preferredTerm>Puget Sound Courier</preferredTerm>
+			<parentTerm term_id="Newspapers"/>
+		</term>
+		<term id="Columbian">
+			<preferredTerm>The Columbian</preferredTerm>
+			<parentTerm term_id="Newspapers"/>
+		</term>
+		<term id="Washington_Republican">
+			<preferredTerm>The Washington Republican</preferredTerm>
+			<parentTerm term_id="Newspapers"/>
+		</term>
+		<term id="Puget_Sound_Herald">
+			<preferredTerm>The Puget Sound Herald</preferredTerm>
+			<parentTerm term_id="Newspapers"/>
+		</term>
+		<term id="American_Ladies_Magazine">
+			<preferredTerm>American Ladies Magazine</preferredTerm>
+			<parentTerm term_id="Newspapers"/>
+		</term>
+		<term id="Godey_Lady_Book">
+			<preferredTerm>Godey's Lady's Book</preferredTerm>
+			<parentTerm term_id="Newspapers"/>
+		</term>
+		<term id="Ladies_Fashions">
+			<preferredTerm>Ladies Fashions</preferredTerm>
+			<parentTerm term_id="Newspapers"/>
+		</term>
+		<term id="Family_Life">
+			<preferredTerm>Family Life</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Childhood">
+			<preferredTerm>Childhood</preferredTerm>
+			<parentTerm term_id="Family_Life"/>
+		</term>
+		<term id="School">
+			<preferredTerm>School</preferredTerm>
+			<parentTerm term_id="Childhood"/>
+		</term>
+		<term id="Food">
+			<preferredTerm>Food</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Housing">
+			<preferredTerm>Housing</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Fiber_Arts">
+			<preferredTerm>Fiber Arts</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Textiles">
+			<preferredTerm>Textiles</preferredTerm>
+			<parentTerm term_id="Fiber_Arts"/>
+		</term>
+		<term id="Quilting">
+			<preferredTerm>Quilting</preferredTerm>
+			<parentTerm term_id="Textiles"/>
+		</term>
+		<term id="Sewing_Circles">
+			<preferredTerm>Sewing Circles</preferredTerm>
+			<parentTerm term_id="Textiles"/>
+		</term>
+		<term id="Recreation">
+			<preferredTerm>Recreation</preferredTerm>
+			<parentTerm term_id="Social_Cultural_History"/>
+		</term>
+		<term id="Weddings">
+			<preferredTerm>Weddings</preferredTerm>
+			<parentTerm term_id="Recreation"/>
+		</term>
+		<term id="Picnics">
+			<preferredTerm>Picnics</preferredTerm>
+			<parentTerm term_id="Recreation"/>
+		</term>
+		<term id="Walking">
+			<preferredTerm>Walking</preferredTerm>
+			<parentTerm term_id="Recreation"/>
+		</term>
+		<term id="Sleighing">
+			<preferredTerm>Sleighing</preferredTerm>
+			<parentTerm term_id="Recreation"/>
+		</term>
+		<term id="Fort_Steilacoom">
+			<preferredTerm>Fort Steilacoom</preferredTerm>
+		</term>
+		<term id="Historic_Fort_Steilacoom_Association">
+			<preferredTerm>Historic Fort Steilacoom Association (1983-present)</preferredTerm>
+			<parentTerm term_id="Fort_Steilacoom"/>
+		</term>
+		<term id="Preservation">
+			<preferredTerm>Preservation</preferredTerm>
+			<parentTerm term_id="Historic_Fort_Steilacoom_Association"/>
+		</term>
+		<term id="Programming">
+			<preferredTerm>Programming</preferredTerm>
+			<parentTerm term_id="Historic_Fort_Steilacoom_Association"/>
+		</term>
+		<term id="Centennial">
+			<preferredTerm>Centennial</preferredTerm>
+			<parentTerm term_id="Programming"/>
+		</term>
+		<term id="Reenactor">
+			<preferredTerm>Reenactor</preferredTerm>
+			<parentTerm term_id="Programming"/>
+		</term>
+		<term id="Presenter">
+			<preferredTerm>Presenter</preferredTerm>
+			<parentTerm term_id="Programming"/>
+		</term>
+		<term id="Restoration">
+			<preferredTerm>Restoration</preferredTerm>
+			<parentTerm term_id="Historic_Fort_Steilacoom_Association"/>
+		</term>
+		<term id="Fort_Steilacoom1849-1868">
+			<preferredTerm>Fort Steilacoom (1849-1868)</preferredTerm>
+			<parentTerm term_id="Fort_Steilacoom"/>
+		</term>
+		<term id="Fort_Steilacoom_Army_Post_Cemetery">
+			<preferredTerm>Fort Steilacoom Army Post Cemetery</preferredTerm>
+			<parentTerm term_id="Fort_Steilacoom"/>
+		</term>
+		<term id="Western_State_Hospital">
+			<preferredTerm>Western State Hospital (1871-Present)</preferredTerm>
+			<parentTerm term_id="Fort_Steilacoom"/>
+		</term>
+		<term id="Settler_Colonialism">
+			<preferredTerm>Settler-Colonialism</preferredTerm>
+		</term>
+		<term id="Oregon_Trail">
+			<preferredTerm>Oregon Trail</preferredTerm>
+			<parentTerm term_id="Settler_Colonialism"/>
+		</term>
+		<term id="Oregon_Territory">
+			<preferredTerm>Oregon Territory (1848-1859)</preferredTerm>
+			<parentTerm term_id="Settler-Colonialism"/>
+		</term>
+		<term id="Donation_Claim_Act">
+			<preferredTerm>Donation Claim Act of 1850</preferredTerm>
+			<parentTerm term_id="Oregon_Territory"/>
+		</term>
+		<term id="Oregon_Boundary_Dispute">
+			<preferredTerm>Oregon Boundary Dispute</preferredTerm>
+			<parentTerm term_id="Oregon_Territory"/>
+		</term>
+		<term id="Washingon_Territory">
+			<preferredTerm>Washington Territory (1853-1889)</preferredTerm>
+			<parentTerm term_id="Settler-Colonialism"/>
+		</term>
+		<term id="Washington_State">
+			<preferredTerm>Washington State (1889-Present)</preferredTerm>
+			<parentTerm term_id="Settler-Colonialism"/>
+		</term>
+		<term id="Settlers">
+			<preferredTerm>Settlers</preferredTerm>
+			<parentTerm term_id="Settler-Colonialism"/>
+		</term>
+		<term id="Economics">
+			<preferredTerm>Economics</preferredTerm>
+		</term>
+		<term id="Commerce">
+			<preferredTerm>Commerce</preferredTerm>
+			<parentTerm term_id="Economics"/>
+		</term>
+		<term id="Depression">
+			<preferredTerm>Depression</preferredTerm>
+			<parentTerm term_id="Economics"/>
+		</term>
+		<term id="Industries">
+			<preferredTerm>Industries</preferredTerm>
+			<parentTerm term_id="Economics"/>
+		</term>
+		<term id="Fur_Trade">
+			<preferredTerm>Fur Trade</preferredTerm>
+			<parentTerm term_id="Industries"/>
+		</term>
+		<term id="Railroads">
+			<preferredTerm>Railroads</preferredTerm>
+			<parentTerm term_id="Industries"/>
+		</term>
+		<term id="Whaling">
+			<preferredTerm>Whaling</preferredTerm>
+			<parentTerm term_id="Industries"/>
+		</term>
+		<term id="Tradespeople">
+			<preferredTerm>Tradespeople</preferredTerm>
+			<parentTerm term_id="Economics"/>
+		</term>
+		<term id="Argonauts">
+			<preferredTerm>Argonauts</preferredTerm>
+			<parentTerm term_id="Economics"/>
+		</term>
+		<term id="Engineering">
+			<preferredTerm>Engineering</preferredTerm>
+		</term>
+		<term id="Places">
+			<preferredTerm>Places</preferredTerm>
+		</term>
+		<term id="Forts">
+			<preferredTerm>Forts</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Fort_Nisqually">
+			<preferredTerm>Fort Nisqually</preferredTerm>
+			<parentTerm term_id="Forts"/>
+		</term>
+		<term id="Fort_Vancouver">
+			<preferredTerm>Fort Vancouver</preferredTerm>
+			<parentTerm term_id="Forts"/>
+		</term>
+		<term id="Fort_Walla_Walla">
+			<preferredTerm>Fort Walla Walla</preferredTerm>
+			<parentTerm term_id="Forts"/>
+		</term>
+		<term id="Fort_Hamilton">
+			<preferredTerm>Fort Hamilton</preferredTerm>
+			<parentTerm term_id="Forts"/>
+		</term>
+		<term id="Waiialatpu Mission">
+			<preferredTerm>Waiilatpu Mission</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Heath_Farm">
+			<preferredTerm>Joseph T. Heath Farm</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Muckelshoot_Prarie">
+			<preferredTerm>Muckelshoot Prarie</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Gravelly_Lake">
+			<preferredTerm>Gravelly Lake</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Puyallup_Valley">
+			<preferredTerm>Puyallup Valley</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Boatman_Answorth_House">
+			<preferredTerm>Boatman-Answorth House</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Port Steilacoom">
+			<preferredTerm>Port Steilacoom</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Steilacoom(town)">
+			<preferredTerm>Steilacoom (town)</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Chambers_Creek">
+			<preferredTerm>Chamber Creek</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Columbia_River">
+			<preferredTerm>Columbia River</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="White_River">
+			<preferredTerm>White River</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="San_Juan_Islands">
+			<preferredTerm>San Juan Islands</preferredTerm>
+			<parentTerm term_id="Places"/>
+		</term>
+		<term id="Indigenous_History">
+			<preferredTerm>Indigenous History</preferredTerm>
+		</term>
+		<term id="Cultural_Practice">
+			<preferredTerm>Cultural Practice</preferredTerm>
+			<parentTerm term_id="Indigenous_History"/>
+		</term>
+		<term id="Indigenous_Medicine">
+			<preferredTerm>Indigenous Medicine</preferredTerm>
+			<parentTerm term_id="Cultural_Practice"/>
+		</term>
+		<term id="Indigenous_Spiritual_Practices">
+			<preferredTerm>Indigenous Spiritual Practices</preferredTerm>
+			<parentTerm term_id="Cultural_Practice"/>
+		</term>
+		<term id="Nations_Peoples">
+			<preferredTerm>Nations and Peoples</preferredTerm>
+			<parentTerm term_id="Indigenous_History"/>
+		</term>
+		<term id="Cayuse">
+			<preferredTerm>Cayuse</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Cheyenne">
+			<preferredTerm>Cheyenne</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Chichasaw">
+			<preferredTerm>Chichasaw</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Chinook">
+			<preferredTerm>Chinook</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Choctaw">
+			<preferredTerm>Choctaw</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Creek">
+			<preferredTerm>Creek</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Dakota">
+			<preferredTerm>Dakota</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Delaware">
+			<preferredTerm>Deleware</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Duwamish">
+			<preferredTerm>Duwamish</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Haida">
+			<preferredTerm>Haida</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Klickitat">
+			<preferredTerm>Clickitat</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Miccosukee">
+			<preferredTerm>Miccosukee</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Minneconjou">
+			<preferredTerm>Minneconjou</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Nez_Perce">
+			<preferredTerm>Nez Perce</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Niscope">
+			<preferredTerm>Niscope</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Nisqually">
+			<preferredTerm>Nisqually</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Paiute">
+			<preferredTerm>Paiute</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Pawnee">
+			<preferredTerm>Pawnee</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Pict">
+			<preferredTerm>Pict</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Puyallup">
+			<preferredTerm>Puyallup</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Salish">
+			<preferredTerm>Salish</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Seminole">
+			<preferredTerm>Seminole</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Sioux">
+			<preferredTerm>Sioux</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Skewahamish">
+			<preferredTerm>Skewahamish</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Skykomish">
+			<preferredTerm>Skykomish</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Snoqualmie">
+			<preferredTerm>Snoqualmie</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Snohomish">
+			<preferredTerm>Snohomish</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Steilacoom">
+			<preferredTerm>Steilacoom</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Stikine_Tlingit">
+			<preferredTerm>Stikine Tlingit</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Squaxin_Island">
+			<preferredTerm>Squaxin Island</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Walla_Walla">
+			<preferredTerm>Walla Walla</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Yakima">
+			<preferredTerm>Yakima</preferredTerm>
+			<parentTerm term_id="Nations_Peoples"/>
+		</term>
+		<term id="Slavery">
+			<preferredTerm>Slavery</preferredTerm>
+		</term>
+		<term id="Self_Emancipated_Persons">
+			<preferredTerm>Self-Emancipated Persons</preferredTerm>
+			<parentTerm term_id="Slavery"/>
+		</term>
+		<term id="Legal_History">
+			<preferredTerm>Legal History</preferredTerm>
+		</term>
+		<term id="Trial">
+			<preferredTerm>Trial</preferredTerm>
+			<parentTerm term_id="Legal_History"/>
+		</term>
+		<term id="Chief_Leschi_Trial">
+			<preferredTerm>Chief Leschi Trial</preferredTerm>
+			<parentTerm term_id="Trial"/>
+		</term>
+		<term id="Truth_Teller">
+			<preferredTerm>Truth Teller</preferredTerm>
+			<parentTerm term_id="Chief_Leschi_Trial"/>
+		</term>
+		<term id="Historical_Court_Inquiry_Justice">
+			<preferredTerm>A Historical Court of Inquiry and Justice</preferredTerm>
+			<parentTerm term_id="Chief_Leschi_Trial"/>
+		</term>
+		<term id="White_River_Massacre">
+			<preferredTerm>White River Massacre (1885)</preferredTerm>
+		</term>
+		<term id="Whitman_Massacre">
+			<preferredTerm>Whitman Massacre (1857)</preferredTerm>
+		</term>
+		<term id="Womens_History">
+			<preferredTerm>Women's History</preferredTerm>
+		</term>
+		<term id="Women_Workers">
+			<preferredTerm>Women Workers</preferredTerm>
+			<parentTerm term_id="Womens_History"/>
+		</term>
+		<term id="Washerwomen">
+			<preferredTerm>Washerwomen</preferredTerm>
+			<parentTerm term_id="Women_Workers"/>
+		</term>
+		<term id="Domestic_Violence">
+			<preferredTerm>Domestic_Violence</preferredTerm>
+			<parentTerm term_id="Womens_History"/>
+		</term>
+		<term id="Obituary">
+			<preferredTerm>Obituary</preferredTerm>
+		</term>
+		<term id="Technology">
+			<preferredTerm>Technology</preferredTerm>
+		</term>
+		
+		
+		
+	</terms>
+</newsletterIndex>
