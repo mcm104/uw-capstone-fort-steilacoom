@@ -1,5 +1,6 @@
 <nameAuthorityFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="naf.xsd">
+	<!-- NOTE TO SELF: RESCUE MILES' COMMENTS FROM PREVIOUS COMMIT -->
 	<agents>
 		<agent id="Casey" agentType="family">
 			<preferredName>Casey</preferredName>
@@ -190,7 +191,9 @@
 		<agent id="Ellen_Monro_Flett" agentType="person">
 			<preferredName>Ellen Monro Flett</preferredName>
 			<family relatedAgent="Flett"/>
-
+			<dateOfBirth>
+				<approximateDate>1836</approximateDate>
+			</dateOfBirth>
 			<hasSpouse relatedAgent="John_Flett"/>
 		</agent>
 		<agent id="Anna_Flett_Champman" agentType="person">
@@ -220,7 +223,6 @@
 			<dateOfDeath>
 				<year>2001</year>
 			</dateOfDeath>
-
 			<dateOfMarriage relatedAgent="Adam_W_Freckleton">
 				<year>1936</year>
 			</dateOfMarriage>
@@ -713,7 +715,7 @@
 		</agent>
 		<agent id="Quiemuth" agentType="person">
 			<preferredName>Quiemuth</preferredName>
-			<biographicalInfo>Older brother of Cheif Leschi</biographicalInfo>
+			<biographicalInfo>Older brother of Chief Leschi</biographicalInfo>
 		</agent>
 		<agent id="Lashimere" agentType="person">
 			<preferredName>Lashimere</preferredName>
