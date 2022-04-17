@@ -15,6 +15,7 @@
                                         <xs:element name="preferredName"/>
                                         <xs:element maxOccurs="unbounded" minOccurs="0"
                                             name="alternateName"/>
+                                        <xs:element minOccurs="0" name="biographicalInfo"/>
                                         <xs:element maxOccurs="unbounded" minOccurs="0"
                                             name="family">
                                             <xs:complexType>
@@ -28,7 +29,21 @@
                                                 </xs:choice>
                                             </xs:complexType>
                                         </xs:element>
+                                        <xs:element minOccurs="0" name="startDate">
+                                            <xs:complexType>
+                                                <xs:choice>
+                                                  <xs:group ref="dates"/>
+                                                </xs:choice>
+                                            </xs:complexType>
+                                        </xs:element>
                                         <xs:element minOccurs="0" name="dateOfDeath">
+                                            <xs:complexType>
+                                                <xs:choice>
+                                                  <xs:group ref="dates"/>
+                                                </xs:choice>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element minOccurs="0" name="endDate">
                                             <xs:complexType>
                                                 <xs:choice>
                                                   <xs:group ref="dates"/>
