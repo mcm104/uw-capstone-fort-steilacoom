@@ -1,20 +1,9 @@
 <nameAuthorityFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="naf.xsd">
 	<agents>
-		<!-- <agent id='' agentType=''>
-			<preferredName></preferredName>
-			<alternateName/>
-			<parentTerm agent=''></parentTerm>
-			<relatedTerm agent=''></relatedTerm>
-			<scopeNotes/>
-			<definition/>
-			<sources>
-				<source uri=''/>
-			</sources>
-		</agent> -->
-
 		<agent id="Casey" agentType="family">
 			<preferredName>Casey</preferredName>
+			<biographicalInfo>Family of patriarch Silas Casey II</biographicalInfo>
 		</agent>
 
 		<agent id="Silas_Casey_II" agentType="person">
@@ -144,6 +133,7 @@
 		</agent>
 		<agent id="Bachelder" agentType="family">
 			<preferredName>Bachelder</preferredName>
+			<biographicalInfo>Family of patriarch James Bachelder</biographicalInfo>
 		</agent>
 		<agent id="James_M_Bachelder" agentType="person">
 			<preferredName>James M. Bachelder</preferredName>
@@ -174,22 +164,23 @@
 			<preferredName>Edward M. Bachelder</preferredName>
 			<family relatedAgent="Bachelder"/>
 			<hasParent relatedAgent="James_M_Bachelder"/>
-			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>			
+			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>
 		</agent>
 		<agent id="Horace_W_Bachelder" agentType="person">
 			<preferredName>Horace W. Bachelder</preferredName>
 			<family relatedAgent="Bachelder"/>
 			<hasParent relatedAgent="James_M_Bachelder"/>
-			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>				
+			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>
 		</agent>
 		<agent id="Mrs_E_F_Cathart" agentType="person">
 			<preferredName> Mrs. E. F. Cathart</preferredName>
 			<family relatedAgent="Bachelder"/>
 			<hasParent relatedAgent="James_M_Bachelder"/>
-			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>				
+			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>
 		</agent>
 		<agent id="Flett" agentType="family">
 			<preferredName>Flett</preferredName>
+			<biographicalInfo>Family of patriarch John Flett</biographicalInfo>
 		</agent>
 		<agent id="John_Flett" agentType="person">
 			<preferredName> John Flett</preferredName>
@@ -199,7 +190,7 @@
 		<agent id="Ellen_Monro_Flett" agentType="person">
 			<preferredName>Ellen Monro Flett</preferredName>
 			<family relatedAgent="Flett"/>
-			<!--date in spreadsheet (1836) with letter "c"!-->
+
 			<hasSpouse relatedAgent="John_Flett"/>
 		</agent>
 		<agent id="Anna_Flett_Champman" agentType="person">
@@ -229,7 +220,7 @@
 			<dateOfDeath>
 				<year>2001</year>
 			</dateOfDeath>
-			<!--Speculated date of marriage based of Adam Freckleton Record!-->
+
 			<dateOfMarriage relatedAgent="Adam_W_Freckleton">
 				<year>1936</year>
 			</dateOfMarriage>
@@ -247,6 +238,7 @@
 		</agent>
 		<agent id="Kautz" agentType="family">
 			<preferredName>Kautz</preferredName>
+			<biographicalInfo>Family of patriach Augus Valentine Kautz</biographicalInfo>
 		</agent>
 		<agent id="August_Valentine_Kautz" agentType="person">
 			<preferredName>August Valentine Kautz</preferredName>
@@ -280,7 +272,7 @@
 			<preferredName>Augustus</preferredName>
 			<family relatedAgent="Kautz"/>
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
-			<hasParent relatedAgent="Kitty"/>			
+			<hasParent relatedAgent="Kitty"/>
 		</agent>
 		<agent id="Charlotte_Todd_Kautz" agentType="person">
 			<preferredName>Charlotte Todd Kautz</preferredName>
@@ -323,7 +315,7 @@
 				<year>1875</year>
 			</dateOfBirth>
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
-			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>			
+			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>
 		</agent>
 		<agent id="Navarra_Kautz" agentType="person">
 			<preferredName>Navarra Kautz</preferredName>
@@ -332,9 +324,9 @@
 				<year>1880</year>
 			</dateOfBirth>
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
-			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>	
+			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>
 		</agent>
-<!--END OF FAMILY AGENDS. NON FAMILY AGENTS BELOW!-->
+
 		<agent id="Isaac_Ingalls_Stevens" agentType="person">
 			<preferredName>Isaac Ingalls Stevens</preferredName>
 			<dateOfBirth>
@@ -357,26 +349,34 @@
 		</agent>
 		<agent id="Joseph_Thomas_Heath" agentType="person">
 			<preferredName>Joseph Thomas Heath</preferredName>
+			<biographicalInfo>Tenant farmer of land which later became the site for Fort
+				Steilacoom</biographicalInfo>
 		</agent>
 		<agent id="Abraham_Benton_Moses" agentType="person">
 			<preferredName>Abraham Benton Moses</preferredName>
 		</agent>
 		<agent id="Abraham_Lincoln" agentType="person">
 			<preferredName>Abraham Lincoln</preferredName>
-			<!--Consider adding additional detail here!-->
+
+			<biographicalInfo>16th President of the United States 1861- his death in
+				1865</biographicalInfo>
 		</agent>
 		<agent id="Bennet_Hill" agentType="person">
 			<preferredName>Bennet Hill</preferredName>
 		</agent>
 		<agent id="Big_Foot" agentType="person">
-		<!--What?!-->
+
 			<preferredName>Big Foot</preferredName>
+			<biographicalInfo>Alleged human-like creature of North American
+				folklore.</biographicalInfo>
 		</agent>
 		<agent id="Caroline_Light" agentType="person">
 			<preferredName>Caroline Light</preferredName>
 		</agent>
 		<agent id="Charles_H_Mason" agentType="person">
 			<preferredName>Charles H. Mason</preferredName>
+			<biographicalInfo>oliness-Pentecostal pastor and minister. Founder and first Senior
+				Bishop of the Church of God in Christ</biographicalInfo>
 		</agent>
 		<agent id="Charles_Prosch" agentType="person">
 			<preferredName>Charles Porsch</preferredName>
@@ -437,10 +437,13 @@
 		</agent>
 		<agent id="Benjamin_Alvord" agentType="person">
 			<preferredName>Benjamin Alvord</preferredName>
+			<biographicalInfo>American soldier, mathemetician, and botanist</biographicalInfo>
 			<hasSpouse relatedAgent="Emily_Alvord"/>
 		</agent>
 		<agent id="Erasmus_D_Keyes" agentType="person">
 			<preferredName>Erasmus D. Keyes</preferredName>
+			<biographicalInfo>Served at Ft. Steilacoom as commander of Company M, 3rd Artillery
+				beginning in November 1855&#8211;Spring 1856</biographicalInfo>
 		</agent>
 		<agent id="Horatio_G_Pitcher" agentType="person">
 			<preferredName>Horatio G. Pitcher</preferredName>
@@ -461,9 +464,12 @@
 		</agent>
 		<agent id="John_Swan" agentType="person">
 			<preferredName>John Swan</preferredName>
+			<biographicalInfo>Indian Agent in the Washington territory</biographicalInfo>
 		</agent>
 		<agent id="Joseph_Lane" agentType="person">
 			<preferredName>Joseph Lane</preferredName>
+			<biographicalInfo>American politician and soldier appointed as the first Governor of
+				Oregon Territory.</biographicalInfo>
 		</agent>
 		<agent id="William_H_Archbold" agentType="person">
 			<preferredName>William H. Archbold</preferredName>
@@ -473,20 +479,25 @@
 		</agent>
 		<agent id="Lafayette_Balch" agentType="person">
 			<preferredName>Lafayette Balch</preferredName>
+			<biographicalInfo>European-American settlement at Steilacoom began with Lafayette Balch,
+				a sea captain from Maine,</biographicalInfo>
 		</agent>
 		<agent id="Mrs_Stephen_Barker" agentType="person">
 			<preferredName>Mrs. Stephen Barker</preferredName>
 			<hasSpouse relatedAgent="Stephen_Barker"/>
 		</agent>
-		<!--Added to Stephen Barker to complete Mrs. Stephen Barker record reference!-->
+
 		<agent id="Stephen_Barker" agentType="person">
 			<preferredName>Stephen Barker</preferredName>
 			<hasSpouse relatedAgent="Mrs_Stephen_Barker"/>
 		</agent>
 		<agent id="John_Baptist_Brondel" agentType="person">
 			<preferredName>John Baptist Brondel</preferredName>
+			<biographicalInfo>A Belgian-born prelate of the Catholic Church. He served in Canada as
+				Bishop of Vancouver Island (1879&#8211;83) and in the United States as Bishop of
+				Helena (1884&#8211;1903).</biographicalInfo>
 		</agent>
-		<!--Mrs E F Cathart listed in spreadsheet here. Already in Bachelder family records!-->
+
 		<agent id="Thomas_English" agentType="person">
 			<preferredName> Thomas English</preferredName>
 			<hasSpouse relatedAgent="Mrs_English"/>
@@ -530,6 +541,8 @@
 		</agent>
 		<agent id="James_Jim_McAllister" agentType="person">
 			<preferredName>James "Jim" McAllister</preferredName>
+			<alternateName>James McAllister</alternateName>
+			<alternateName>Jim McAllister</alternateName>
 			<dateOfBirth>
 				<year>1812</year>
 			</dateOfBirth>
@@ -540,10 +553,16 @@
 		</agent>
 		<agent id="Eliza_C_Porter" agentType="person">
 			<preferredName>Eliza C. Porter</preferredName>
+			<biographicalInfo>First public school teacher in Chicago, at Fort Dearborn, established
+				normal schools, educated settlers and American Indians at Mackinac Island, aided the
+				wounded during the American Civil War as a member of the U.S. Sanitary Commission,
+				participated in the Underground Railroad, and taught freedmen.</biographicalInfo>
 			<hasSpouse relatedAgent="Jeremiah_Porter"/>
 		</agent>
 		<agent id="Jeremiah_Porter" agentType="person">
 			<preferredName>Jeremiah Porter</preferredName>
+			<biographicalInfo>Reverend Jeremiah Porter, a Yankee Presbyterian evangelist, is
+				considered Chicago's First Reformer</biographicalInfo>
 			<hasSpouse relatedAgent="Eliza_C_Porter"/>
 		</agent>
 		<agent id="Maryann_Reed" agentType="person">
@@ -551,6 +570,9 @@
 		</agent>
 		<agent id="Louis_Rossi" agentType="person">
 			<preferredName>Louis Rossi</preferredName>
+			<biographicalInfo>A Catholic missionary priest who ministered for just over three years,
+				from 1856 to 1860 in Washington Territory and then for almost three more years in
+				northern California.</biographicalInfo>
 		</agent>
 		<agent id="Philip_Phil_Sheridan" agentType="person">
 			<preferredName>Philip "Phil" Sheridan</preferredName>
@@ -560,20 +582,31 @@
 		</agent>
 		<agent id="Mary_Wells_Slaughter" agentType="person">
 			<preferredName>Mary Wells Slaughter</preferredName>
-			<dateOfBirth><year>1832</year></dateOfBirth>
-			<dateOfDeath><year>1862</year></dateOfDeath>
+			<dateOfBirth>
+				<year>1832</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1862</year>
+			</dateOfDeath>
 		</agent>
 		<agent id="William_Alloway_Slaughter" agentType="person">
 			<preferredName>William Alloway Slaughter</preferredName>
-			<dateOfBirth><year>1827</year></dateOfBirth>
-			<dateOfDeath><year>1855</year></dateOfDeath>
+			<dateOfBirth>
+				<year>1827</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1855</year>
+			</dateOfDeath>
 		</agent>
 		<agent id="Margaret_Whitesell_Taylor" agentType="person">
 			<preferredName>Margaret Whitesell Taylor</preferredName>
-			<dateOfMarriage><year>1883</year></dateOfMarriage>
+			<dateOfMarriage>
+				<year>1883</year>
+			</dateOfMarriage>
 		</agent>
 		<agent id="Miss_Teen" agentType="person">
 			<preferredName>Miss Teen</preferredName>
+			<biographicalInfo>Dear friend of Edward Porter Alexander</biographicalInfo>
 		</agent>
 		<agent id="Abraham_Salatat" agentType="person">
 			<preferredName>Abraham Salat</preferredName>
@@ -581,29 +614,38 @@
 		</agent>
 		<agent id="William_H_Wallace" agentType="person">
 			<preferredName>William H Wallace</preferredName>
-			<dateOfBirth><year>1811</year></dateOfBirth>
-			<dateOfDeath><year>1878</year></dateOfDeath>
+			<dateOfBirth>
+				<year>1811</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1878</year>
+			</dateOfDeath>
 			<hasSpouse relatedAgent="Luzanne_Luzena_Brazelton_Wallace"/>
 		</agent>
 		<agent id="Luzanne_Luzena_Brazelton_Wallace" agentType="person">
 			<preferredName> Luzanne "Luzena" Brazelton Wallace</preferredName>
 			<hasSpouse relatedAgent="William_H_Wallace"/>
 		</agent>
-		<!--skipping Big Foot, already in database!-->
+
 		<agent id="Kanasket" agentType="person">
 			<preferredName>Kasnasket</preferredName>
 		</agent>
 		<agent id="Kitsap" agentType="person">
 			<preferredName>Kitsap</preferredName>
+			<biographicalInfo>War chief of the Suquamish tribe.</biographicalInfo>
 		</agent>
 		<agent id="Lakalet" agentType="person">
 			<preferredName>Lakalet</preferredName>
 		</agent>
 		<agent id="Lame_Deer" agentType="person">
 			<preferredName>Lame Deer</preferredName>
+			<biographicalInfo>1st chief of the Minneconjon band of Dakota or Sioux Indians. Second
+				signatory of the 1865 Treaty with the Minneconjon Indians</biographicalInfo>
 		</agent>
 		<agent id="Leschi" agentType="person">
 			<preferredName>Leschi</preferredName>
+			<biographicalInfo>War chief of the Nisqually Tribe; accused, tried, and convicted of the
+				murder of two militiamen in a skirmish with his people.</biographicalInfo>
 		</agent>
 		<agent id="Plenty_Horses" agentType="person">
 			<preferredName>Plenty Horses</preferredName>
@@ -611,6 +653,8 @@
 		</agent>
 		<agent id="Red_Cloud" agentType="person">
 			<preferredName>Red Cloud</preferredName>
+			<biographicalInfo>One of the most important leaders of the Oglala Lakota from 1868 to
+				1909. </biographicalInfo>
 		</agent>
 		<agent id="Shot_Face_Charlie" agentType="person">
 			<preferredName>Shot-Face Charlie</preferredName>
@@ -623,6 +667,9 @@
 		</agent>
 		<agent id="John_Ector" agentType="person">
 			<preferredName>John Ector</preferredName>
+			<biographicalInfo>Brother in law of Paymaster Major A.B. Ragan. Ector suffered from some
+				form of mental illness which resulted in violent outbursts and eventually led to his
+				being admitted to an asylum. </biographicalInfo>
 		</agent>
 		<agent id="George_M_Berry" agentType="person">
 			<preferredName>Goerge M. Berry</preferredName>
@@ -632,15 +679,25 @@
 		</agent>
 		<agent id="Joseph_Miles" agentType="person">
 			<preferredName>Joseph Miles</preferredName>
+			<biographicalInfo>Militiaman in the citizen militia of Captain Charles Eaton; killed in
+				a skirmish with the Nisqually people, and whose death was blamed on Chief
+				Leschi</biographicalInfo>
 		</agent>
 		<agent id="Michael_Luark" agentType="person">
 			<preferredName>Michael Luark</preferredName>
+			<biographicalInfo>An early settler who was hired in 1854 to work on the construction of
+				the Steilacoom Court house</biographicalInfo>
 		</agent>
 		<agent id="George_McClellan" agentType="person">
 			<preferredName>George McClellan</preferredName>
+			<biographicalInfo>American soldier, Civil War Union general, civil engineer, railroad
+				executive, and politician who served as the 24th governor of New
+				Jersey.</biographicalInfo>
 		</agent>
 		<agent id="Richard_Arnold" agentType="person">
 			<preferredName>Richard Arnold</preferredName>
+			<biographicalInfo>In charge of construction at Fort Steilacoom 1854 &#8211;
+				1855</biographicalInfo>
 		</agent>
 		<agent id="C_H_Lanard" agentType="person">
 			<preferredName>C. H. Lanard</preferredName>
@@ -650,24 +707,36 @@
 		</agent>
 		<agent id="Mother_Joseph" agentType="person">
 			<preferredName>Mother Joseph</preferredName>
+			<biographicalInfo>A Canadian Religious Sister who led a group of the members of her
+				congregation to the Pacific Northwest of the United States and established a network
+				of schools and healthcare to service the American settlers</biographicalInfo>
 		</agent>
 		<agent id="Quiemuth" agentType="person">
 			<preferredName>Quiemuth</preferredName>
+			<biographicalInfo>Older brother of Cheif Leschi</biographicalInfo>
 		</agent>
 		<agent id="Lashimere" agentType="person">
 			<preferredName>Lashimere</preferredName>
 		</agent>
 		<agent id="John_Fulton_Reynolds" agentType="person">
 			<preferredName>John Fulton Reynolds</preferredName>
+			<biographicalInfo>A career United States Army officer and a general in the American
+				Civil War.</biographicalInfo>
 		</agent>
 		<agent id="Charles_Wilkes" agentType="person">
 			<preferredName>Charles Wilkes</preferredName>
+			<biographicalInfo>American naval officer, ship's captain, and
+				explorer.</biographicalInfo>
 		</agent>
 		<agent id="Charles_Eaton" agentType="person">
 			<preferredName>Charles Eaton</preferredName>
+			<biographicalInfo>Captain of citizen militia "Eaton's Rangers"</biographicalInfo>
 		</agent>
 		<agent id="Marcus_Whitman" agentType="person">
 			<preferredName>Marcus Whitman</preferredName>
+			<biographicalInfo>An American physician and missionary who was killed, along with his
+				wife and 11 other settlers, by a group of Cayuse peoples in an event that came to be
+				known as the Whitman Massacre</biographicalInfo>
 		</agent>
 	</agents>
 </nameAuthorityFile>
