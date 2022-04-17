@@ -325,7 +325,7 @@
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
 			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>			
 		</agent>
-		<agent id="Navarra Kautz" agentType="person">
+		<agent id="Navarra_Kautz" agentType="person">
 			<preferredName>Navarra Kautz</preferredName>
 			<family relatedAgent="Kautz"/>
 			<dateOfBirth>
@@ -340,9 +340,9 @@
 			<dateOfBirth>
 				<year>1818</year>
 			</dateOfBirth>
-			<dateOfBirth>
+			<dateOfDeath>
 				<year>1862</year>
-			</dateOfBirth>
+			</dateOfDeath>
 			<dateOfMarriage relatedAgent="Margaret_Meg_Hazard_Stevens">
 				<year>1841</year>
 			</dateOfMarriage>
@@ -566,7 +566,7 @@
 		<agent id="William_Alloway_Slaughter" agentType="person">
 			<preferredName>William Alloway Slaughter</preferredName>
 			<dateOfBirth><year>1827</year></dateOfBirth>
-			<dateofDeath><year>1855</year></dateofDeath>
+			<dateOfDeath><year>1855</year></dateOfDeath>
 		</agent>
 		<agent id="Margaret_Whitesell_Taylor" agentType="person">
 			<preferredName>Margaret Whitesell Taylor</preferredName>
@@ -581,8 +581,8 @@
 		</agent>
 		<agent id="William_H_Wallace" agentType="person">
 			<preferredName>William H Wallace</preferredName>
-			<dateofBirth><year>1811</year></dateofBirth>
-			<dateofDeath><year>1878</year></dateofDeath>
+			<dateOfBirth><year>1811</year></dateOfBirth>
+			<dateOfDeath><year>1878</year></dateOfDeath>
 			<hasSpouse relatedAgent="Luzanne_Luzena_Brazelton_Wallace"/>
 		</agent>
 		<agent id="Luzanne_Luzena_Brazelton_Wallace" agentType="person">

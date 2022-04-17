@@ -173,7 +173,7 @@
 			<preferredTerm>Mexican-American War (1846-1848)</preferredTerm>
 			<parentTerm term_id="Wars_Conflicts"/>
 		</term>
-		<term id="Aztec Club">
+		<term id="Aztec_Club">
 			<preferredTerm>Aztec Club</preferredTerm>
 			<parentTerm term_id="Mexican_American_War"/>
 		</term>
@@ -209,15 +209,15 @@
 			<preferredTerm>Organization</preferredTerm>
 			<parentTerm term_id="Military_History"/>
 		</term>
-		<term id="1_Artillery_Regiment">
+		<term id="First_Artillery_Regiment">
 			<preferredTerm>1st U.S. Artillery Regiment</preferredTerm>
 			<parentTerm term_id="Organization"/>
 		</term>
-		<term id="4_Infantry_Regiment">
+		<term id="Fourth_Infantry_Regiment">
 			<preferredTerm>4th U.S. Infantry Regiment</preferredTerm>
 			<parentTerm term_id="Organization"/>
 		</term>
-		<term id="9_Infantry_Regiment">
+		<term id="Ninth_Infantry_Regiment">
 			<preferredTerm>9th U.S. Infantry Regiment</preferredTerm>
 			<parentTerm term_id="Organization"/>
 		</term>
@@ -504,7 +504,7 @@
 		</term>
 		<term id="Oregon_Territory">
 			<preferredTerm>Oregon Territory (1848-1859)</preferredTerm>
-			<parentTerm term_id="Settler-Colonialism"/>
+			<parentTerm term_id="Settler_Colonialism"/>
 		</term>
 		<term id="Donation_Claim_Act">
 			<preferredTerm>Donation Claim Act of 1850</preferredTerm>
@@ -516,15 +516,15 @@
 		</term>
 		<term id="Washingon_Territory">
 			<preferredTerm>Washington Territory (1853-1889)</preferredTerm>
-			<parentTerm term_id="Settler-Colonialism"/>
+			<parentTerm term_id="Settler_Colonialism"/>
 		</term>
 		<term id="Washington_State">
 			<preferredTerm>Washington State (1889-Present)</preferredTerm>
-			<parentTerm term_id="Settler-Colonialism"/>
+			<parentTerm term_id="Settler_Colonialism"/>
 		</term>
 		<term id="Settlers">
 			<preferredTerm>Settlers</preferredTerm>
-			<parentTerm term_id="Settler-Colonialism"/>
+			<parentTerm term_id="Settler_Colonialism"/>
 		</term>
 		<term id="Economics">
 			<preferredTerm>Economics</preferredTerm>
@@ -587,7 +587,7 @@
 			<preferredTerm>Fort Hamilton</preferredTerm>
 			<parentTerm term_id="Forts"/>
 		</term>
-		<term id="Waiialatpu Mission">
+		<term id="Waiialatpu_Mission">
 			<preferredTerm>Waiilatpu Mission</preferredTerm>
 			<parentTerm term_id="Places"/>
 		</term>
@@ -611,11 +611,11 @@
 			<preferredTerm>Boatman-Answorth House</preferredTerm>
 			<parentTerm term_id="Places"/>
 		</term>
-		<term id="Port Steilacoom">
+		<term id="Port_Steilacoom">
 			<preferredTerm>Port Steilacoom</preferredTerm>
 			<parentTerm term_id="Places"/>
 		</term>
-		<term id="Steilacoom(town)">
+		<term id="Steilacoom_town">
 			<preferredTerm>Steilacoom (town)</preferredTerm>
 			<parentTerm term_id="Places"/>
 		</term>
