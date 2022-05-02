@@ -44,6 +44,11 @@
 			<parentTerm term_id="Politics"/>
 		</term>
 
+		<term id="Indian_Agent">
+			<preferredTerm>Indian Agent</preferredTerm>
+			<parentTerm termid="US-Indigenous_Relations"/>
+			<definition>An individual authorized to interact with American Indian tribes on behalf of the government.</definition>
+		</term>
 		<term id="American_Indian_Removal">
 			<preferredTerm>American Indian Removal (1830-1847)</preferredTerm>
 			<parentTerm term_id="US-Indigenous_Relations"/>
@@ -921,7 +926,7 @@
 				years</definition>
 		</term>
 		<term id="Klickitat">
-			<preferredTerm>Clickitat</preferredTerm>
+			<preferredTerm>Klickitat</preferredTerm>
 			<parentTerm term_id="Nations_Peoples"/>
 		</term>
 		<term id="Miccosukee">
@@ -1093,7 +1098,8 @@
 			<preferredTerm>White River Massacre (1885)</preferredTerm>
 		</term>
 		<term id="Whitman_Massacre">
-			<preferredTerm>Whitman Massacre (1857)</preferredTerm>
+			<preferredTerm>Whitman Massacre (1847)</preferredTerm>
+			<definition>The killing of the Washington missionaries Marcus Whitman and his wife Narcissa, along with eleven others, on November 29, 1847 by members of the Cayuse tribe who accused Whitman of having poisoned 200 Cayuse in his medical care; launched the Cayuse War.</definition>
 		</term>
 		<term id="Womens_History">
 			<preferredTerm>Women's History</preferredTerm>

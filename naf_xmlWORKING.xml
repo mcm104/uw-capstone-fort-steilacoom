@@ -501,7 +501,7 @@
 		</agent>
 
 		<agent id="Thomas_English" agentType="person">
-			<preferredName> Thomas English</preferredName>
+			<preferredName>Thomas English</preferredName>
 			<hasSpouse relatedAgent="Mrs_English"/>
 		</agent>
 		<agent id="Mrs_English" agentType="person">
@@ -524,7 +524,7 @@
 			<preferredName>Mrs. Phillip Keach</preferredName>
 		</agent>
 		<agent id="Maurice_Maloney" agentType="person">
-			<preferredName>Maurice_Maloney</preferredName>
+			<preferredName>Maurice Maloney</preferredName>
 			<hasSpouse relatedAgent="Mrs_Maloney"/>
 		</agent>
 		<agent id="Mrs_Maloney" agentType="person">
