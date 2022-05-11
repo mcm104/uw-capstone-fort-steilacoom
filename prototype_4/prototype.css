@@ -37,3 +37,11 @@ ul, #index {
 .active {
   display: block;
 }
+
+h1, h2 {
+    font-family: 'mate sc',Helvetica,Arial,sans-serif;
+}
+
+p, li {
+    font-family: georgia, Helvetica, Arial, sans-serif
+}

@@ -19,7 +19,8 @@
                 style="width: 100%; max-width: 1000px; margin: 0 auto; border: 1px solid gray; overflow:hidden; background-color: white;">
                 <div class="navigation"
                     style="float: left; height: 480px; background-color: #F8F6F2; border-style: solid; border-color: #D5552B; border-width: 1px; padding: 20px; margin: 2px; height: auto; width: 25%">
-                    <link href="dropdown_menu.css" rel="stylesheet"/>
+                    <link href="prototype.css" rel="stylesheet"/>
+                    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mate+SC"/>
                     <h1>Browse...</h1>
                     <!-- List people -->
                     <div>
@@ -46,7 +47,7 @@
                             </li>
                         </ul>
                     </div>
-                    
+
                     <!-- List families -->
                     <div>
                         <ul id="index">
@@ -72,7 +73,7 @@
                             </li>
                         </ul>
                     </div>
-                    
+
                     <!-- List corporations -->
                     <div>
                         <ul id="index">
@@ -98,7 +99,7 @@
                             </li>
                         </ul>
                     </div>
-                    
+
                     <!-- List topics -->
                     <div>
                         <ul id="index">
@@ -121,7 +122,7 @@
                             </li>
                         </ul>
                     </div>
-                    
+
                     <!-- List demographics -->
                     <div>
                         <ul id="index">
@@ -138,23 +139,25 @@
                                             select="$lcdgt/rdf:RDF/madsrdf:Authority[@rdf:about = $lcdgt_uri]/madsrdf:authoritativeLabel"/>
                                         <li>
                                             <span class="caret">
-                                                <xsl:value-of select="$lcdgt_label"/> (<xsl:value-of select="count($naf_xml/nameAuthorityFile/agents/agent/demographicTerm[@uri=$lcdgt_uri])"/>)
-                                            </span>
+                                                <xsl:value-of select="$lcdgt_label"/> (<xsl:value-of
+                                                  select="count($naf_xml/nameAuthorityFile/agents/agent/demographicTerm[@uri = $lcdgt_uri])"
+                                                />) </span>
                                             <ul class="nested">
                                                 <xsl:for-each
-                                                    select="$naf_xml/nameAuthorityFile/agents/agent[demographicTerm/@uri = $lcdgt_uri]">
-                                                    <xsl:sort select="preferredName"/>
-                                                    <xsl:variable name="agent_name"
-                                                        select="preferredName"/>
-                                                    <xsl:variable name="agent_id" select="@id"/>
-                                                    <xsl:variable name="newsletter_xml"
-                                                        select="document('../newsletter_table.xml')"/>
-                                                    <xsl:variable name="num_of_newsletters" select="$newsletter_xml/newsletters/newsletter[keywords/keyword=$agent_name]"/>
-                                                    <li>
-                                                        <a href="#{$agent_id}">
-                                                            <xsl:value-of select="$agent_name"/>
-                                                        </a> (<xsl:value-of select="count($num_of_newsletters)"/>)
-                                                    </li>
+                                                  select="$naf_xml/nameAuthorityFile/agents/agent[demographicTerm/@uri = $lcdgt_uri]">
+                                                  <xsl:sort select="preferredName"/>
+                                                  <xsl:variable name="agent_name"
+                                                  select="preferredName"/>
+                                                  <xsl:variable name="agent_id" select="@id"/>
+                                                  <xsl:variable name="newsletter_xml"
+                                                  select="document('../newsletter_table.xml')"/>
+                                                  <xsl:variable name="num_of_newsletters"
+                                                  select="$newsletter_xml/newsletters/newsletter[keywords/keyword = $agent_name]"/>
+                                                  <li>
+                                                  <a href="#{$agent_id}">
+                                                  <xsl:value-of select="$agent_name"/>
+                                                  </a> (<xsl:value-of
+                                                  select="count($num_of_newsletters)"/>) </li>
                                                 </xsl:for-each>
                                             </ul>
                                         </li>
@@ -162,16 +165,17 @@
                                 </ul>
                             </li>
                         </ul>
-                        <script type="text/javascript" src="dropdown_menu.js">
-                            &amp;#160;</script>
+                        <script type="text/javascript" src="prototype.js">
+&amp;#160;</script>
                     </div>
-                    <script type="text/javascript" src="dropdown_menu.js">&amp;#160;</script>
+                    <script type="text/javascript" src="prototype.js">
+&amp;#160;</script>
                 </div>
                 <div class="index_entries"
                     style="float: right; height: 480px; background-color: #F8F6F2; border-style: solid; border-color: #D5552B; border-width: 1px; padding: 20px; margin: 2px; height: auto; width: 65%">
                     <xsl:call-template name="create_index_entries"/>
                 </div>
-                <script type="text/javascript" src="dropdown_menu.js">
+                <script type="text/javascript" src="prototype.js">
 &amp;#160;</script>
             </div>
         </xsl:result-document>
@@ -645,14 +649,13 @@
                     </p>
                 </xsl:if>
                 <xsl:variable name="newsletter_xml" select="document('../newsletter_table.xml')"/>
-                <xsl:if
-                    test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $preferred_name">
-                    <h2>Newsletters featuring <xsl:value-of select="$preferred_name"/></h2>
+                <h2>Newsletters</h2>
+                <div>
                     <xsl:call-template name="featured_newsletters">
                         <xsl:with-param name="current_term" select="$preferred_name"/>
                         <xsl:with-param name="term_type" select="'corporation'"/>
                     </xsl:call-template>
-                </xsl:if>
+                </div>
                 <a href="#top">Return to top</a>
                 <br/>
                 <br/>
@@ -704,14 +707,13 @@
                 </xsl:if>
                 <xsl:variable name="newsletter_xml" select="document('../newsletter_table.xml')"/>
                 <xsl:variable name="current_term" select="preferredTerm"/>
-                <xsl:if
-                    test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $current_term">
-                    <h2>Newsletters</h2>
+                <h2>Newsletters</h2>
+                <div>
                     <xsl:call-template name="featured_newsletters">
                         <xsl:with-param name="current_term" select="$current_term"/>
                         <xsl:with-param name="term_type" select="'topic'"/>
                     </xsl:call-template>
-                </xsl:if>
+                </div>
                 <xsl:if test="sources">
                     <h2>Source(s)</h2>
                     <ul>
@@ -949,8 +951,7 @@
                     <ul id="index">
                         <!-- Newsletters about other subjects with the same demographic term(s) -->
                         <li>
-                            <span class="caret">Newsletters about subjects from similar
-                                demographics</span>
+                            <span class="caret">Subjects from similar demographics</span>
                             <ul class="nested">
                                 <xsl:for-each
                                     select="$naf_xml/nameAuthorityFile/agents/agent[preferredName = $current_term]/demographicTerm[@uri]">
@@ -980,6 +981,269 @@
                                                   </a>
                                                   </li>
                                                 </xsl:for-each>
+                                            </ul>
+                                        </li>
+                                    </xsl:if>
+                                </xsl:for-each>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </xsl:if>
+        </xsl:if>
+
+        <!-- Additional options if subject is a topic -->
+        <xsl:if test="$term_type = 'topic'">
+            <!-- For subjects with broader terms... -->
+            <xsl:variable name="index_xml" select="document('../index_xmlWORKING.xml')"/>
+            <!-- Current term is Tier 6 or higher -->
+            <!-- Parent of tier 6+ (tier 5 or higher) -->
+            <xsl:variable name="parent_id_1"
+                select="$index_xml/newsletterIndex/terms/term[preferredTerm = $current_term]/parentTerm/@term_id"/>
+            <xsl:variable name="parent_name_1"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_1]/preferredTerm"/>
+            <!-- Parent of tier 5+ (tier 4 or higher) -->
+            <xsl:variable name="parent_id_2"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_1]/parentTerm/@term_id"/>
+            <xsl:variable name="parent_name_2"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_2]/preferredTerm"/>
+            <!-- Parent of tier 4+ (tier 3 or higher) -->
+            <xsl:variable name="parent_id_3"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_2]/parentTerm/@term_id"/>
+            <xsl:variable name="parent_name_3"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_3]/preferredTerm"/>
+            <!-- Parent of tier 3+ (tier 2 or higher) -->
+            <xsl:variable name="parent_id_4"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_3]/parentTerm/@term_id"/>
+            <xsl:variable name="parent_name_4"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_4]/preferredTerm"/>
+            <!-- Parent of tier 2 (tier 1) -->
+            <xsl:variable name="parent_id_5"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_4]/parentTerm/@term_id"/>
+            <xsl:variable name="parent_name_5"
+                select="$index_xml/newsletterIndex/terms/term[@id = $parent_id_5]/preferredTerm"/>
+
+            <xsl:if
+                test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_1 or $newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_2 or $newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_3 or $newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_4 or $newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_5">
+                <div>
+                    <ul id="index">
+                        <li><span class="caret">Newsletters about broader terms</span>
+                        <ul class="nested">
+                            <!-- Parent of tier 6+ (tier 5 or higher) -->
+                            <xsl:if
+                                test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_1">
+                                <li>
+                                    <span class="caret">
+                                        <i><a href="#{$parent_id_1}"><xsl:value-of select="$parent_name_1"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_1])"/>)</i>
+                                    </span>
+                                    <ul class="nested">
+                                        <xsl:for-each
+                                            select="$newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_1]">
+                                            <xsl:variable name="newsletter_title" select="title"/>
+                                            <xsl:variable name="newsletter_link" select="link"/>
+                                            <xsl:variable name="newsletter_date" select="date"/>
+                                            <li><a href="{$newsletter_link}"><xsl:value-of
+                                                select="$newsletter_title"/></a> (<xsl:value-of
+                                                    select="$newsletter_date"/>)</li>
+                                        </xsl:for-each>
+                                    </ul>
+                                </li>
+                            </xsl:if>
+                            
+                            <!-- Parent of tier 5+ (tier 4 or higher) -->
+                            <xsl:if
+                                test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_2">
+                                <li>
+                                    <span class="caret">
+                                        <i><a href="#{$parent_id_2}"><xsl:value-of select="$parent_name_2"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_2])"/>)</i>
+                                    </span>
+                                    <ul class="nested">
+                                        <xsl:for-each
+                                            select="$newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_2]">
+                                            <xsl:variable name="newsletter_title" select="title"/>
+                                            <xsl:variable name="newsletter_link" select="link"/>
+                                            <xsl:variable name="newsletter_date" select="date"/>
+                                            <li><a href="{$newsletter_link}"><xsl:value-of
+                                                select="$newsletter_title"/></a> (<xsl:value-of
+                                                    select="$newsletter_date"/>)</li>
+                                        </xsl:for-each>
+                                    </ul>
+                                </li>
+                            </xsl:if>
+                            
+                            <!-- Parent of tier 4+ (tier 3 or higher) -->
+                            <xsl:if
+                                test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_3">
+                                <li>
+                                    <span class="caret">
+                                        <i><a href="#{$parent_id_3}"><xsl:value-of select="$parent_name_3"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_3])"/>)</i>
+                                    </span>
+                                    <ul class="nested">
+                                        <xsl:for-each
+                                            select="$newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_3]">
+                                            <xsl:variable name="newsletter_title" select="title"/>
+                                            <xsl:variable name="newsletter_link" select="link"/>
+                                            <xsl:variable name="newsletter_date" select="date"/>
+                                            <li><a href="{$newsletter_link}"><xsl:value-of
+                                                select="$newsletter_title"/></a> (<xsl:value-of
+                                                    select="$newsletter_date"/>)</li>
+                                        </xsl:for-each>
+                                    </ul>
+                                </li>
+                            </xsl:if>
+                            
+                            <!-- Parent of tier 3+ (tier 2 or higher) -->
+                            <xsl:if
+                                test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_4">
+                                <li>
+                                    <span class="caret">
+                                        <i><a href="#{$parent_id_4}"><xsl:value-of select="$parent_name_4"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_4])"/>)</i>
+                                    </span>
+                                    <ul class="nested">
+                                        <xsl:for-each
+                                            select="$newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_4]">
+                                            <xsl:variable name="newsletter_title" select="title"/>
+                                            <xsl:variable name="newsletter_link" select="link"/>
+                                            <xsl:variable name="newsletter_date" select="date"/>
+                                            <li><a href="{$newsletter_link}"><xsl:value-of
+                                                select="$newsletter_title"/></a> (<xsl:value-of
+                                                    select="$newsletter_date"/>)</li>
+                                        </xsl:for-each>
+                                    </ul>
+                                </li>
+                            </xsl:if>
+                            
+                            <!-- Parent of tier 2 (tier 1) -->
+                            <xsl:if
+                                test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_5">
+                                <li>
+                                    <span class="caret">
+                                        <i><a href="#{$parent_id_5}"><xsl:value-of select="$parent_name_5"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_5])"/>)</i>
+                                    </span>
+                                    <ul class="nested">
+                                        <xsl:for-each
+                                            select="$newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_name_5]">
+                                            <xsl:variable name="newsletter_title" select="title"/>
+                                            <xsl:variable name="newsletter_link" select="link"/>
+                                            <xsl:variable name="newsletter_date" select="date"/>
+                                            <li><a href="{$newsletter_link}"><xsl:value-of
+                                                select="$newsletter_title"/></a> (<xsl:value-of
+                                                    select="$newsletter_date"/>)</li>
+                                        </xsl:for-each>
+                                    </ul>
+                                </li>
+                            </xsl:if>
+                        </ul></li>
+                    </ul>
+                </div>
+            </xsl:if>
+        
+            <!-- For subjects with narrower terms... -->
+            <!-- The following variables may be lists if there are multiple children -->
+            <xsl:variable name="index_xml" select="document('../index_xmlWORKING.xml')"/>
+            <!-- Current term is Tier 1 or lower -->
+            <xsl:variable name="current_id" select="$index_xml/newsletterIndex/terms/term[preferredTerm=$current_term]/@id"/>
+            <xsl:if test="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$current_id]">
+                <div>
+                    <ul id="index">
+                        <li><span class="caret">Newsletters about narrower terms</span>
+                            <ul class="nested">
+                                <!-- For each child term of current term (tier 1 or lower) -->
+                                <xsl:for-each select="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$current_id]">
+                                    <xsl:variable name="child_name_1" select="preferredTerm"/>
+                                    <xsl:variable name="child_id_1" select="@id"/>
+                                    <xsl:if test="$newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_1]">
+                                        <li><span class="caret"><i><a href="#{$child_id_1}"><xsl:value-of select="$child_name_1"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_1])"/>)</i></span>
+                                            <ul class="nested">
+                                                <!-- For each newsletter about child term (tier 1 or lower) -->
+                                                <xsl:for-each select="$newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_1]">
+                                                    <xsl:variable name="newsletter_title" select="title"/>
+                                                    <xsl:variable name="newsletter_link" select="link"/>
+                                                    <xsl:variable name="newsletter_date" select="date"/>
+                                                    <li><a href="{$newsletter_link}"><xsl:value-of
+                                                        select="$newsletter_title"/></a> (<xsl:value-of
+                                                            select="$newsletter_date"/>)</li>
+                                                </xsl:for-each>
+
+                                                <xsl:if test="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$child_id_1]">
+                                                    <!-- For each child term of tier 1- (tier 2 or lower) -->
+                                                    <xsl:for-each select="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$child_id_1]">
+                                                        <xsl:variable name="child_name_2" select="preferredTerm"/>
+                                                        <xsl:variable name="child_id_2" select="@id"/>
+                                                        <xsl:if test="$newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_2]">
+                                                            <li><span class="caret"><i><a href="#{$child_id_2}"><xsl:value-of select="$child_name_2"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_2])"/>)</i></span>
+                                                                <ul class="nested">
+                                                                    <!-- For each newsletter about child term (tier 2 or lower) -->
+                                                                    <xsl:for-each select="$newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_2]">
+                                                                        <xsl:variable name="newsletter_title" select="title"/>
+                                                                        <xsl:variable name="newsletter_link" select="link"/>
+                                                                        <xsl:variable name="newsletter_date" select="date"/>
+                                                                        <li><a href="{$newsletter_link}"><xsl:value-of
+                                                                            select="$newsletter_title"/></a> (<xsl:value-of
+                                                                                select="$newsletter_date"/>)</li>
+                                                                    </xsl:for-each>
+                                                                    
+                                                                    <!-- For each child term of tier 2- (tier 3 or lower) -->
+                                                                    <xsl:for-each select="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$child_id_2]">
+                                                                        <xsl:variable name="child_name_3" select="preferredTerm"/>
+                                                                        <xsl:variable name="child_id_3" select="@id"/>
+                                                                        <li><span class="caret"><i><a href="#{$child_id_3}"><xsl:value-of select="$child_name_3"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_3])"/>)</i></span>
+                                                                            <ul class="nested">
+                                                                                <!-- For each newsletter about child term (tier 3 or lower) -->
+                                                                                <xsl:for-each select="$newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_3]">
+                                                                                    <xsl:variable name="newsletter_title" select="title"/>
+                                                                                    <xsl:variable name="newsletter_link" select="link"/>
+                                                                                    <xsl:variable name="newsletter_date" select="date"/>
+                                                                                    <li><a href="{$newsletter_link}"><xsl:value-of
+                                                                                        select="$newsletter_title"/></a> (<xsl:value-of
+                                                                                            select="$newsletter_date"/>)</li>
+                                                                                </xsl:for-each>
+                                                                                
+                                                                                <!-- For each child term of tier 3- (tier 4 or lower) -->
+                                                                                <xsl:for-each select="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$child_id_3]">
+                                                                                    <xsl:variable name="child_name_4" select="preferredTerm"/>
+                                                                                    <xsl:variable name="child_id_4" select="@id"/>
+                                                                                    <li><span class="caret"><i><a href="#{$child_id_4}"><xsl:value-of select="$child_name_4"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_4])"/>)</i></span>
+                                                                                        <ul class="nested">
+                                                                                            <!-- For each newsletter about child term (tier 4 or lower) -->
+                                                                                            <xsl:for-each select="$newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_4]">
+                                                                                                <xsl:variable name="newsletter_title" select="title"/>
+                                                                                                <xsl:variable name="newsletter_link" select="link"/>
+                                                                                                <xsl:variable name="newsletter_date" select="date"/>
+                                                                                                <li><a href="{$newsletter_link}"><xsl:value-of
+                                                                                                    select="$newsletter_title"/></a> (<xsl:value-of
+                                                                                                        select="$newsletter_date"/>)</li>
+                                                                                            </xsl:for-each>
+                                                                                            
+                                                                                            <!-- For each child term of tier 4- (tier 5 or lower) -->
+                                                                                            <xsl:for-each select="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$child_id_4]">
+                                                                                                <xsl:variable name="child_name_5" select="preferredTerm"/>
+                                                                                                <xsl:variable name="child_id_5" select="@id"/>
+                                                                                                <li><span class="caret"><i><a href="#{$child_id_5}"><xsl:value-of select="$child_name_5"/></a> (<xsl:value-of select="count($newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_5])"/>)</i></span>
+                                                                                                    <ul class="nested">
+                                                                                                        <!-- For each newsletter about child term (tier 5 or lower) -->
+                                                                                                        <xsl:for-each select="$newsletter_xml/newsletters/newsletter[keywords/keyword=$child_name_5]">
+                                                                                                            <xsl:variable name="newsletter_title" select="title"/>
+                                                                                                            <xsl:variable name="newsletter_link" select="link"/>
+                                                                                                            <xsl:variable name="newsletter_date" select="date"/>
+                                                                                                            <li><a href="{$newsletter_link}"><xsl:value-of
+                                                                                                                select="$newsletter_title"/></a> (<xsl:value-of
+                                                                                                                    select="$newsletter_date"/>)</li>
+                                                                                                        </xsl:for-each>
+                                                                                                    </ul>
+                                                                                                </li>
+                                                                                            </xsl:for-each>
+                                                                                        </ul>
+                                                                                    </li>
+                                                                                </xsl:for-each>
+                                                                            </ul>
+                                                                        </li>
+                                                                    </xsl:for-each>
+                                                                </ul>
+                                                            </li>
+                                                        </xsl:if>
+                                                    </xsl:for-each>
+                                                </xsl:if>                                              
                                             </ul>
                                         </li>
                                     </xsl:if>
