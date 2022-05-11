@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <madsrdf:Authority xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060002">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel xml:lang="en">Canadians</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:TopicElement>
+	<madsrdf:elementValue xml:lang="en">Canadians</madsrdf:elementValue>
+      </madsrdf:TopicElement>
+    </madsrdf:elementList>
+    <madsrdf:hasVariant>
+      <madsrdf:Topic>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Canadiens</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:TopicElement>
+	    <madsrdf:elementValue xml:lang="en">Canadiens</madsrdf:elementValue>
+	  </madsrdf:TopicElement>
+	</madsrdf:elementList>
+      </madsrdf:Topic>
+    </madsrdf:hasVariant>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060231">
+	<madsrdf:authoritativeLabel xml:lang="en">Northwest Territorians</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:isDemonymFor>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/names/n79007233">
+	<madsrdf:authoritativeLabel>Subject:--Canada--http://rdaregistry.info/Elements/u/P60805--http://id.loc.gov/authorities/names/n79007233--http://id.loc.gov/rwo/agents/n79007233</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:isDemonymFor>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060327">
+	<madsrdf:authoritativeLabel xml:lang="en">Maritimers</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:isDemonymFor>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/names/n79007233">
+	<madsrdf:authoritativeLabel>Canada</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:isDemonymFor>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060228">
+	<madsrdf:authoritativeLabel xml:lang="en">Newfoundlanders</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060227">
+	<madsrdf:authoritativeLabel xml:lang="en">Albertans</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060225">
+	<madsrdf:authoritativeLabel xml:lang="en">Prince Edward Islanders</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060240">
+	<madsrdf:authoritativeLabel xml:lang="en">Nunavummiut</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060224">
+	<madsrdf:authoritativeLabel xml:lang="en">British Columbians</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060221">
+	<madsrdf:authoritativeLabel xml:lang="en">Nova Scotians</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2017060217">
+	<madsrdf:authoritativeLabel xml:lang="en">Prairie Provinces residents</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060223">
+	<madsrdf:authoritativeLabel xml:lang="en">Manitobans</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060222">
+	<madsrdf:authoritativeLabel xml:lang="en">New Brunswickers</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060235">
+	<madsrdf:authoritativeLabel xml:lang="en">Yukoners</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060226">
+	<madsrdf:authoritativeLabel xml:lang="en">Saskatchewanians</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasBroaderAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060331">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">North Americans</madsrdf:authoritativeLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:TopicElement>
+	    <madsrdf:elementValue xml:lang="en">North Americans</madsrdf:elementValue>
+	  </madsrdf:TopicElement>
+	</madsrdf:elementList>
+      </madsrdf:Authority>
+    </madsrdf:hasBroaderAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060393">
+	<madsrdf:authoritativeLabel xml:lang="en">Labradorians</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060189">
+	<madsrdf:authoritativeLabel xml:lang="en">Quebeckers</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2016060064">
+	<madsrdf:authoritativeLabel xml:lang="en">Pacific Northwesterners</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060231">
+	<madsrdf:authoritativeLabel xml:lang="en">Nor'Westers</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060188">
+	<madsrdf:authoritativeLabel xml:lang="en">Ontarians</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/demographicTerms/collection_LCDGT_General"/>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/demographicTerms/collection_LCDGT_Nationality"/>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/demographicTerms"/>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/demographicTerms/nat"/>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">dg2015060002</identifiers:lccn>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Merriam-Webster online, April 21, 2015:</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">(Canadian (noun): native or inhabitant of Canada)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Dugas, J.-Y. Dictionnaire universel des gentilés en français, 2006</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">(Canada: Canadien, Canadienne)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Recommandation concernant les noms d'États, d'habitants, de capitales, de sièges diplomatiques ou consulaires (liste établie par le ministère des affaires étrangères et européennes), 2008, viewed online July 14, 2015</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">(Canada: Canadien, -ne)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-04-21T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-06T09:59:17</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en">Canadians</skos:prefLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Canadiens</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skos:broader>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060331">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">North Americans</skos:prefLabel>
+      </rdf:Description>
+    </skos:broader>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060231">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Northwest Territorians</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060327">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Maritimers</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060228">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Newfoundlanders</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060227">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Albertans</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060225">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Prince Edward Islanders</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060240">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Nunavummiut</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060224">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">British Columbians</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060221">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Nova Scotians</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2017060217">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Prairie Provinces residents</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060223">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Manitobans</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060222">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">New Brunswickers</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060235">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Yukoners</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060226">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Saskatchewanians</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060393">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Labradorians</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060189">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Quebeckers</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2016060064">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Pacific Northwesterners</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060231">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Nor'Westers</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060188">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Ontarians</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <rdfs:related>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79007233">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel>Subject:--Canada--http://rdaregistry.info/Elements/u/P60805--http://id.loc.gov/authorities/names/n79007233--http://id.loc.gov/rwo/agents/n79007233</skos:prefLabel>
+      </rdf:Description>
+    </rdfs:related>
+    <rdfs:related>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/names/n79007233">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel>Canada</skos:prefLabel>
+      </rdf:Description>
+    </rdfs:related>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/demographicTerms"/>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/demographicTerms/nat"/>
+    <skos:altLabel xml:lang="en">Canadiens</skos:altLabel>
+    <skos:changeNote>
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/demographicTerms/dg2015060002"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-04-21T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+    <skos:changeNote>
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/demographicTerms/dg2015060002"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-06T09:59:17</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:Authority>
+</rdf:RDF>

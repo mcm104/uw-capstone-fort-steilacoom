@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <madsrdf:Authority xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2016060394">
+    <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+    <madsrdf:authoritativeLabel xml:lang="en">Botanists</madsrdf:authoritativeLabel>
+    <madsrdf:elementList rdf:parseType="Collection">
+      <madsrdf:TopicElement>
+	<madsrdf:elementValue xml:lang="en">Botanists</madsrdf:elementValue>
+      </madsrdf:TopicElement>
+    </madsrdf:elementList>
+    <madsrdf:hasVariant>
+      <madsrdf:Topic>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Plant biologists</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:TopicElement>
+	    <madsrdf:elementValue xml:lang="en">Plant biologists</madsrdf:elementValue>
+	  </madsrdf:TopicElement>
+	</madsrdf:elementList>
+      </madsrdf:Topic>
+    </madsrdf:hasVariant>
+    <madsrdf:hasVariant>
+      <madsrdf:Topic>
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Variant"/>
+	<madsrdf:variantLabel xml:lang="en">Plant scientists</madsrdf:variantLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:TopicElement>
+	    <madsrdf:elementValue xml:lang="en">Plant scientists</madsrdf:elementValue>
+	  </madsrdf:TopicElement>
+	</madsrdf:elementList>
+      </madsrdf:Topic>
+    </madsrdf:hasVariant>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2016060396">
+	<madsrdf:authoritativeLabel xml:lang="en">Agrostologists</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2017060055">
+	<madsrdf:authoritativeLabel xml:lang="en">Plant taxonomists</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasBroaderAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060613">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+	<madsrdf:authoritativeLabel xml:lang="en">Biologists</madsrdf:authoritativeLabel>
+	<madsrdf:elementList rdf:parseType="Collection">
+	  <madsrdf:TopicElement>
+	    <madsrdf:elementValue xml:lang="en">Biologists</madsrdf:elementValue>
+	  </madsrdf:TopicElement>
+	</madsrdf:elementList>
+      </madsrdf:Authority>
+    </madsrdf:hasBroaderAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2016060402">
+	<madsrdf:authoritativeLabel xml:lang="en">Ethnobotanists</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2017060006">
+	<madsrdf:authoritativeLabel xml:lang="en">Phycologists</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:hasNarrowerAuthority>
+      <madsrdf:Authority rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2017060002">
+	<madsrdf:authoritativeLabel xml:lang="en">Bryologists</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </madsrdf:hasNarrowerAuthority>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/demographicTerms/collection_LCDGT_General"/>
+    <madsrdf:isMemberOfMADSCollection rdf:resource="http://id.loc.gov/authorities/demographicTerms/collection_LCDGT_Occupational"/>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/demographicTerms"/>
+    <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/demographicTerms/occ"/>
+    <identifiers:lccn xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/">dg2016060394</identifiers:lccn>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Work cat.: Grey-Wilson, Christopher. The genus Meconopsis, 2014:</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">p. 4 of cover (Christopher Grey-Wilson was a botanist at the Royal Botanic Gardens, Kew for 22 years. He has edited Curtis's Botanical Magazine and The Plantsman in the past, and is currently editor of The Alpine Gardener; author of numerous books including Guide to the Flowers of Western China and The Rock Garden Plant Primer)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>LCSH, Sept. 27, 2016</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">(Botanists. UF Plant biologists; Plant scientists. BT Biologists; Plant specialists)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>American Society of Plant Biologists website, Sept. 27, 2016:</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">about (The American Society of Plant Biologists was founded in 1924 to promote the growth and development of plant biology, to encourage and publish research in plant biology, and to promote the interests and growth of plant scientists in general; A plant scientist specializes in the scientific study of plants. Within plant biology there are many areas of interest including cellular and molecular biology, genetics, development, evolution, physiology and biochemistry. Plant scientists are working world-wide in nearly all industries including academia, corporations, pharmacology, research, non-profits and government)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Macmillan dictionary online, Sept. 27, 2016</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">(botanist: someone who studies plants, especially as their job)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Merriam-Webster dictionary online, Sept. 27, 2016</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">(botany: a branch of biology dealing with plant life; --botanist noun)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>Dictionary of occupational titles, via WWW, Sept. 27, 2016</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">(Code: 041.061-038. Title: Botanist (profess. &amp; kin.). Studies development and life processes, physiology, heredity, environment, distribution, anatomy, morphology, and economic value of plants for application in such fields as agronomy, forestry, horticulture, and pharmacology: Studies behavior of chromosomes and reproduction, internal and external structures, and examines mechanics and biochemistry of plants and plant cells, using microscopes, staining techniques, and scientific equipment. Investigates environment and plant communities and effect of rainfall, temperature, climate, soil, and elevation on plant growth from seed to mature plants. Identifies and classifies plants. May conduct environmental studies and prepare reports. May be designated according to field of specialization as Plant Ecologist (profess. &amp; kin.); Plant Taxonomist (profess. &amp; kin.))</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:hasSource>
+      <madsrdf:Source>
+	<madsrdf:citationSource>O*NET - Occupational Information Network, via WWW, Sept. 27, 2016</madsrdf:citationSource>
+	<madsrdf:citationNote xml:lang="en">(Code: 24308D. Title: Botanists. Research or study development of life processes, physiology, heredity, environment, distribution, morphology, and economic value of plants for application in such fields as agronomy, forestry, horticulture, and pharmacology)</madsrdf:citationNote>
+	<madsrdf:citationStatus>found</madsrdf:citationStatus>
+      </madsrdf:Source>
+    </madsrdf:hasSource>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-09-27T00:00:00</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/wau"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <madsrdf:adminMetadata>
+      <ri:RecordInfo xmlns:ri="http://id.loc.gov/ontologies/RecordInfo#">
+	<ri:recordChangeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-31T12:29:10</ri:recordChangeDate>
+	<ri:recordStatus rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</ri:recordStatus>
+	<ri:recordContentSource rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<ri:languageOfCataloging rdf:resource="http://id.loc.gov/vocabulary/iso639-2/eng"/>
+      </ri:RecordInfo>
+    </madsrdf:adminMetadata>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:prefLabel xml:lang="en">Botanists</skos:prefLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Plant biologists</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skosxl:altLabel xmlns:skosxl="http://www.w3.org/2008/05/skos-xl#">
+      <rdf:Description>
+	<rdf:type rdf:resource="http://www.w3.org/2008/05/skos-xl#Label"/>
+	<skosxl:literalForm xml:lang="en">Plant scientists</skosxl:literalForm>
+      </rdf:Description>
+    </skosxl:altLabel>
+    <skos:broader>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2015060613">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Biologists</skos:prefLabel>
+      </rdf:Description>
+    </skos:broader>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2016060396">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Agrostologists</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2017060055">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Plant taxonomists</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2016060402">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Ethnobotanists</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2017060006">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Phycologists</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:narrower>
+      <rdf:Description rdf:about="http://id.loc.gov/authorities/demographicTerms/dg2017060002">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Bryologists</skos:prefLabel>
+      </rdf:Description>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/demographicTerms"/>
+    <skos:inScheme rdf:resource="http://id.loc.gov/authorities/demographicTerms/occ"/>
+    <skos:altLabel xml:lang="en">Plant biologists</skos:altLabel>
+    <skos:altLabel xml:lang="en">Plant scientists</skos:altLabel>
+    <skos:changeNote>
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/demographicTerms/dg2016060394"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/wau"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-09-27T00:00:00</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+    <skos:changeNote>
+      <cs:ChangeSet xmlns:cs="http://purl.org/vocab/changeset/schema#">
+	<cs:subjectOfChange rdf:resource="http://id.loc.gov/authorities/demographicTerms/dg2016060394"/>
+	<cs:creatorName rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+	<cs:createdDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-31T12:29:10</cs:createdDate>
+	<cs:changeReason rdf:datatype="http://www.w3.org/2001/XMLSchema#string">revised</cs:changeReason>
+      </cs:ChangeSet>
+    </skos:changeNote>
+  </madsrdf:Authority>
+</rdf:RDF>
