@@ -475,7 +475,7 @@
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060860"/>
 		</agent>
 		<agent id="Charles_Prosch" agentType="person">
-			<preferredName>Charles Porsch</preferredName>
+			<preferredName>Charles Prosch</preferredName>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="William_Fraser_Tolmie" agentType="person">
@@ -498,14 +498,16 @@
 			<hasSpouse relatedAgent="William_Fraser_Tolmie"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
-		<agent id="E_Porter_Alexander" agentType="person">
-			<preferredName>E. Porter Alexander</preferredName>
+		<agent id="Edward_Porter_Alexander" agentType="person">
+			<preferredName>Edward Porter Alexander</preferredName>
+			<alternateName>E. Porter Alexander</alternateName>
+			<alternateName>Edward Alexander</alternateName>
 			<hasSpouse relatedAgent="Mrs_Alexander"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Mrs_Alexander" agentType="person">
 			<preferredName>Mrs. Alexander</preferredName>
-			<hasSpouse relatedAgent="E_Porter_Alexander"/>
+			<hasSpouse relatedAgent="Edward_Porter_Alexander"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Edward_Huggins" agentType="person">
@@ -786,7 +788,7 @@
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Abraham_Salatat" agentType="person">
-			<preferredName>Abraham Salat</preferredName>
+			<preferredName>Abraham Salatat</preferredName>
 			<hasSpouse relatedAgent="William_H_Wallace"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
