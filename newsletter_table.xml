@@ -1,2341 +1,2286 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<newsletters>
-   <newsletter>
-       <title>Remembrances of the Indian War 1855-1856</title>
-       <author>James Longmire</author>
-       <volume>V37 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2021/03/V37N1-FS-newsletter.pdf</link>
-       <date>Winter 2020</date>
-   </newsletter>
-   <newsletter>
-       <title>Dr. George Suckley, Assistant Surgeon, U.S. Army, Naturalist and Author</title>
-       <author>Alan H. Archambault</author>
-       <volume>V37N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2021/02/V7N2-Summer-2020.pdf</link>
-       <date>Summer 2020</date>
-   </newsletter>
-   <newsletter>
-       <title>Indian Attack on Connell’s Prairie</title>
-       <author>A. B. Rabbeson</author>
-       <volume>V36 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V36N2.pdf</link>
-       <date>Summer-Autumn 2019</date>
-   </newsletter>
-   <newsletter>
-       <title>Washington’s Yesterdays</title>
-       <author>Lucille McDonald</author>
-       <volume>V36 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V36N1.pdf</link>
-       <date>Winter-Spring 2019</date>
-   </newsletter>
-   <newsletter>
-       <title>Remembrances of Fort Steilacoom</title>
-       <author>E. P. Alexander</author>
-       <volume>V35 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N3.pdf</link>
-       <date>Autumn 2018</date>
-   </newsletter>
-   <newsletter>
-       <title>Touring Historic Fort Steilacoom</title>
-       <author>Carol Stout</author>
-       <volume>V35 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N2.pdf</link>
-       <date>Summer 2018</date>
-   </newsletter>
-   <newsletter>
-       <title>August Valentine Kautz Family: Charlotte and Fannie</title>
-       <author>Carol Stout</author>
-       <volume>V35 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N1.pdf</link>
-       <date>Spring 2018</date>
-   </newsletter>
-   <newsletter>
-       <title>Climbing Mount Rainier</title>
-       <author>August Valentine Kautz</author>
-       <volume>V34 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N4.pdf</link>
-       <date>Winter 2017</date>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom – Refuge during the Indian War</title>
-       <author>Margaret Whitesell</author>
-       <volume>V34 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N3.pdf</link>
-       <date>Autumn 2017</date>
-   </newsletter>
-   <newsletter>
-       <title>Lure of Gold on Fraser River</title>
-       <author>Carol Stout</author>
-       <volume>V34 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N2.pdf</link>
-       <date>Summer 2017</date>
-   </newsletter>
-   <newsletter>
-       <title>William H. Archbolt, The Ordnance Sergeant of Fort Steilacoom, Part 2</title>
-       <author>Alan H. archambault</author>
-       <volume>V34 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N1.pdf</link>
-       <date>Spring 2017</date>
-   </newsletter>
-   <newsletter>
-       <title>Nancy Covert</title>
-       <author>Staff</author>
-       <volume>V34 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N1.pdf</link>
-       <date>Spring 2017</date>
-   </newsletter>
-   <newsletter>
-       <title>William H. Archbold, The Ordnance Sergeant of Fort Steilacoom</title>
-       <author>Alan H. Archambault</author>
-       <volume>V33 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N4.pdf</link>
-       <date>Winter 2016</date>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom to Fort Bellingham Road (map)</title>
-       <author>Karen Meador</author>
-       <volume>V33 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N4.pdf</link>
-       <date>Winter 2016</date>
-   </newsletter>
-   <newsletter>
-       <title>Reminiscence of Lt. James McAllister’s Daughter Sarah McAllister Hartman</title>
-       <author>Sarah Hartman</author>
-       <volume>V33 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N3.pdf</link>
-       <date>Autumn 2016</date>
-   </newsletter>
-   <newsletter>
-       <title>Reorganized and Expanded ResearchCenter</title>
-       <author>Loran Bures</author>
-       <volume>V33 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N2.pdf</link>
-       <date>Summer 2016</date>
-   </newsletter>
-   <newsletter>
-       <title>The Catholic Connection to Fort Steilacoom</title>
-       <author>Carol &amp; Orville Stout</author>
-       <volume>V33 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N1.pdf</link>
-       <date>Spring 2016</date>
-   </newsletter>
-   <newsletter>
-       <title>Chaplains at Fort Steilacoom</title>
-       <author>Carol Stout</author>
-       <volume>V32 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N4.pdf</link>
-       <date>Winter 2015</date>
-   </newsletter>
-   <newsletter>
-       <title>Heath Monument</title>
-       <author>Staff</author>
-       <volume>V32 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N4.pdf</link>
-       <date>Winter 2015</date>
-   </newsletter>
-   <newsletter>
-       <title>The Boundary Question</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V32 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N3.pdf</link>
-       <date>Autumn 2015</date>
-   </newsletter>
-   <newsletter>
-       <title>Silas Casey III, Rear Admiral U.S. Navy</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V32 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N2.pdf</link>
-       <date>Summer 2015</date>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom Army Post Cemetery</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V32 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N1.pdf</link>
-       <date>Spring 2015</date>
-   </newsletter>
-   <newsletter>
-       <title>The Pacific Northwest and the United States Sanitary Commission: A Matter of
+<newsletters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="newsletters.xsd">
+    <newsletter>
+        <title>Remembrances of the Indian War 1855-1856</title>
+        <author>James Longmire</author>
+        <volume>V37 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2021/03/V37N1-FS-newsletter.pdf</link>
+        <date>Winter 2020</date>
+    </newsletter>
+    <newsletter>
+        <title>Dr. George Suckley, Assistant Surgeon, U.S. Army, Naturalist and Author</title>
+        <author>Alan H. Archambault</author>
+        <volume>V37N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2021/02/V7N2-Summer-2020.pdf</link>
+        <date>Summer 2020</date>
+    </newsletter>
+    <newsletter>
+        <title>Indian Attack on Connell’s Prairie</title>
+        <author>A. B. Rabbeson</author>
+        <volume>V36 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V36N2.pdf</link>
+        <date>Summer-Autumn 2019</date>
+    </newsletter>
+    <newsletter>
+        <title>Washington’s Yesterdays</title>
+        <author>Lucille McDonald</author>
+        <volume>V36 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V36N1.pdf</link>
+        <date>Winter-Spring 2019</date>
+    </newsletter>
+    <newsletter>
+        <title>Remembrances of Fort Steilacoom</title>
+        <author>E. P. Alexander</author>
+        <volume>V35 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N3.pdf</link>
+        <date>Autumn 2018</date>
+    </newsletter>
+    <newsletter>
+        <title>Touring Historic Fort Steilacoom</title>
+        <author>Carol Stout</author>
+        <volume>V35 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N2.pdf</link>
+        <date>Summer 2018</date>
+    </newsletter>
+    <newsletter>
+        <title>August Valentine Kautz Family: Charlotte and Fannie</title>
+        <author>Carol Stout</author>
+        <volume>V35 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N1.pdf</link>
+        <date>Spring 2018</date>
+    </newsletter>
+    <newsletter>
+        <title>Climbing Mount Rainier</title>
+        <author>August Valentine Kautz</author>
+        <volume>V34 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N4.pdf</link>
+        <date>Winter 2017</date>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom – Refuge during the Indian War</title>
+        <author>Margaret Whitesell</author>
+        <volume>V34 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N3.pdf</link>
+        <date>Autumn 2017</date>
+    </newsletter>
+    <newsletter>
+        <title>Lure of Gold on Fraser River</title>
+        <author>Carol Stout</author>
+        <volume>V34 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N2.pdf</link>
+        <date>Summer 2017</date>
+    </newsletter>
+    <newsletter>
+        <title>William H. Archbolt, The Ordnance Sergeant of Fort Steilacoom, Part 2</title>
+        <author>Alan H. archambault</author>
+        <volume>V34 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N1.pdf</link>
+        <date>Spring 2017</date>
+    </newsletter>
+    <newsletter>
+        <title>Nancy Covert</title>
+        <author>Staff</author>
+        <volume>V34 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N1.pdf</link>
+        <date>Spring 2017</date>
+    </newsletter>
+    <newsletter>
+        <title>William H. Archbold, The Ordnance Sergeant of Fort Steilacoom</title>
+        <author>Alan H. Archambault</author>
+        <volume>V33 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N4.pdf</link>
+        <date>Winter 2016</date>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom to Fort Bellingham Road (map)</title>
+        <author>Karen Meador</author>
+        <volume>V33 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N4.pdf</link>
+        <date>Winter 2016</date>
+    </newsletter>
+    <newsletter>
+        <title>Reminiscence of Lt. James McAllister’s Daughter Sarah McAllister Hartman</title>
+        <author>Sarah Hartman</author>
+        <volume>V33 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N3.pdf</link>
+        <date>Autumn 2016</date>
+    </newsletter>
+    <newsletter>
+        <title>Reorganized and Expanded ResearchCenter</title>
+        <author>Loran Bures</author>
+        <volume>V33 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N2.pdf</link>
+        <date>Summer 2016</date>
+    </newsletter>
+    <newsletter>
+        <title>The Catholic Connection to Fort Steilacoom</title>
+        <author>Carol &amp; Orville Stout</author>
+        <volume>V33 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N1.pdf</link>
+        <date>Spring 2016</date>
+    </newsletter>
+    <newsletter>
+        <title>Chaplains at Fort Steilacoom</title>
+        <author>Carol Stout</author>
+        <volume>V32 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N4.pdf</link>
+        <date>Winter 2015</date>
+    </newsletter>
+    <newsletter>
+        <title>Heath Monument</title>
+        <author>Staff</author>
+        <volume>V32 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N4.pdf</link>
+        <date>Winter 2015</date>
+    </newsletter>
+    <newsletter>
+        <title>The Boundary Question</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V32 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N3.pdf</link>
+        <date>Autumn 2015</date>
+    </newsletter>
+    <newsletter>
+        <title>Silas Casey III, Rear Admiral U.S. Navy</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V32 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N2.pdf</link>
+        <date>Summer 2015</date>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom Army Post Cemetery</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V32 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N1.pdf</link>
+        <date>Spring 2015</date>
+    </newsletter>
+    <newsletter>
+        <title>The Pacific Northwest and the United States Sanitary Commission: A Matter of
             Relevance</title>
-       <author>Kristen McPherson</author>
-       <volume>V31 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N4.pdf</link>
-       <date>Winter 2014</date>
-   </newsletter>
-   <newsletter>
-       <title>A California Company on the Sound</title>
-       <author>John McPherson</author>
-       <volume>V31 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N3.pdf</link>
-       <date>Autumn 2014</date>
-   </newsletter>
-   <newsletter>
-       <title>Ellen Chapman Freckleton—A Guardian of History</title>
-       <author>Carol Neufeld Stout</author>
-       <volume>V31 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N2.pdf</link>
-       <date>Summer 2014</date>
-   </newsletter>
-   <newsletter>
-       <title>Isaac Ingalls Stevens</title>
-       <author>Alan H. Archamault</author>
-       <volume>V31 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N1.pdf</link>
-       <date>Spring 2014</date>
-   </newsletter>
-   <newsletter>
-       <title>Casey’s Service Career Ends</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V30 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N4.pdf</link>
-       <date>Winter 2013</date>
-   </newsletter>
-   <newsletter>
-       <title>The Casey Farm</title>
-       <author>Staff</author>
-       <volume>V30 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N4.pdf</link>
-       <date>Winter 2013</date>
-   </newsletter>
-   <newsletter>
-       <title>General Casey’s Post Fair Oaks Service</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V30 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N3.pdf</link>
-       <date>Autumn 2013</date>
-   </newsletter>
-   <newsletter>
-       <title>Wallace Restored</title>
-       <author>Nancy Covert</author>
-       <volume>V30 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N3.pdf</link>
-       <date>Autumn 2013</date>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom Moves Ahead</title>
-       <author>John Roten &amp; Lawrence Bateman</author>
-       <volume>V30 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
-       <date>Summer 2013</date>
-   </newsletter>
-   <newsletter>
-       <title>William Wallace, a Friend of Lincoln</title>
-       <author>Staff</author>
-       <volume>V30 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
-       <date>Summer 2013</date>
-   </newsletter>
-   <newsletter>
-       <title>William Wallace tombstone</title>
-       <author>Staff</author>
-       <volume>V30 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
-       <date>Summer 2013</date>
-   </newsletter>
-   <newsletter>
-       <title>Historic Fort Steilacoom Association—History of the Organization (Part 3)</title>
-       <author>Orville H. Stout</author>
-       <volume>V30 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N1.pdf</link>
-       <date>Spring 2013</date>
-   </newsletter>
-   <newsletter>
-       <title>Historic Fort Steilacoom Association—History of the Organization (Part 2)</title>
-       <author>Orville H. Stout</author>
-       <volume>V29 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N4.pdf</link>
-       <date>Winter 2012</date>
-   </newsletter>
-   <newsletter>
-       <title>Historic Fort Steilacoom Association—History of the Organization (Part 1)</title>
-       <author>Orville H. Stout</author>
-       <volume>V29 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N3.pdf</link>
-       <date>Autumn 2012</date>
-   </newsletter>
-   <newsletter>
-       <title>Jack Langston</title>
-       <author>Staff</author>
-       <volume>V29 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N3.pdf</link>
-       <date>Autumn 2012</date>
-   </newsletter>
-   <newsletter>
-       <title>Building Fort Steilacoom—Part 2</title>
-       <author>Orville H. Stout</author>
-       <volume>V29 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N2.pdf</link>
-       <date>Summer 2012</date>
-   </newsletter>
-   <newsletter>
-       <title>Building Fort Steilacoom—Part 1</title>
-       <author>Orville H. Stout</author>
-       <volume>V29 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N1.pdf</link>
-       <date>Spring 2012</date>
-   </newsletter>
-   <newsletter>
-       <title>Robert “Bob” Demorest</title>
-       <author>Staff</author>
-       <volume>V29 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N1.pdf</link>
-       <date>Spring 2012</date>
-   </newsletter>
-   <newsletter>
-       <title>The Pig War—Soldiers Occupy San Juan Island</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V28 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N4.pdf</link>
-       <date>Winter 2011</date>
-   </newsletter>
-   <newsletter>
-       <title>Letter from a Civil War Soldier—1861</title>
-       <author>Horatio Pitcher</author>
-       <volume>V28 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N3.pdf</link>
-       <date>Autumn 2011</date>
-   </newsletter>
-	<newsletter>
-		<title>S.S. Beaver</title>
-		<author>Carol Neufeld Stout</author>
-		<volume>V28 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N2.pdf</link>
-		<date>Summer 2011</date>
-		<keywords>
-			<keyword>Hudon's Bay Company</keyword>
-			<keyword>Ships</keyword>
-			<keyword>Fur Trade</keyword>
-			<keyword>Puget Sound Agricultural Company</keyword>
-			<keyword>Food</keyword>
-			<keyword>Joseph T. Heath Farm</keyword>
-			<keyword>Fort Nisqually</keyword>
-			<keyword>William Fraser Tolmie</keyword>
-			<keyword>Joseph Thomas Heath</keyword>
-			<keyword>Leschi</keyword>
-			<keyword>Treaty of Medicine Creek (1854)</keyword>
-			<keyword>Puget Sound War (1855-1856)</keyword>
-			<keyword>Maurice Maloney</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Company “M” Arrives at Steilacoom</title>
-		<author>Alan H. Archambault</author>
-		<volume>V28 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N1.pdf</link>
-		<date>Spring 2011</date>
-		<keywords>
-			<keyword>Artillery</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Military History</keyword>
-			<keyword>Bennet Hill</keyword>
-			<keyword>Military Uniforms</keyword>
-			<keyword>Equipment</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Tea Commemorates Engagement</title>
-		<author>Nancy Covert</author>
-		<volume>V28 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N1.pdf</link>
-		<date>Spring 2011</date>
-		<keywords>
-			<keyword>Social Gathering</keyword>
-			<keyword>Family Life</keyword>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Lewis Cass Hunt</keyword>
-			<keyword>Abby Casey</keyword>
-			<keyword>Reenactor</keyword>
-			<keyword>Textiles</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Godey’s Ladies Book</title>
-		<author>Carol Neufeld Stout</author>
-		<volume>V27 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N1.pdf</link>
-		<date>Spring 2010</date>
-		<keywords>
-			<keyword>Godey's Lady's Book</keyword>
-			<keyword>Daily Life</keyword>
-			<keyword>Dress</keyword>
-			<keyword>American Ladies Magazine</keyword>
-			<keyword>Sarah Josepha Hale</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Civil War Brings Changes to Fort Steilacoom</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V27 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N2.pdf</link>
-		<date>Summer 2010</date>
-		<keywords>
-			<keyword>American Civil War (1846-1848)</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Abraham Lincoln</keyword>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Thomas Lincoln Casey</keyword>
-			<keyword>Equipment</keyword>
-			<keyword>Thomas English</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>What’s in your Haversack—The Army Ration</title>
-		<author>Lawrence Bateman</author>
-		<volume>V27 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N3.pdf</link>
-		<date>Autumn 2010</date>
-		<keywords>
-			<keyword>Equipment</keyword>
-			<keyword>Food</keyword>
-			<keyword>Military History</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Soldier’s Clothing Allocation</title>
-		<author>Lawrence Bateman</author>
-		<volume>V27 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N3.pdf</link>
-		<date>Autumn 2010</date>
-		<keywords>
-			<keyword>Military Uniforms</keyword>
-		</keywords>
+        <author>Kristen McPherson</author>
+        <volume>V31 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N4.pdf</link>
+        <date>Winter 2014</date>
+    </newsletter>
+    <newsletter>
+        <title>A California Company on the Sound</title>
+        <author>John McPherson</author>
+        <volume>V31 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N3.pdf</link>
+        <date>Autumn 2014</date>
+    </newsletter>
+    <newsletter>
+        <title>Ellen Chapman Freckleton—A Guardian of History</title>
+        <author>Carol Neufeld Stout</author>
+        <volume>V31 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N2.pdf</link>
+        <date>Summer 2014</date>
+    </newsletter>
+    <newsletter>
+        <title>Isaac Ingalls Stevens</title>
+        <author>Alan H. Archamault</author>
+        <volume>V31 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N1.pdf</link>
+        <date>Spring 2014</date>
+    </newsletter>
+    <newsletter>
+        <title>Casey’s Service Career Ends</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V30 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N4.pdf</link>
+        <date>Winter 2013</date>
+    </newsletter>
+    <newsletter>
+        <title>The Casey Farm</title>
+        <author>Staff</author>
+        <volume>V30 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N4.pdf</link>
+        <date>Winter 2013</date>
+    </newsletter>
+    <newsletter>
+        <title>General Casey’s Post Fair Oaks Service</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V30 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N3.pdf</link>
+        <date>Autumn 2013</date>
+    </newsletter>
+    <newsletter>
+        <title>Wallace Restored</title>
+        <author>Nancy Covert</author>
+        <volume>V30 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N3.pdf</link>
+        <date>Autumn 2013</date>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom Moves Ahead</title>
+        <author>John Roten &amp; Lawrence Bateman</author>
+        <volume>V30 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
+        <date>Summer 2013</date>
+    </newsletter>
+    <newsletter>
+        <title>William Wallace, a Friend of Lincoln</title>
+        <author>Staff</author>
+        <volume>V30 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
+        <date>Summer 2013</date>
+    </newsletter>
+    <newsletter>
+        <title>William Wallace tombstone</title>
+        <author>Staff</author>
+        <volume>V30 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
+        <date>Summer 2013</date>
+    </newsletter>
+    <newsletter>
+        <title>Historic Fort Steilacoom Association—History of the Organization (Part 3)</title>
+        <author>Orville H. Stout</author>
+        <volume>V30 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N1.pdf</link>
+        <date>Spring 2013</date>
+    </newsletter>
+    <newsletter>
+        <title>Historic Fort Steilacoom Association—History of the Organization (Part 2)</title>
+        <author>Orville H. Stout</author>
+        <volume>V29 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N4.pdf</link>
+        <date>Winter 2012</date>
+    </newsletter>
+    <newsletter>
+        <title>Historic Fort Steilacoom Association—History of the Organization (Part 1)</title>
+        <author>Orville H. Stout</author>
+        <volume>V29 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N3.pdf</link>
+        <date>Autumn 2012</date>
+    </newsletter>
+    <newsletter>
+        <title>Jack Langston</title>
+        <author>Staff</author>
+        <volume>V29 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N3.pdf</link>
+        <date>Autumn 2012</date>
+    </newsletter>
+    <newsletter>
+        <title>Building Fort Steilacoom—Part 2</title>
+        <author>Orville H. Stout</author>
+        <volume>V29 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N2.pdf</link>
+        <date>Summer 2012</date>
+    </newsletter>
+    <newsletter>
+        <title>Building Fort Steilacoom—Part 1</title>
+        <author>Orville H. Stout</author>
+        <volume>V29 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N1.pdf</link>
+        <date>Spring 2012</date>
+    </newsletter>
+    <newsletter>
+        <title>Robert “Bob” Demorest</title>
+        <author>Staff</author>
+        <volume>V29 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N1.pdf</link>
+        <date>Spring 2012</date>
+    </newsletter>
+    <newsletter>
+        <title>The Pig War—Soldiers Occupy San Juan Island</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V28 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N4.pdf</link>
+        <date>Winter 2011</date>
+    </newsletter>
+    <newsletter>
+        <title>Letter from a Civil War Soldier—1861</title>
+        <author>Horatio Pitcher</author>
+        <volume>V28 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N3.pdf</link>
+        <date>Autumn 2011</date>
+    </newsletter>
+    <newsletter>
+        <title>S.S. Beaver</title>
+        <author>Carol Neufeld Stout</author>
+        <volume>V28 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N2.pdf</link>
+        <date>Summer 2011</date>
+        <keywords>
+            <keyword>Hudson's Bay Company</keyword>
+            <keyword>Ships</keyword>
+            <keyword>Fur Trade</keyword>
+            <keyword>Puget Sound Agricultural Company</keyword>
+            <keyword>Food</keyword>
+            <keyword>Joseph T. Heath Farm</keyword>
+            <keyword>Fort Nisqually</keyword>
+            <keyword>William Fraser Tolmie</keyword>
+            <keyword>Joseph Thomas Heath</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Treaty of Medicine Creek (1854)</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>Maurice Maloney</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Company “M” Arrives at Steilacoom</title>
+        <author>Alan H. Archambault</author>
+        <volume>V28 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N1.pdf</link>
+        <date>Spring 2011</date>
+        <keywords>
+            <keyword>Artillery</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Bennet Hill</keyword>
+            <keyword>Military Uniforms</keyword>
+            <keyword>Equipment</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Tea Commemorates Engagement</title>
+        <author>Nancy Covert</author>
+        <volume>V28 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N1.pdf</link>
+        <date>Spring 2011</date>
+        <keywords>
+            <keyword>Social Gathering</keyword>
+            <keyword>Family Life</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Lewis Cass Hunt</keyword>
+            <keyword>Abby Casey</keyword>
+            <keyword>Reenactor</keyword>
+            <keyword>Textiles</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Godey’s Ladies Book</title>
+        <author>Carol Neufeld Stout</author>
+        <volume>V27 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N1.pdf</link>
+        <date>Spring 2010</date>
+        <keywords>
+            <keyword>Godey's Lady's Book</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Dress</keyword>
+            <keyword>American Ladies Magazine</keyword>
+            <keyword>Sarah Josepha Hale</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Civil War Brings Changes to Fort Steilacoom</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V27 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N2.pdf</link>
+        <date>Summer 2010</date>
+        <keywords>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Abraham Lincoln</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Thomas Lincoln Casey</keyword>
+            <keyword>Equipment</keyword>
+            <keyword>Thomas English</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>What’s in your Haversack—The Army Ration</title>
+        <author>Lawrence Bateman</author>
+        <volume>V27 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N3.pdf</link>
+        <date>Autumn 2010</date>
+        <keywords>
+            <keyword>Equipment</keyword>
+            <keyword>Food</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Soldier’s Clothing Allocation</title>
+        <author>Lawrence Bateman</author>
+        <volume>V27 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N3.pdf</link>
+        <date>Autumn 2010</date>
+        <keywords>
+            <keyword>Military Uniforms</keyword>
+        </keywords>
 
-	</newsletter>
-	<newsletter>
-		<title>Perpetually in the Field—Housing the Antebellum Army</title>
-		<author>Gideon Pete</author>
-		<volume>V27 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N4.pdf</link>
-		<date>Winter 2010</date>
-		<keywords>
-			<keyword>Military History</keyword>
-			<keyword>Housing</keyword>
-			<keyword>Daily Life</keyword>
-			<keyword>Military Uniforms</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>More Tales of Old Fort Steilacoom</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V26 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V26N4.pdf</link>
-		<date>Winter 2009</date>
-		<keywords>
-			<keyword>William Alloway Slaughter</keyword>
-			<keyword>John Nugen</keyword>
-			<keyword>4th U.S. Infantry Regiment</keyword>
-			<keyword>Puget Sound War (1855-1856)</keyword>
-			<keyword>Casey</keyword>
-			<keyword>Daily Life</keyword>
-			<keyword>Social Gathering</keyword>
-			<keyword>Equipment</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>1st Lt. William Alloway Slaughter—Casualty of the Indian War</title>
-		<author>Carol Neufeld Stout</author>
-		<volume>V26 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V26N3.pdf</link>
-		<date>Autumn 2009</date>
-		<keywords>
-			<keyword>William Alloway Slaughter</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Mary Wells Slaughter</keyword>
-			<keyword>Social Gathering</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>From Joseph Heath Farm to Fort Steilacoom Museum</title>
-		<author>Carol Neufeld Stout</author>
-		<volume>V26 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V26N2.pdf</link>
-		<date>Summer 2009</date>
-		<keywords>
-			<keyword>Joseph T. Heath Farm</keyword>
-			<keyword>Joseph Thomas Heath</keyword>
-			<keyword>Hudson's Bay Company</keyword>
-			<keyword>Daily Life</keyword>
-			<keyword>Food</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Tales of Old Fort Steilacoom</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V26 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V26N1.pdf</link>
-		<date>Spring 2009</date>
-		<keyword>Fort Steilacoom</keyword>
-		<keyword>August Valentine Kautz</keyword>
-		<keyword>Daily Life</keyword>
-		<keyword>Sleighing</keyword>
-		<keyword>Miss Teen</keyword>
-		<keyword>Elizabeth "Bessie" Casey Scott</keyword>
-		<keyword>Hudson's Bay Company</keyword>
-		<keyword>Maurice Maloney</keyword>
-	</newsletter>
-	<newsletter>
-		<title>Edward Wanton (Ned) Casey</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V25 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V25N4.pdf</link>
-		<date>Winter 2008</date>
-		<keywords>
-			<keyword>Edward "Ned" Wanton Casey</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>August Valentine Kautz</keyword>
-			<keyword>Abigail "Abby" Perry Pearce Casey</keyword>
-			<keyword>Casey</keyword>
-			<keyword>Childhood</keyword>
-			<keyword>Family Life</keyword>
-			<keyword>American Civil War (1846-1848)</keyword>
-			<keyword>Peninsula Campaign</keyword>
-			<keyword>Sioux</keyword>
-			<keyword>Cheyenne </keyword>
-			<keyword>Lame Deer</keyword>
-			<keyword>Depression</keyword>
-			<keyword>Railroad</keyword>
-			<keyword>Plenty Horses</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Casey in Washington Territory</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V25 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V25N3.pdf</link>
-		<date>Autumn 2008</date>
-		<keywords>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Forts</keyword>
-			<keywords>Washington Territory</keywords>
-			<keyword>Puget Sound War (1855-1856)</keyword>
-			<keyword>Yakima</keyword>
-			<keyword>Isaac Ingalls Stevens</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>William Alloway Slaughter</keyword>
-			<keyword>White River</keyword>
-			<keyword>Maurice Maloney</keyword>
-			<keyword>Kitsap</keyword>
-			<keyword>Kanasket</keyword>
-			<keyword>Klikitats</keyword>
-			<keyword>Fort Nisqually</keyword>
-			<keyword>Military History</keyword>
-			<keyword>August Valentine Kautz</keyword>
-			<keyword>Leschi</keyword>
-			<keyword>Chief Leschi Trial</keyword>
-			<keyword>Social Gathering</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>What on Earth is “Living History?”</title>
-		<author>Gideon Pete</author>
-		<volume>V25 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V25N2.pdf</link>
-		<date>Summer 2008</date>
-		<keywords>
-			<keyword>Programming</keyword>
-			<keyword>Reenactor</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Chief Leschi’s Name is Cleared</title>
-		<author>Cecelia Carpenter</author>
-		<volume>V25 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V25N1.pdf</link>
-		<date>Spring 2008</date>
-		<keywords>
-			<keyword>Truth Teller</keyword>
-			<keyword>Chief Leschi Trial</keyword>
-			<keyword>Leschi</keyword>
-			<keyword>Nisqually</keyword>
-			<keyword>A Historical Court of Inquiry and Justice</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Truth Teller—The Last Issue</title>
-		<author>Carol Neufeld Stout</author>
-		<volume>V24 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V24N4.pdf</link>
-		<date>Winter 2007</date>
-		<keywords>
-			<keyword>Truth Teller</keyword>
-			<keyword>Chief Leschi Trial</keyword>
-			<keyword>William Fraser Tolmie</keyword>
-			<keyword>August Valentine Kautz</keyword>
-			<keyword>Leschi</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Murder and the Truth Teller</title>
-		<author>Carol Neufeld Stout</author>
-		<volume>V24 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N3.pdf</link>
-		<date>Autumn 2007</date>
-	</newsletter>
-	<newsletter>
-		<title>Waiting for the Weekly News—A look at Steilacoom’s Early Newspapers</title>
-		<author>Nancy Covert</author>
-		<volume>V24 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V24N2.pdf</link>
-		<date>Summer 2007</date>
-		<keywords>
-			<keyword>Newspapers</keyword>
-			<keyword>Puget Sound Courier</keyword>
-			<keyword>The Columbian</keyword>
-			<keyword>The Washington Republican</keyword>
-			<keyword>Truth Teller</keyword>
-			<keyword>The Puget Sound Herald</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Restoring Historic Fort Steilacoom</title>
-		<author>Charles R. Collier</author>
-		<volume>V24 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V24N1.pdf</link>
-		<date>Spring 2007</date>
-		<keywords>
-			<keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-			<keyword>Preservation</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Thomas Lincoln—Fort Steilacoom’s Other Casey</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V23 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N4.pdf</link>
-		<date>Winter 2006</date>
-		<keywords>
-			<keyword>Casey</keyword>
-			<keyword>Thomas Lincoln Casey</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Engineering</keyword>
-			<keyword>Emma Weir Casey</keyword>
-			<keyword>Transportation</keyword>
-			<keyword>Abraham Lincoln</keyword>
-			<keyword>American Civil War (1846-1848)</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Tea with Mrs. Casey</title>
-		<author>Staff</author>
-		<volume>V23 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N4.pdf</link>
-		<date>Winter 2006-7</date>
-		<keywords>
-			<keyword>Casey</keyword>
-			<keyword>Abigail "Abby" Perry Pearce Casey</keyword>
-			<keyword>Elizabeth "Bessie" Casey Scott</keyword>
-			<keyword>Mrs. English</keyword>
-			<keyword>Emily Alvord</keyword>
-			<keyword>Social Gathering</keyword>
-			<keyword>Sarah Conklin Bachelder</keyword>
-			<keyword>Lelita Work Huggins</keyword>
-			<keyword>Jane Work Tolmie</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>The Army Sutler</title>
-		<author>Lawrence Bateman</author>
-		<volume>V23 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N3.pdf</link>
-		<date>Autumn 2006</date>
-		<keywords>
-			<keyword>James M. Bachelder</keyword>
-			<keyword>Commerce</keyword>
-			<keyword>Charles Porsch</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>August Valentine Kautz</keyword>
-			<keyword>Chief Leschi Trial</keyword>
-			<keyword>Sarah Conklin Bachelder</keyword>
-			<keyword>Daily Life</keyword>
-			<keyword>Horace W. Bachelder</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>James M. Bachelder—Fort Steilacoom Sutler</title>
-		<author>Carol Neufeld Stout</author>
-		<volume>V23 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N3.pdf</link>
-		<date>Autumn 2006</date>
-		<keywords>
-			<keyword>James M. Bachelder</keyword>
-			<keyword>Commerce</keyword>
-			<keyword>Sarah Conklin Bachelder</keyword>
-			<keyword>Daily Life</keyword>
-			<keyword>Horace W. Bachelder</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>A Marriage of Convenience—Connections Between Forts Nisqually and Steilacoom</title>
-		<author>Steve A. Anderson</author>
-		<volume>V23 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N2.pdf</link>
-		<date>Summer 2006</date>
-		<keywords>
-			<keyword>Fort Nisqually</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Commerce</keyword>
-			<keyword>Joseph T. Heath Farm</keyword>
-			<keyword>Equipment</keyword>
-			<keyword>Puget Sound War (1855-1856)</keyword>
-			<keyword>Leschi</keyword>
-			<keyword>Washington Territory Volunteers</keyword>
-			<keyword>Nisqually</keyword>
-			<keyword>William Fraser Tolmie</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Lt. John Nugen 1830-1857</title>
-		<author>Anne Marshall</author>
-		<volume>V23 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N1.pdf</link>
-		<date>Spring 2006</date>
-		<keywords>
-			<keyword>John Nugen</keyword>
-			<keyword>Mary Wells Slaughter</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>4th U.S. Infantry Regiment</keyword>
-			<keyword>William Alloway Slaughter</keyword>
-			<keyword>White River</keyword>
-			<keyword>Daily Life</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Mary Wells Slaughter</title>
-		<author>Sandy Burwell</author>
-		<volume>V22 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N4.pdf</link>
-		<date>Winter 2005</date>
-		<keywords>
-			<keyword>Mary Wells Slaughter</keyword>
-			<keyword>Daily Life</keyword>
-			<keyword>Dances</keyword>
-			<keyword>Cholera</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Puget Sound War (1855-1856)</keyword>
-			<keyword>Klickitat</keyword>
-			<keyword>Yakima</keyword>
-			<keyword>Walla Walla</keyword>
-			<keyword>William Alloway Slaughter</keyword>
-			<keyword>Nugent</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Elizabeth Rigney—A Living History Portrayal</title>
-		<author>Karen Haas</author>
-		<volume>V22 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N3.pdf</link>
-		<date>Autumn 2005</date>
-		<keywords>
-			<keyword>Elizabeth Rigney</keyword>
-			<keyword>Reenactor</keyword>
-			<keyword>John Rigney</keyword>
-			<keyword>Mexican-American War (1846-1848)</keyword>
-			<keyword>Joseph Thomas Heath</keyword>
-			<keyword>Domestic Work</keyword>
-			<keyword>Soap Making</keyword>
-			<keyword>Laundry</keyword>
-			<keyword>Daily Life</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Richard Lyle Dunkin</title>
-		<author>Staff</author>
-		<volume>V22 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N3.pdf</link>
-		<date>Autumn 2005</date>
-		<keywords>
-			<keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-			<keyword>Restoration</keyword>
-			<keyword>Preservation</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>The Cayuse, the Whitmans, and the Courts</title>
-		<author>Dr. Robert Ruby</author>
-		<volume>V22 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N2.pdf</link>
-		<date>Summer 2005</date>
-		<keywords>
-			<keyword>Whitman Massacre (1847)</keyword>
-			<keyword>Cayuse</keyword>
-			<keyword>Nez Pierce</keyword>
-			<keyword>Trial</keyword>
-			<keyword>Marcus Whitman</keyword>
-			<keyword>Stickus</keyword>
-			<keyword>Joseph Lane</keyword>
-			<keyword>Waiilatpu Mission</keyword>
-			<keyword>Settler-Colonialism</keyword>
-			<keyword>Medicine</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>
-			Mrs. Colonel Silas Casey III (Abigail Perry Casey – Hostess, Socialite and
-			Mother)
-		</title>
-		<author>Nancy Keller-Scholz</author>
-		<volume>V22 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N1.pdf</link>
-		<date>Spring 2005</date>
-		<keywords>
-			<keyword>Abigail "Abby" Perry Pearce Casey</keyword>
-			<keyword>Presenter</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Entertainment</keyword>
-			<keyword>Louis Rossi</keyword>
-			<keyword>Social Gathering</keyword>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Thomas Lincoln Casey</keyword>
-			<keyword>William Fraser Tolmie</keyword>
-			<keyword>August Valentine Kautz</keyword>
-			<keyword>Abby Casey</keyword>
-			<keyword>Elizabeth "Bessie" Casey Scott</keyword>
-			<keyword>Mrs. Maloney</keyword>
-			<keyword>Mrs. English</keyword>
-			<keyword>Lelita Work Huggins</keyword>
-			<keyword>Theater</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>On the New Frontier: Casey’s Pacific Coast Service</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V21 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V21N4.pdf</link>
-		<date>Winter 2004</date>
-		<keywords>
-			<keyword>Mexican-American War (1846-1848)</keyword>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Equipment</keyword>
-			<keyword>Military History</keyword>
-			<keyword>Argonauts</keyword>
-			<keyword>Gold Rush</keyword>
-			<keyword>Railroads (industry)</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Steilacoom and the Military</title>
-		<author>John Hemphill</author>
-		<volume>V21 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V21N3.pdf</link>
-		<date>Autumn 2004</date>
-		<keywords>
-			<keyword>Military History</keyword>
-			<keyword>1st U.S. Artillery Regiment</keyword>
-			<keyword>Ships</keyword>
-			<keyword>Snoqualmie</keyword>
-			<keyword>Skykomish</keyword>
-			<keyword>Fort Nisqually</keyword>
-			<keyword>Puget Sound Agricultural Company</keyword>
-			<keyword>Joseph T. Heath Farm</keyword>
-			<keyword>4th U.S. Infantry Regiment</keyword>
-			<keyword>Isaac Ingalls Stevens</keyword>
-			<keyword>Indian Agent</keyword>
-			<keyword>Medicine Creek Treaty Council</keyword>
-			<keyword>Treaty of Medicine Creek (1854)</keyword>
-			<keyword>Chinook</keyword>
-			<keyword>Leschi</keyword>
-			<keyword>Nisqually</keyword>
-			<keyword>Yakima</keyword>
-			<keyword>Shot-Face Charlie</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Puyallup</keyword>
-			<keyword>William H Wallace</keyword>
-			<keyword>Casey</keyword>
-			<keyword>Washington Mounted Rifles</keyword>
-			<keyword>Chief Leschi Trial</keyword>
-			<keyword>Thomas Lincoln Casey</keyword>
-			<keyword>August Valentine Kautz</keyword>
-			<keyword>John Rigney</keyword>
-			<keyword>Elizabeth Rigney</keyword>
-			<keyword>American Civil War (1846-1848)</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>South of the Border—From Vera Cruz to Mexico City</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V21 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V21N2.pdf</link>
-		<date>Summer 2004</date>
-		<keywords>
-			<keyword>Mexican-American War (1846-1848)</keyword>
-			<keyword>Manifest Destiny</keyword>
-			<keyword>Casey</keyword>
-			<keyword>Military History</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Into the Florida Swamps—Casey Fights the Seminoles</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V21 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V21N1.pdf</link>
-		<date>Spring 2004</date>
-		<keywords>
-			<keyword>Second Seminole War (1835-1842)</keyword>
-			<keyword>Commerce</keyword>
-			<keyword>Miccosukee</keyword>
-			<keyword>Seminole</keyword>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Trial</keyword>
-			<keyword>American Indian Removal (1830-1847)</keyword>
-			<keyword>Indian Removal Act of 1830</keyword>
-			<keyword>Military History</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Silas Casey—The Man in the Uniform</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V20 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N4.pdf</link>
-		<date>Winter 2003</date>
-		<keywords>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Mexican-American War (1846-1848)</keyword>
-			<keyword>Christian</keyword>
-			<keyword>American Civil War (1846-1848)</keyword>
-			<keyword>Second Seminole War (1835-1842)</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Major General John Fulton Reynolds</title>
-		<author>Babs Weston</author>
-		<volume>V20 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N3.pdf</link>
-		<date>Autumn 2003</date>
-		<keywords>
-			<keyword>American Civil War (1846-1848)</keyword>
-			<keyword>John Fulton Reynolds</keyword>
-			<keyword>Mexican-American War (1846-1848)</keyword>
-			<keyword>Kate Hewitt</keyword>
-			<keyword>Catholicism</keyword>
-			<keyword>Abraham Lincoln</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Cause of Casey’s Death – Letter of Col.Thomas Casey, Feb. 14, 1882</title>
-		<author>Col. Thomas Casey</author>
-		<volume>V20 N3</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N3.pdf</link>
-		<date>Autumn 2003</date>
-		<keywords>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Thomas Lincoln Casey</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Fort Steilacoom’s Return to History</title>
-		<author>Steve Dunkelberger</author>
-		<volume>V20 N2</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N2.pdf</link>
-		<date>Summer 2003</date>
-		<keywords>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>1st U.S. Artillery Regiment</keyword>
-			<keyword>Fort Nisqually</keyword>
-			<keyword>Hudson's Bay Company</keyword>
-			<keyword>Joseph Thomas Heath</keyword>
-			<keyword> Puget Sound Agricultural Company</keyword>
-			<keyword>William Fraser Tolmie</keyword>
-			<keyword>Columbia River</keyword>
-			<keyword>Settler-Colonialism</keyword>
-			<keyword>Whitman Massacre (1847)</keyword>
-			<keyword>Lafayette Balch</keyword>
-			<keyword>Fort Walla Walla</keyword>
-			<keyword>Treaty of Medicine Creek (1854)</keyword>
-			<keyword>Puget Sound War (1855-1856)</keyword>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Isaac Ingalls Stevens</keyword>
-			<keyword>Trial</keyword>
-			<keyword>Leschi</keyword>
-			<keyword>Abraham Benton Moses</keyword>
-			<keyword>August Valentine Kautz</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>The Caseys of Rhode Island</title>
-		<author>Kenneth A. Morgan</author>
-		<volume>V20 N1</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N1.pdf</link>
-		<date>Spring 2003</date>
-		<keywords>
-			<keyword>Casey</keyword>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Thomas Lincoln Casey</keyword>
-			<keyword>Commerce</keyword>
-			<keyword>American Revolutionary War (1775-1783)</keyword>
-			<keyword>Second Seminole War (1835-1842)</keyword>
-			<keyword>Mexican-American War (1846-1848)</keyword>
-			<keyword>Abigail "Abby" Perry Pearce Casey</keyword>
-			<keyword>Abby Casey</keyword>
-			<keyword>Elizabeth "Bessie" Casey Scott</keyword>
-			<keyword>Edward "Ned" Wanton Casey</keyword>
-			<keyword>Lewis Cass Hunt</keyword>
-			<keyword>American Civil War (1846-1848)</keyword>
-			<keyword>Plenty Horses</keyword>
-			<keyword>Sioux</keyword>
-			<keyword>Cheyenne</keyword>
-			<keyword>Silas Casey III</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>A Christmas of 1859 at Fort Steilacoom</title>
-		<author>Staff</author>
-		<volume>V19 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N4.pdf</link>
-		<date>Winter 2002</date>
-		<keywords>
-			<keyword>Social and Cultural History</keyword>
-			<keyword>Holidays</keyword>
-			<keyword>Christmans</keyword>
-			<keyword>Casey</keyword>
-			<keyword>Silas Casey II</keyword>
-			<keyword>Maurice Maloney</keyword>
-			<keyword>Lewis Cass Hunt</keyword>
-			<keyword>Augustus</keyword>
-			<keyword>James M. Bachelder</keyword>
-			<keyword>Sarah Conklin Bachelder</keyword>
-			<keyword>Edward Huggins</keyword>
-			<keyword>Hudson Bay Company</keyword>
-			<keyword>Fort Nisqually</keyword>
-			<keyword>Steilacoom (town)</keyword>
-			<keyword>Mrs. Philip Keach</keyword>
-			<keyword>Charles Prosch</keyword>
-			<keyword>Social Gathering</keyword>
-			<keyword>Dances</keyword>
-			<keyword>Religion</keyword>
-			<keyword>Abigail "Abby" Perry Pearce Casey</keyword>
-			<keyword>Abby Casey</keyword>
-			<keyword>Elizabeth "Bessie" Casey Scott</keyword>
-			<keyword>Edward "Ned" Wanton Casey</keyword>
-			<keyword>E. Porter Alexander</keyword>
-			<keyword>Mrs. Alexander</keyword>
-			<keyword>Ships</keyword>
-			<keyword>Mexican-American War (1846-1848)</keyword>
-			<keyword>American Civil War (1846-1848)</keyword>
-			<keyword>Fort Steilacoom</keyword>
-			<keyword>Programming</keyword>
-			<keyword>Reenactor</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-		<title>Back to the past: Time Traveling in Steilacoom</title>
-		<author>Amanda Gillingham</author>
-		<volume>V19 N4</volume>
-		<link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N4.pdf</link>
-		<date>Winter 2002</date>
-		<keywords>
-			<keyword>Programming</keyword>
-			<keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-			<keyword>Silas Casey II</keyword>
-		</keywords>
-	</newsletter>
-	<newsletter>
-       <title>Into the Frontier—Casey’s First Post and Battle with Indians</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V19 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N3.pdf</link>
-       <date>Autumn 2002</date>
-       <keywords>
+    </newsletter>
+    <newsletter>
+        <title>Perpetually in the Field—Housing the Antebellum Army</title>
+        <author>Gideon Pete</author>
+        <volume>V27 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V27N4.pdf</link>
+        <date>Winter 2010</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Housing</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Military Uniforms</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>More Tales of Old Fort Steilacoom</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V26 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V26N4.pdf</link>
+        <date>Winter 2009</date>
+        <keywords>
+            <keyword>William Alloway Slaughter</keyword>
+            <keyword>John Nugen</keyword>
+            <keyword>4th U.S. Infantry Regiment</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
             <keyword>Casey</keyword>
-            <keyword>Silas Casey II (1807-1882)</keyword>
-            <keyword>Military history</keyword>
-            <keyword>West Point</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
-            <keyword>Organization</keyword>
-            <keyword>Indigenous history</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Was Fair Oaks Fair to Casey?</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V19 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N2.pdf</link>
-       <date>Summer 2002</date>
-       <keywords>
+            <keyword>Daily Life</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Equipment</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>1st Lt. William Alloway Slaughter—Casualty of the Indian War</title>
+        <author>Carol Neufeld Stout</author>
+        <volume>V26 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V26N3.pdf</link>
+        <date>Autumn 2009</date>
+        <keywords>
+            <keyword>William Alloway Slaughter</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Mary Wells Slaughter</keyword>
+            <keyword>Social Gathering</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>From Joseph Heath Farm to Fort Steilacoom Museum</title>
+        <author>Carol Neufeld Stout</author>
+        <volume>V26 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V26N2.pdf</link>
+        <date>Summer 2009</date>
+        <keywords>
+            <keyword>Joseph T. Heath Farm</keyword>
+            <keyword>Joseph Thomas Heath</keyword>
+            <keyword>Hudson's Bay Company</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Food</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Tales of Old Fort Steilacoom</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V26 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V26N1.pdf</link>
+        <date>Spring 2009</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Sleighing</keyword>
+            <keyword>Miss Teen</keyword>
+            <keyword>Elizabeth "Bessie" Casey Scott</keyword>
+            <keyword>Hudson's Bay Company</keyword>
+            <keyword>Maurice Maloney</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Edward Wanton (Ned) Casey</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V25 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V25N4.pdf</link>
+        <date>Winter 2008</date>
+        <keywords>
+            <keyword>Edward "Ned" Wanton Casey</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>Abigail "Abby" Perry Pearce Casey</keyword>
             <keyword>Casey</keyword>
-            <keyword>Silas Casey II (1807-1882)</keyword>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+            <keyword>Childhood</keyword>
+            <keyword>Family Life</keyword>
             <keyword>American Civil War (1861-1865)</keyword>
             <keyword>Peninsula Campaign</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Silas Casey, USMA Class of 1826</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V19 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N1.pdf</link>
-       <date>Spring 2002</date>
-       <keywords>
+            <keyword>Sioux</keyword>
+            <keyword>Cheyenne</keyword>
+            <keyword>Lame Deer</keyword>
+            <keyword>Depression</keyword>
+            <keyword>Railroads</keyword>
+            <keyword>Plenty Horses</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Casey in Washington Territory</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V25 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V25N3.pdf</link>
+        <date>Autumn 2008</date>
+        <keywords>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Forts</keyword>
+            <keyword>Washington Territory (1853-1889)</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>Yakima</keyword>
+            <keyword>Isaac Ingalls Stevens</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>William Alloway Slaughter</keyword>
+            <keyword>White River</keyword>
+            <keyword>Maurice Maloney</keyword>
+            <keyword>Ktsap</keyword>
+            <keyword>Kasnasket</keyword>
+            <keyword>Klickitat</keyword>
+            <keyword>Fort Nisqually</keyword>
+            <keyword>Military History</keyword>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>Social Gathering</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>What on Earth is “Living History?”</title>
+        <author>Gideon Pete</author>
+        <volume>V25 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V25N2.pdf</link>
+        <date>Summer 2008</date>
+        <keywords>
+            <keyword>Programming</keyword>
+            <keyword>Reenactor</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Chief Leschi’s Name is Cleared</title>
+        <author>Cecelia Carpenter</author>
+        <volume>V25 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V25N1.pdf</link>
+        <date>Spring 2008</date>
+        <keywords>
+            <keyword>Truth Teller</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Nisqually</keyword>
+            <keyword>A Historical Court of Inquiry and Justice</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Truth Teller—The Last Issue</title>
+        <author>Carol Neufeld Stout</author>
+        <volume>V24 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V24N4.pdf</link>
+        <date>Winter 2007</date>
+        <keywords>
+            <keyword>Truth Teller</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>William Fraser Tolmie</keyword>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>Leschi</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Murder and the Truth Teller</title>
+        <author>Carol Neufeld Stout</author>
+        <volume>V24 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N3.pdf</link>
+        <date>Autumn 2007</date>
+    </newsletter>
+    <newsletter>
+        <title>Waiting for the Weekly News—A look at Steilacoom’s Early Newspapers</title>
+        <author>Nancy Covert</author>
+        <volume>V24 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V24N2.pdf</link>
+        <date>Summer 2007</date>
+        <keywords>
+            <keyword>Newspapers</keyword>
+            <keyword>Puget Sound Courier</keyword>
+            <keyword>The Columbian</keyword>
+            <keyword>The Washington Republican</keyword>
+            <keyword>Truth Teller</keyword>
+            <keyword>The Puget Sound Herald</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Restoring Historic Fort Steilacoom</title>
+        <author>Charles R. Collier</author>
+        <volume>V24 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V24N1.pdf</link>
+        <date>Spring 2007</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Preservation</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Thomas Lincoln—Fort Steilacoom’s Other Casey</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V23 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N4.pdf</link>
+        <date>Winter 2006</date>
+        <keywords>
             <keyword>Casey</keyword>
-            <keyword>Silas Casey II (1807-1882)</keyword>
-            <keyword>Military history</keyword>
-            <keyword>West Point</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+            <keyword>Thomas Lincoln Casey</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Engineering</keyword>
+            <keyword>Emma Weir Casey</keyword>
+            <keyword>Transportation</keyword>
+            <keyword>Abraham Lincoln</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Tea with Mrs. Casey</title>
+        <author>Staff</author>
+        <volume>V23 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N4.pdf</link>
+        <date>Winter 2006-7</date>
+        <keywords>
+            <keyword>Casey</keyword>
+            <keyword>Abigail "Abby" Perry Pearce Casey</keyword>
+            <keyword>Elizabeth "Bessie" Casey Scott</keyword>
+            <keyword>Mrs. English</keyword>
+            <keyword>Emily Alvord</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Sarah Conklin Bachelder</keyword>
+            <keyword>Lelita Work Huggins</keyword>
+            <keyword>Jane Work Tolmie</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Army Sutler</title>
+        <author>Lawrence Bateman</author>
+        <volume>V23 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N3.pdf</link>
+        <date>Autumn 2006</date>
+        <keywords>
+            <keyword>James M. Bachelder</keyword>
+            <keyword>Commerce</keyword>
+            <keyword>Charles Prosch</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>Sarah Conklin Bachelder</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Horace W. Bachelder</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>James M. Bachelder—Fort Steilacoom Sutler</title>
+        <author>Carol Neufeld Stout</author>
+        <volume>V23 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N3.pdf</link>
+        <date>Autumn 2006</date>
+        <keywords>
+            <keyword>James M. Bachelder</keyword>
+            <keyword>Commerce</keyword>
+            <keyword>Sarah Conklin Bachelder</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Horace W. Bachelder</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>A Marriage of Convenience—Connections Between Forts Nisqually and Steilacoom</title>
+        <author>Steve A. Anderson</author>
+        <volume>V23 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N2.pdf</link>
+        <date>Summer 2006</date>
+        <keywords>
+            <keyword>Fort Nisqually</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Commerce</keyword>
+            <keyword>Joseph T. Heath Farm</keyword>
+            <keyword>Equipment</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Washington Territory Volunteers</keyword>
+            <keyword>Nisqually</keyword>
+            <keyword>William Fraser Tolmie</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Lt. John Nugen 1830-1857</title>
+        <author>Anne Marshall</author>
+        <volume>V23 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V23N1.pdf</link>
+        <date>Spring 2006</date>
+        <keywords>
+            <keyword>John Nugen</keyword>
+            <keyword>Mary Wells Slaughter</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>4th U.S. Infantry Regiment</keyword>
+            <keyword>William Alloway Slaughter</keyword>
+            <keyword>White River</keyword>
+            <keyword>Daily Life</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Mary Wells Slaughter</title>
+        <author>Sandy Burwell</author>
+        <volume>V22 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N4.pdf</link>
+        <date>Winter 2005</date>
+        <keywords>
+            <keyword>Mary Wells Slaughter</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Dances</keyword>
+            <keyword>Cholera</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>Klickitat</keyword>
+            <keyword>Yakima</keyword>
+            <keyword>Walla Walla</keyword>
+            <keyword>William Alloway Slaughter</keyword>
+            <keyword>Nugent</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Elizabeth Rigney—A Living History Portrayal</title>
+        <author>Karen Haas</author>
+        <volume>V22 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N3.pdf</link>
+        <date>Autumn 2005</date>
+        <keywords>
+            <keyword>Elizabeth Rigney</keyword>
+            <keyword>Reenactor</keyword>
+            <keyword>John Rigney</keyword>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>Joseph Thomas Heath</keyword>
+            <keyword>Domestic Work</keyword>
+            <keyword>Soap Making</keyword>
+            <keyword>Laundry</keyword>
+            <keyword>Daily Life</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Richard Lyle Dunkin</title>
+        <author>Staff</author>
+        <volume>V22 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N3.pdf</link>
+        <date>Autumn 2005</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Restoration</keyword>
+            <keyword>Preservation</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Cayuse, the Whitmans, and the Courts</title>
+        <author>Dr. Robert Ruby</author>
+        <volume>V22 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N2.pdf</link>
+        <date>Summer 2005</date>
+        <keywords>
+            <keyword>Whitman Massacre (1847)</keyword>
+            <keyword>Cayuse</keyword>
+            <keyword>Nez Perce</keyword>
+            <keyword>Trial</keyword>
+            <keyword>Marcus Whitman</keyword>
+            <keyword>Istachus</keyword>
+            <keyword>Joseph Lane</keyword>
+            <keyword>Waiilatpu Mission</keyword>
+            <keyword>Settler-Colonialism</keyword>
+            <keyword>Medicine</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title> Mrs. Colonel Silas Casey III (Abigail Perry Casey – Hostess, Socialite and Mother) </title>
+        <author>Nancy Keller-Scholz</author>
+        <volume>V22 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V22N1.pdf</link>
+        <date>Spring 2005</date>
+        <keywords>
+            <keyword>Abigail "Abby" Perry Pearce Casey</keyword>
+            <keyword>Presenter</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Entertainment</keyword>
+            <keyword>Louis Rossi</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Thomas Lincoln Casey</keyword>
+            <keyword>William Fraser Tolmie</keyword>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>Abby Casey</keyword>
+            <keyword>Elizabeth "Bessie" Casey Scott</keyword>
+            <keyword>Mrs. Maloney</keyword>
+            <keyword>Mrs. English</keyword>
+            <keyword>Lelita Work Huggins</keyword>
+            <keyword>Theater</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>On the New Frontier: Casey’s Pacific Coast Service</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V21 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V21N4.pdf</link>
+        <date>Winter 2004</date>
+        <keywords>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Equipment</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Argonauts</keyword>
+            <keyword>Gold Rush</keyword>
+            <keyword>Railroads (industry)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Steilacoom and the Military</title>
+        <author>John Hemphill</author>
+        <volume>V21 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V21N3.pdf</link>
+        <date>Autumn 2004</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>1st U.S. Artillery Regiment</keyword>
+            <keyword>Ships</keyword>
+            <keyword>Snoqualmie</keyword>
+            <keyword>Skykomish</keyword>
+            <keyword>Fort Nisqually</keyword>
+            <keyword>Puget Sound Agricultural Company</keyword>
+            <keyword>Joseph T. Heath Farm</keyword>
+            <keyword>4th U.S. Infantry Regiment</keyword>
+            <keyword>Isaac Ingalls Stevens</keyword>
+            <keyword>Indian Agent</keyword>
+            <keyword>Medicine Creek Treaty Council</keyword>
+            <keyword>Treaty of Medicine Creek (1854)</keyword>
+            <keyword>Chinook</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Nisqually</keyword>
+            <keyword>Yakima</keyword>
+            <keyword>Shot-Face Charlie</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Puyallup</keyword>
+            <keyword>William H. Wallace</keyword>
+            <keyword>Casey</keyword>
+            <keyword>Washington Mounted Rifles</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>Thomas Lincoln Casey</keyword>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>John Rigney</keyword>
+            <keyword>Elizabeth Rigney</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>South of the Border—From Vera Cruz to Mexico City</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V21 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V21N2.pdf</link>
+        <date>Summer 2004</date>
+        <keywords>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>Manifest Destiny</keyword>
+            <keyword>Casey</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Into the Florida Swamps—Casey Fights the Seminoles</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V21 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V21N1.pdf</link>
+        <date>Spring 2004</date>
+        <keywords>
             <keyword>Second Seminole War (1835-1842)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Christmas and New Years at Fort Steilacoom</title>
-       <author>Carol E. Neufeld</author>
-       <volume>V18 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N4.pdf</link>
-       <date>Winter 2001</date>
-       <keywords>
+            <keyword>Commerce</keyword>
+            <keyword>Miccosukee</keyword>
+            <keyword>Seminole</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Trial</keyword>
+            <keyword>American Indian Removal (1830-1847)</keyword>
+            <keyword>Indian Removal Act of 1830</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Silas Casey—The Man in the Uniform</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V20 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N4.pdf</link>
+        <date>Winter 2003</date>
+        <keywords>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>Christianity</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Second Seminole War (1835-1842)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Major General John Fulton Reynolds</title>
+        <author>Babs Weston</author>
+        <volume>V20 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N3.pdf</link>
+        <date>Autumn 2003</date>
+        <keywords>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>John Fulton Reynolds</keyword>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>Kate Hewitt</keyword>
+            <keyword>Catholicism</keyword>
+            <keyword>Abraham Lincoln</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Cause of Casey’s Death – Letter of Col.Thomas Casey, Feb. 14, 1882</title>
+        <author>Col. Thomas Casey</author>
+        <volume>V20 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N3.pdf</link>
+        <date>Autumn 2003</date>
+        <keywords>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Thomas Lincoln Casey</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom’s Return to History</title>
+        <author>Steve Dunkelberger</author>
+        <volume>V20 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N2.pdf</link>
+        <date>Summer 2003</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>1st U.S. Artillery Regiment</keyword>
+            <keyword>Fort Nisqually</keyword>
+            <keyword>Hudson's Bay Company</keyword>
+            <keyword>Joseph Thomas Heath</keyword>
+            <keyword>Puget Sound Agricultural Company</keyword>
+            <keyword>William Fraser Tolmie</keyword>
+            <keyword>Columbia River</keyword>
+            <keyword>Settler-Colonialism</keyword>
+            <keyword>Whitman Massacre (1847)</keyword>
+            <keyword>Lafayette Balch</keyword>
+            <keyword>Fort Walla Walla</keyword>
+            <keyword>Treaty of Medicine Creek (1854)</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Isaac Ingalls Stevens</keyword>
+            <keyword>Trial</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Abraham Benton Moses</keyword>
+            <keyword>August Valentine Kautz</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Caseys of Rhode Island</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V20 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V20N1.pdf</link>
+        <date>Spring 2003</date>
+        <keywords>
+            <keyword>Casey</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Thomas Lincoln Casey</keyword>
+            <keyword>Commerce</keyword>
+            <keyword>American Revolutionary War (1775-1783)</keyword>
+            <keyword>Second Seminole War (1835-1842)</keyword>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>Abigail "Abby" Perry Pearce Casey</keyword>
+            <keyword>Abby Casey</keyword>
+            <keyword>Elizabeth "Bessie" Casey Scott</keyword>
+            <keyword>Edward "Ned" Wanton Casey</keyword>
+            <keyword>Lewis Cass Hunt</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Plenty Horses</keyword>
+            <keyword>Sioux</keyword>
+            <keyword>Cheyenne</keyword>
+            <keyword>Silas Casey III</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>A Christmas of 1859 at Fort Steilacoom</title>
+        <author>Staff</author>
+        <volume>V19 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N4.pdf</link>
+        <date>Winter 2002</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
             <keyword>Holidays</keyword>
             <keyword>Christmas</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>A Tribute to Ellen M. Freckleton</title>
-       <author>Staff</author>
-       <volume>V18 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N4.pdf</link>
-       <date>Winter 2001</date>
-       <keywords>
+            <keyword>Casey</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Maurice Maloney</keyword>
+            <keyword>Lewis Cass Hunt</keyword>
+            <keyword>Agustus</keyword>
+            <keyword>James M. Bachelder</keyword>
+            <keyword>Sarah Conklin Bachelder</keyword>
+            <keyword>Edward Huggins</keyword>
+            <keyword>Hudson's Bay Company</keyword>
+            <keyword>Fort Nisqually</keyword>
+            <keyword>Steilacoom (town)</keyword>
+            <keyword>Mrs. Phillip Keach</keyword>
+            <keyword>Charles Prosch</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Dances</keyword>
+            <keyword>Religion</keyword>
+            <keyword>Abigail "Abby" Perry Pearce Casey</keyword>
+            <keyword>Abby Casey</keyword>
+            <keyword>Elizabeth "Bessie" Casey Scott</keyword>
+            <keyword>Edward "Ned" Wanton Casey</keyword>
+            <keyword>Edward Porter Alexander</keyword>
+            <keyword>Mrs. Alexander</keyword>
+            <keyword>Ships</keyword>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Reenactor</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Back to the past: Time Traveling in Steilacoom</title>
+        <author>Amanda Gillingham</author>
+        <volume>V19 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N4.pdf</link>
+        <date>Winter 2002</date>
+        <keywords>
+            <keyword>Programming</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Silas Casey II</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Into the Frontier—Casey’s First Post and Battle with Indians</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V19 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N3.pdf</link>
+        <date>Autumn 2002</date>
+        <keywords>
+            <keyword>Casey</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Military History</keyword>
+            <keyword>West Point</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>Organization</keyword>
+            <keyword>Indigenous History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Was Fair Oaks Fair to Casey?</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V19 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N2.pdf</link>
+        <date>Summer 2002</date>
+        <keywords>
+            <keyword>Casey</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Peninsula Campaign</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Silas Casey, USMA Class of 1826</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V19 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V19N1.pdf</link>
+        <date>Spring 2002</date>
+        <keywords>
+            <keyword>Casey</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Military History</keyword>
+            <keyword>West Point</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>Second Seminole War (1835-1842)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Christmas and New Years at Fort Steilacoom</title>
+        <author>Carol E. Neufeld</author>
+        <volume>V18 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N4.pdf</link>
+        <date>Winter 2001</date>
+        <keywords>
+            <keyword>Holidays</keyword>
+            <keyword>Christmas</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>A Tribute to Ellen M. Freckleton</title>
+        <author>Staff</author>
+        <volume>V18 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N4.pdf</link>
+        <date>Winter 2001</date>
+        <keywords>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Peter Runquist, Soldier, Blacksmith, Pioneer</title>
-       <author>Carol E. Neufeld</author>
-       <volume>V18 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N3.pdf</link>
-       <date>Autumn 2001</date>
-       <keywords>
-            <keyword>Military history</keyword>
+    </newsletter>
+    <newsletter>
+        <title>Peter Runquist, Soldier, Blacksmith, Pioneer</title>
+        <author>Carol E. Neufeld</author>
+        <volume>V18 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N3.pdf</link>
+        <date>Autumn 2001</date>
+        <keywords>
+            <keyword>Military History</keyword>
             <keyword>Organization</keyword>
             <keyword>1st U.S. Artillery Regiment</keyword>
-            <keyword>Settler-colonialism</keyword>
+            <keyword>Settler-Colonialism</keyword>
             <keyword>Settlers</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Christopher and Elizabeth Mahon—Washington Pioneers</title>
-       <author>Carol E. Neufeld</author>
-       <volume>V18 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N2.pdf</link>
-       <date>Summer 2001</date>
-       <keywords>
-            <keyword>Military history</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Christopher and Elizabeth Mahon—Washington Pioneers</title>
+        <author>Carol E. Neufeld</author>
+        <volume>V18 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N2.pdf</link>
+        <date>Summer 2001</date>
+        <keywords>
+            <keyword>Military History</keyword>
             <keyword>Organization</keyword>
             <keyword>1st U.S. Artillery Regiment</keyword>
             <keyword>Fort Steilacoom (1849-1868)</keyword>
-            <keyword>Settler-colonialism</keyword>
+            <keyword>Settler-Colonialism</keyword>
             <keyword>Settlers</keyword>
             <keyword>Travel</keyword>
             <keyword>Transportation</keyword>
             <keyword>Ships</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Renovation of Ft. Steilacoom Officers’ Quarters</title>
-       <author>Chuck Collier</author>
-       <volume>V18 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N1.pdf</link>
-       <date>Spring 2001</date>
-       <keywords>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Renovation of Ft. Steilacoom Officers’ Quarters</title>
+        <author>Chuck Collier</author>
+        <volume>V18 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N1.pdf</link>
+        <date>Spring 2001</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Restoration</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Reconstruction of Fort Steilacoom—1857-1858</title>
-       <author>Carol E. Neufeld</author>
-       <volume>V18 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N1.pdf</link>
-       <date>Spring 2001</date>
-       <keywords>
-            <keyword>Families</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Reconstruction of Fort Steilacoom—1857-1858</title>
+        <author>Carol E. Neufeld</author>
+        <volume>V18 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V18N1.pdf</link>
+        <date>Spring 2001</date>
+        <keywords>
             <keyword>Kautz</keyword>
-            <keyword>August Valentine Kautz (1828-1895)</keyword>
+            <keyword>August Valentine Kautz</keyword>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Fort Steilacoom (1849-1868)</keyword>
             <keyword>Engineering</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Life of a Military Family: Abby Pearce Casey Hunt and General Lewis Cass Hunt
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Life of a Military Family: Abby Pearce Casey Hunt and General Lewis Cass Hunt
             (part 2)</title>
-       <author>Carol Neufeld</author>
-       <volume>V17 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N4.pdf</link>
-       <date>Winter 2000</date>
-       <keywords>
-            <keyword>Families</keyword>
+        <author>Carol Neufeld</author>
+        <volume>V17 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N4.pdf</link>
+        <date>Winter 2000</date>
+        <keywords>
             <keyword>Casey</keyword>
-            <keyword>Abby Casey (m. 1860)</keyword>
-            <keyword>Lewis Cass Hunt (m. 1860)</keyword>
-            <keyword>Social &amp; cultural history</keyword>
-            <keyword>Daily life</keyword>
-            <keyword>Domestic work</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Barracks Room</title>
-       <author>Staff</author>
-       <volume>V17 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N4.pdf</link>
-       <date>Winter 2000</date>
-       <keywords>
-            <keyword>Military history</keyword>
+            <keyword>Abby Casey</keyword>
+            <keyword>Lewis Cass Hunt</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Domestic Work</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Barracks Room</title>
+        <author>Staff</author>
+        <volume>V17 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N4.pdf</link>
+        <date>Winter 2000</date>
+        <keywords>
+            <keyword>Military History</keyword>
             <keyword>Barracks</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Life of a Military Family: Abby Pearce Casey Hunt and General Lewis Cass Hunt
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Life of a Military Family: Abby Pearce Casey Hunt and General Lewis Cass Hunt
             (part 1)</title>
-       <author>Carol Neufeld</author>
-       <volume>V17 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N3.pdf</link>
-       <date>Autumn 2000</date>
-       <keywords>
-            <keyword>Families</keyword>
+        <author>Carol Neufeld</author>
+        <volume>V17 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N3.pdf</link>
+        <date>Autumn 2000</date>
+        <keywords>
             <keyword>Casey</keyword>
-            <keyword>Abby Casey (m. 1860)</keyword>
-            <keyword>Lewis Cass Hunt (m. 1860)</keyword>
-            <keyword>Military history</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom’s Gettysburg Connection</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V17 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N2.pdf</link>
-       <date>Summer 2000</date>
-       <keywords>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+            <keyword>Abby Casey</keyword>
+            <keyword>Lewis Cass Hunt</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom’s Gettysburg Connection</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V17 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N2.pdf</link>
+        <date>Summer 2000</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
             <keyword>American Civil War (1861-1865)</keyword>
             <keyword>Edward Porter Alexander</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Old Army Dam is Unearthed</title>
-       <author>Tacoma Sunday Ledger, Dec. 29, 1929</author>
-       <volume>V17 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N2.pdf</link>
-       <date>Summer 2000</date>
-       <keywords>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Old Army Dam is Unearthed</title>
+        <author>Tacoma Sunday Ledger, Dec. 29, 1929</author>
+        <volume>V17 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N2.pdf</link>
+        <date>Summer 2000</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
-            <keyword>Fort Steilacoom(1849-1868)</keyword>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
             <keyword>Engineering</keyword>
-            <keyword>Indigenous history</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Memorial Weekend [Civil War event at park]</title>
-       <author>Staff</author>
-       <volume>V17 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N2.pdf</link>
-       <date>Summer 2000</date>
-       <keywords>
+            <keyword>Indigenous History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Memorial Weekend [Civil War event at park]</title>
+        <author>Staff</author>
+        <volume>V17 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N2.pdf</link>
+        <date>Summer 2000</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Programming</keyword>
             <keyword>Reenactor</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Glittering Misery – The Army Life of the Kautz and Summerhayes Families</title>
-       <author>Carol Neufeld</author>
-       <volume>V17 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N1.pdf</link>
-       <date>Spring 2000</date>
-       <keywords>
-            <keyword>Families</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Glittering Misery – The Army Life of the Kautz and Summerhayes Families</title>
+        <author>Carol Neufeld</author>
+        <volume>V17 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N1.pdf</link>
+        <date>Spring 2000</date>
+        <keywords>
             <keyword>Kautz</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Projects Completed – Work in Progress</title>
-       <author>Bo Cooper</author>
-       <volume>V17 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N1.pdf</link>
-       <date>Spring 2000</date>
-       <keywords>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Projects Completed – Work in Progress</title>
+        <author>Bo Cooper</author>
+        <volume>V17 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N1.pdf</link>
+        <date>Spring 2000</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Programming</keyword>
             <keyword>Restoration</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>“Miracle Babies” Fort Steilacoom’s Youngest Members</title>
-       <author>Staff</author>
-       <volume>V17 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N1.pdf</link>
-       <date>Spring 2000</date>
-       <keywords>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>“Miracle Babies” Fort Steilacoom’s Youngest Members</title>
+        <author>Staff</author>
+        <volume>V17 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V17N1.pdf</link>
+        <date>Spring 2000</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom becomes Western StateHospital</title>
-       <author>Hilda Skott</author>
-       <volume>V16 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N4.pdf</link>
-       <date>Winter 1999</date>
-       <keywords>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom becomes Western StateHospital</title>
+        <author>Hilda Skott</author>
+        <volume>V16 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N4.pdf</link>
+        <date>Winter 1999</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Restoration</keyword>
-            <keyword>Western State Hospital (1871-present)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Legacy of Fort Steilacoom</title>
-       <author>Steve Dunkelberger</author>
-       <volume>V16 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N4.pdf</link>
-       <date>Winter 1999</date>
-       <keywords>
+            <keyword>Western State Hospital (1871-Present)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Legacy of Fort Steilacoom</title>
+        <author>Steve Dunkelberger</author>
+        <volume>V16 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N4.pdf</link>
+        <date>Winter 1999</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
-            <keyword>Western State Hospital (1871-present)</keyword>
-            <keyword>Fort Steilacoom(1849-1868)</keyword>
-            <keyword>Indigenous history</keyword>
-            <keyword>Nations &amp; peoples</keyword>
+            <keyword>Western State Hospital (1871-Present)</keyword>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
             <keyword>Steilacoom</keyword>
             <keyword>Puget Sound Agricultural Company</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Hipkins, more than a road in Lakewood</title>
-       <author>Steve Dunkelberger</author>
-       <volume>V16 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N3.pdf</link>
-       <date>Autumn 1999</date>
-       <keywords>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Hipkins, more than a road in Lakewood</title>
+        <author>Steve Dunkelberger</author>
+        <volume>V16 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N3.pdf</link>
+        <date>Autumn 1999</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Preservation</keyword>
-            <keyword>Settler-colonialism</keyword>
+            <keyword>Settler-Colonialism</keyword>
             <keyword>Settlers</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Facts and Foibles of Historical Research – Lessons I have Learned</title>
-       <author>Hilda Skott</author>
-       <volume>V16 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N3.pdf</link>
-       <date>Autumn 1999</date>
-       <keywords>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Facts and Foibles of Historical Research – Lessons I have Learned</title>
+        <author>Hilda Skott</author>
+        <volume>V16 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N3.pdf</link>
+        <date>Autumn 1999</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-            <keyword>Cultural &amp; social history</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Sesquicentennial</title>
-       <author>Staff</author>
-       <volume>V16 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N3.pdf</link>
-       <date>Autumn 1999</date>
-       <keywords>
-            <keyword>Fort Steilacoom</keyword>
-            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-            <keyword>Programming</keyword>
-            <keyword>Centennial</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Bancroft Comes to Fort Steilacoom</title>
-       <author>Walter Neary</author>
-       <volume>V16 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N2.pdf</link>
-       <date>Summer 1999</date>
-       <keywords>
-            <keyword>Social &amp; cultural history</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Sesquicentennial Celebration in August</title>
-       <author>Steve Dunkelberger</author>
-       <volume>V16 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N2.pdf</link>
-       <date>Summer 1999</date>
-       <keywords>
+            <keyword>Social and Cultural History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Sesquicentennial</title>
+        <author>Staff</author>
+        <volume>V16 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N3.pdf</link>
+        <date>Autumn 1999</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Programming</keyword>
             <keyword>Centennial</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Silas Casey II</title>
-       <author>Kenneth A. Morgan`</author>
-       <volume>V16 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N1.pdf</link>
-       <date>Spring 1999</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>People</keyword>
-            <keyword>Isaac Ingalls Stevens (1818-1862)</keyword>
-            <keyword>Silas Casey II (1807-1882)</keyword>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Bancroft Comes to Fort Steilacoom</title>
+        <author>Walter Neary</author>
+        <volume>V16 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N2.pdf</link>
+        <date>Summer 1999</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Sesquicentennial Celebration in August</title>
+        <author>Steve Dunkelberger</author>
+        <volume>V16 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N2.pdf</link>
+        <date>Summer 1999</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Centennial</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Silas Casey II</title>
+        <author>Kenneth A. Morgan`</author>
+        <volume>V16 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N1.pdf</link>
+        <date>Spring 1999</date>
+        <keywords>
+            <keyword>Isaac Ingalls Stevens</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
             <keyword>Puget Sound War (1855-1856)</keyword>
             <keyword>Second Seminole War (1835-1842)</keyword>
             <keyword>Mexican-American War (1846-1848)</keyword>
             <keyword>American Civil War (1861-1865)</keyword>
-            <keyword>Legal history</keyword>
+            <keyword>Legal History</keyword>
             <keyword>Trial</keyword>
             <keyword>Chief Leschi Trial</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Signs of Spring and Civil War</title>
-       <author>Tom Ebersten</author>
-       <volume>V16 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N1.pdf</link>
-       <date>Spring 1999</date>
-       <keywords>
+    </newsletter>
+    <newsletter>
+        <title>Signs of Spring and Civil War</title>
+        <author>Tom Ebersten</author>
+        <volume>V16 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V16N1.pdf</link>
+        <date>Spring 1999</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Reenactor</keyword>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
             <keyword>American Civil War (1861-1865)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Stevens and Casey at War</title>
-       <author>Steve Dunkelberger</author>
-       <volume>V15 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N4.pdf</link>
-       <date>Winter 1998</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>People</keyword>
-            <keyword>Isaac Ingalls Stevens (1818-1862)</keyword>
-            <keyword>Silas Casey II (1807-1882)</keyword>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Stevens and Casey at War</title>
+        <author>Steve Dunkelberger</author>
+        <volume>V15 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N4.pdf</link>
+        <date>Winter 1998</date>
+        <keywords>
+            <keyword>Isaac Ingalls Stevens</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
             <keyword>Puget Sound War (1855-1856)</keyword>
             <keyword>Pig War (1859)</keyword>
-            <keyword>Legal history</keyword>
+            <keyword>Legal History</keyword>
             <keyword>Chief Leschi Trial</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>A Place of Hospitality</title>
-       <author>Carol Neufeld</author>
-       <volume>V15 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N3.pdf</link>
-       <date>Autumn 1998</date>
+    </newsletter>
+    <newsletter>
+        <title>A Place of Hospitality</title>
+        <author>Carol Neufeld</author>
+        <volume>V15 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N3.pdf</link>
+        <date>Autumn 1998</date>
         <keywords>
-            <keyword>Agents</keyword>
-            <keyword>Families</keyword>
             <keyword>Casey</keyword>
-            <keyword>Silas Casey II (1807-1882)</keyword>
-            <keyword>Abigail "Abby" Perry Pearce Casey (m. 1830)</keyword>
-            <keyword>Abby Casey (m. 1860)</keyword>
-            <keyword>Lewis Cass Hunt (m. 1860)</keyword>
-            <keyword>Elizabeth "Bessie" Casey Scott (b. c. 1844)</keyword>
-            <keyword>Social &amp; cultural history</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Abigail "Abby" Perry Pearce Casey</keyword>
+            <keyword>Abby Casey</keyword>
+            <keyword>Lewis Cass Hunt</keyword>
+            <keyword>Elizabeth "Bessie" Casey Scott</keyword>
+            <keyword>Social and Cultural History</keyword>
             <keyword>Entertainment</keyword>
-            <keyword>Social gatherings</keyword>
-            <keyword>Family life</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Family Life</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Captain Charles H. Pierce – Fort Steilacoom’s Last Commanding Officer</title>
-       <author>John Fogle</author>
-       <volume>V15 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N2.pdf</link>
-       <date>Summer 1998</date>
-       <keywords>
+    </newsletter>
+    <newsletter>
+        <title>Captain Charles H. Pierce – Fort Steilacoom’s Last Commanding Officer</title>
+        <author>John Fogle</author>
+        <volume>V15 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N2.pdf</link>
+        <date>Summer 1998</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Fort Steilacoom (1849-1868)</keyword>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
             <keyword>Mexican-American War (1846-1848)</keyword>
             <keyword>American Civil War (1861-1865)</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Fort Has Library</title>
-       <author>Bo Cooper</author>
-       <volume>V15 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N1.pdf</link>
-       <date>Spring 1998</date>
-       <keywords>
+    </newsletter>
+    <newsletter>
+        <title>Fort Has Library</title>
+        <author>Bo Cooper</author>
+        <volume>V15 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N1.pdf</link>
+        <date>Spring 1998</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Programming</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>A Tour of Historic Historic Fort Steilacoom</title>
-       <author>Carol Neufeld</author>
-       <volume>V15 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N1.pdf</link>
-       <date>Spring 1998</date>
-       <keywords>
+    </newsletter>
+    <newsletter>
+        <title>A Tour of Historic Historic Fort Steilacoom</title>
+        <author>Carol Neufeld</author>
+        <volume>V15 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N1.pdf</link>
+        <date>Spring 1998</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Preservation</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom Diorama Dedicated</title>
-       <author>Staff</author>
-       <volume>V15 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N1.pdf</link>
-       <date>Spring 1998</date>
-       <keywords>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom Diorama Dedicated</title>
+        <author>Staff</author>
+        <volume>V15 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V15N1.pdf</link>
+        <date>Spring 1998</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Programming</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Indian Family of August V. Kautz</title>
-       <author>Carol Neufeld</author>
-       <volume>V14 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N4.pdf</link>
-       <date>Winter 1997</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>Families</keyword>
+    </newsletter>
+    <newsletter>
+        <title>The Indian Family of August V. Kautz</title>
+        <author>Carol Neufeld</author>
+        <volume>V14 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N4.pdf</link>
+        <date>Winter 1997</date>
+        <keywords>
             <keyword>Kautz</keyword>
             <keyword>August Valentine Kautz</keyword>
-            <keyword>"Kitty"</keyword>
+            <keyword>Kitty</keyword>
             <keyword>Agustus</keyword>
             <keyword>Nugent</keyword>
             <keyword>Quiemuth</keyword>
-            <keyword>Indigenous history</keyword>
-            <keyword>Nations &amp; peoples</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
             <keyword>Puyallup</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Death Changes History</title>
-       <author>Carol Neufeld</author>
-       <volume>V14 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N3.pdf</link>
-       <date>Sep-97</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>People</keyword>
+    </newsletter>
+    <newsletter>
+        <title>Death Changes History</title>
+        <author>Carol Neufeld</author>
+        <volume>V14 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N3.pdf</link>
+        <date>Sep-97</date>
+        <keywords>
             <keyword>Joseph Thomas Heath</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Charly [an Indian boy]</title>
-       <author>J. M. Bachelder, Puget Sound Courier, 1855</author>
-       <volume>V14 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N3.pdf</link>
-       <date>Sep-97</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>People</keyword>
+    </newsletter>
+    <newsletter>
+        <title>Charly [an Indian boy]</title>
+        <author>J. M. Bachelder, Puget Sound Courier, 1855</author>
+        <volume>V14 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N3.pdf</link>
+        <date>Sep-97</date>
+        <keywords>
             <keyword>James M. Bachelder</keyword>
-            <keyword>Social &amp; cultural history</keyword>
-            <keyword>Domestic work</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Domestic Work</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>E. P. Alexander at Fort Steilacoom</title>
-       <author>Carol Neufeld, Editor</author>
-       <volume>V14 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N2.pdf</link>
-       <date>Jul-97</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>People</keyword>
+    </newsletter>
+    <newsletter>
+        <title>E. P. Alexander at Fort Steilacoom</title>
+        <author>Carol Neufeld, Editor</author>
+        <volume>V14 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N2.pdf</link>
+        <date>Jul-97</date>
+        <keywords>
             <keyword>Edward Porter Alexander</keyword>
             <keyword>Mrs. Alexander</keyword>
             <keyword>John Ector</keyword>
-            <keyword>Indigenous history</keyword>
-            <keyword>Nations &amp; peoples</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
             <keyword>Stikine Tlingit</keyword>
-            <keyword>Social &amp; cultural history</keyword>
+            <keyword>Social and Cultural History</keyword>
             <keyword>Entertainment</keyword>
-            <keyword>Social gatherings</keyword>
-            <keyword>Mental illness</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Mental Illness</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Robert Demorest Completes Fort Diorama</title>
-       <author>Bo Cooper</author>
-       <volume>V14 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N1.pdf</link>
-       <date>Apr-97</date>
-       <keywords>
+    </newsletter>
+    <newsletter>
+        <title>Robert Demorest Completes Fort Diorama</title>
+        <author>Bo Cooper</author>
+        <volume>V14 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N1.pdf</link>
+        <date>Apr-97</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Programming</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>August V. Kautz and His Indian Family</title>
-       <author>Lee Wise, Tacoma Daily Leger, 1926</author>
-       <volume>V14 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N1.pdf</link>
-       <date>Apr-97</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>Families</keyword>
+    </newsletter>
+    <newsletter>
+        <title>August V. Kautz and His Indian Family</title>
+        <author>Lee Wise, Tacoma Daily Leger, 1926</author>
+        <volume>V14 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N1.pdf</link>
+        <date>Apr-97</date>
+        <keywords>
             <keyword>Kautz</keyword>
             <keyword>August Valentine Kautz</keyword>
-            <keyword>"Kitty"</keyword>
+            <keyword>Kitty</keyword>
             <keyword>Agustus</keyword>
             <keyword>Nugent</keyword>
-            <keyword>People</keyword>
             <keyword>Lashimere</keyword>
-            <keyword>Indigenous history</keyword>
-            <keyword>Nations &amp; peoples</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
             <keyword>Puyallup</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>What’s So Important about Fort Steilacoom</title>
-       <author>Raymond Egan</author>
-       <volume>V14 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N1.pdf</link>
-       <date>Apr-97</date>
-       <keywords>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+    </newsletter>
+    <newsletter>
+        <title>What’s So Important about Fort Steilacoom</title>
+        <author>Raymond Egan</author>
+        <volume>V14 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V14N1.pdf</link>
+        <date>Apr-97</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
             <keyword>Puget Sound War (1855-1856)</keyword>
-            <keyword>Settler-colonialism</keyword>
-            <keyword>Legal history</keyword>
+            <keyword>Settler-Colonialism</keyword>
+            <keyword>Legal History</keyword>
             <keyword>Trial</keyword>
             <keyword>Chief Leschi Trial</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Little Chapel That Wasn’t There</title>
-       <author>Raymond Egan</author>
-       <volume>V13 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N4.pdf</link>
-       <date>Dec-96</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>People</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Little Chapel That Wasn’t There</title>
+        <author>Raymond Egan</author>
+        <volume>V13 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N4.pdf</link>
+        <date>Dec-96</date>
+        <keywords>
             <keyword>Louis Rossi</keyword>
-            <keyword>Social &amp; cultural history</keyword>
+            <keyword>Social and Cultural History</keyword>
             <keyword>Religion</keyword>
             <keyword>Christianity</keyword>
             <keyword>Catholicism</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Recipes from the 1800s</title>
-       <author/>
-       <volume>V13 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N4.pdf</link>
-       <date>Dec-96</date>
-       <keywords>
-            <keyword>Social &amp; cultural history</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Recipes from the 1800s</title>
+        <author/>
+        <volume>V13 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N4.pdf</link>
+        <date>Dec-96</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
             <keyword>Food</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom Soldiers and Dependents Lived Off the Bounty of the Land</title>
-       <author>Carol Neufeld</author>
-       <volume>V13 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N4.pdf</link>
-       <date>Dec-96</date>
-       <keywords>
-            <keyword>Social &amp; cultural history</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom Soldiers and Dependents Lived Off the Bounty of the Land</title>
+        <author>Carol Neufeld</author>
+        <volume>V13 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N4.pdf</link>
+        <date>Dec-96</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
             <keyword>Food</keyword>
             <keyword>Economics</keyword>
             <keyword>Commerce</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>What Ever Became of Fort Steilacoom?</title>
-       <author>Steve Dunkelberger</author>
-       <volume>V13 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N3.pdf</link>
-       <date>Oct-96</date>
-       <keywords>
+    </newsletter>
+    <newsletter>
+        <title>What Ever Became of Fort Steilacoom?</title>
+        <author>Steve Dunkelberger</author>
+        <volume>V13 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N3.pdf</link>
+        <date>Oct-96</date>
+        <keywords>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Fort Steilacoom (1849-1868)</keyword>
-            <keyword>Western State Hospital (1871-present)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Charles Prosch—Follower of Dreams</title>
-       <author>Walter Neary</author>
-       <volume>V13 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N2.pdf</link>
-       <date>Jun-96</date>
-       <keywords>
-            <keyword>Agents</keyword>
-            <keyword>People</keyword>
+            <keyword>Western State Hospital (1871-Present)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Charles Prosch—Follower of Dreams</title>
+        <author>Walter Neary</author>
+        <volume>V13 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N2.pdf</link>
+        <date>Jun-96</date>
+        <keywords>
             <keyword>Charles Prosch</keyword>
-            <keyword>Social &amp; cultural history</keyword>
+            <keyword>Social and Cultural History</keyword>
             <keyword>Entertainment</keyword>
             <keyword>Newspapers</keyword>
         </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Third Annual Civil War Reenactment</title>
-       <author>Orville H. Stout</author>
-       <volume>V13 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N2.pdf</link>
-       <date>Jun-96</date>
-       <keywords>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
-            <keyword>Civil War (1861-1865)</keyword>
+    </newsletter>
+    <newsletter>
+        <title>Third Annual Civil War Reenactment</title>
+        <author>Orville H. Stout</author>
+        <volume>V13 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N2.pdf</link>
+        <date>Jun-96</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
             <keyword>Programming</keyword>
             <keyword>Reenactor</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Rescue of Enslaved Georgiana Passengers and Crew: A True Historical Drama</title>
-       <author>Carol Neufeld</author>
-       <volume>V13 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N2.pdf</link>
-       <date>Jun-96</date>
-       <keywords>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
-            <keyword>Indigenous history</keyword>
-            <keyword>Nations &amp; peoples</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Rescue of Enslaved Georgiana Passengers and Crew: A True Historical Drama</title>
+        <author>Carol Neufeld</author>
+        <volume>V13 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N2.pdf</link>
+        <date>Jun-96</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
             <keyword>Haida</keyword>
             <keyword>Travel</keyword>
             <keyword>Transportation</keyword>
             <keyword>Ships</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Let it Rain</title>
-       <author>Raymond J. Egan</author>
-       <volume>V13 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N1.pdf</link>
-       <date>Mar-96</date>
-       <keywords>
-            <keyword>Indigenous history</keyword>
-            <keyword>Cultural practice</keyword>
-            <keyword>Indigenous spiritual practices</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Old Company D</title>
-       <author>Puyallup Commerce, March 9,1889</author>
-       <volume>V13 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N1.pdf</link>
-       <date>Mar-96</date>
-       <keywords>
-            <keyword>Military history</keyword>
-            <keyword>Wars &amp; conflicts</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Let it Rain</title>
+        <author>Raymond J. Egan</author>
+        <volume>V13 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N1.pdf</link>
+        <date>Mar-96</date>
+        <keywords>
+            <keyword>Indigenous History</keyword>
+            <keyword>Cultural Practice</keyword>
+            <keyword>Indigenous Spiritual Practices</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Old Company D</title>
+        <author>Puyallup Commerce, March 9,1889</author>
+        <volume>V13 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V13N1.pdf</link>
+        <date>Mar-96</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
             <keyword>Organization</keyword>
             <keyword>Washington Territory Volunteers</keyword>
-            <keyword>Indigenous history</keyword>
-            <keyword>Nations &amp; peoples</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
             <keyword>Stikine Tlingit</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Winter Life on Steilacoom Prairie</title>
-       <author>Carol E. Neufeld</author>
-       <volume>V12 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N4.pdf</link>
-       <date>Dec-95</date>
-       <keywords>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Daily life</keyword>
-           <keyword>Housing</keyword>
-           <keyword>Indigenous history</keyword>
-           <keyword>Cultural Practice</keyword>
-           <keyword>Indigenous medicine</keyword>
-           <keyword>Places</keyword>
-           <keyword>Joseph T. Heath Farm</keyword>
-           <keyword>Steilacoom (town)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Dr. Horace Wirtz, Army Surgeon</title>
-       <author>Carol E. Neufeld</author>
-       <volume>V12 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N3.pdf</link>
-       <date>Sep-95</date>
-       <keywords>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Sanitation &amp; disease</keyword>
-           <keyword>Medicine</keyword>
-           <keyword>Healthcare</keyword>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Fort Steilacoom (1849-1868)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Those Intriguing Errata: The Truth about Father Rossi</title>
-       <author>Raymond J. Egan</author>
-       <volume>V12 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N2.pdf</link>
-       <date>Jul-95</date>
-       <keywords>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Religion</keyword>
-           <keyword>Christianity</keyword>
-           <keyword>Catholicism</keyword>
-           <keyword>Priesthood</keyword>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Louis Rossi</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>For Her Time and Before Her Time, Mother Joseph, the Executive</title>
-       <author>Raymond J. Egan</author>
-       <volume>V12 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N2.pdf</link>
-       <date>Jul-95</date>
-       <keywords>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Mother Joseph</keyword>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Religion</keyword>
-           <keyword>Christianity</keyword>
-           <keyword>Catholicism</keyword>
-           <keyword>Women's history</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>1995 Civil War Reenactment</title>
-       <author>Kenneth A . Morgan</author>
-       <volume>V12 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N2.pdf</link>
-       <date>Joly 1995</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-           <keyword>Reenactor</keyword>
-           <keyword>Presenter</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>A View of the Life of Army Wife Henrietta M. Haller</title>
-       <author>Edited by Carol Neufeld</author>
-       <volume>V12 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N1.pdf</link>
-       <date>Apr-95</date>
-       <keywords>
-           <keyword>Military history</keyword>
-           <keyword>Organization</keyword>
-           <keyword>4th U.S. Infantry Regiment</keyword>
-           <keyword>Travel</keyword>
-           <keyword>Transportation</keyword>
-           <keyword>Ships</keyword>
-           <keyword>Women's history</keyword>
-           <keyword>Places</keyword>
-           <keyword>Forts</keyword>
-           <keyword>Fort Vancouver</keyword>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Sanitation &amp; disease</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Social and Leisure Life of the Officers and Ladies at Fort Steilacoom</title>
-       <author>Carol Neufeld</author>
-       <volume>V11 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N4.pdf</link>
-       <date>Dec-94</date>
-       <keywords>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Entertainment</keyword>
-           <keyword>Social gatherings</keyword>
-           <keyword>Theater</keyword>
-           <keyword>Dances</keyword>
-           <keyword>Recreation</keyword>
-           <keyword>Weddings</keyword>
-           <keyword>Picnics</keyword>
-           <keyword>Walking</keyword>
-           <keyword>Sleighing</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Luigi Angelo Maria Rossi and His Friend Victor Wortley</title>
-       <author>Raymond Egan</author>
-       <volume>V11 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N3.pdf</link>
-       <date>Sep-94</date>
-       <keywords>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Religion</keyword>
-           <keyword>Christianity</keyword>
-           <keyword>Catholicism</keyword>
-           <keyword>Priesthood</keyword>
-           <keyword>Missionary</keyword>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Louis Rossi</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Cannon Day ’94 – phpto page</title>
-       <author>Orville H. Stout</author>
-       <volume>V11 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N3.pdf</link>
-       <date>Sep-94</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Preservation</keyword>
-           <keyword>Restoration</keyword>
-           <keyword>Programming</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Civil War Comes to Northwest</title>
-       <author>Orville H. Stout</author>
-       <volume>V11 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N2.pdf</link>
-       <date>Jun-94</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-           <keyword>Reenactor</keyword>           
-           <keyword>Military history</keyword>
-           <keyword>Equipment</keyword>
-           <keyword>Artillery</keyword>
-           <keyword>Wars &amp; conflicts</keyword>
-           <keyword>American Civil War (1861-1865)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Wilderness—130 Years Later</title>
-       <author>Kenneth A. Morgan</author>
-       <volume>V11 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N2.pdf</link>
-       <date>Jun-94</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-           <keyword>Reenactor</keyword>           
-           <keyword>Military history</keyword>
-           <keyword>Wars &amp; conflicts</keyword>
-           <keyword>American Civil War (1861-1865)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Fort Steilacoom and the Civil War</title>
-       <author>Gary Fuller Reese</author>
-       <volume>V11 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N2.pdf</link>
-       <date>Jun-94</date>
-       <keywords>
-           <keyword>Military history</keyword>
-           <keyword>Wars &amp; conflicts</keyword>
-           <keyword>American Civil War (1861-1865)</keyword>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Abraham Lincoln</keyword>
-           <keyword>Fort Steilacoom</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Cartes-de-Visite</title>
-       <author>Donald G. Tempel</author>
-       <volume>V11 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N1.pdf</link>
-       <date>Mar-94</date>
-       <keywords>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Entertainment</keyword>
-           <keyword>Daily life</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>John and Elizabeth Rigney</title>
-       <author>Carol Neufeld</author>
-       <volume>V11 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N1.pdf</link>
-       <date>Mar-94</date>
-       <keywords>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>John Rigney (m. 1848)</keyword>
-           <keyword>Elizabeth Rigney (m. 1848)</keyword>
-           <keyword>Military history</keyword>
-           <keyword>Organization</keyword>
-           <keyword>1st U.S. Artillery Regiment</keyword>
-           <keyword>Women's history</keyword>
-           <keyword>Women workers</keyword>
-           <keyword>Washerwomen</keyword>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Domestic work</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Restoration of Historic Fort Steilacoom: The Work of Chuck and Pat
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Winter Life on Steilacoom Prairie</title>
+        <author>Carol E. Neufeld</author>
+        <volume>V12 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N4.pdf</link>
+        <date>Dec-95</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Housing</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Cultural Practice</keyword>
+            <keyword>Indigenous Medicine</keyword>
+            <keyword>Places</keyword>
+            <keyword>Joseph T. Heath Farm</keyword>
+            <keyword>Steilacoom (town)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Dr. Horace Wirtz, Army Surgeon</title>
+        <author>Carol E. Neufeld</author>
+        <volume>V12 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N3.pdf</link>
+        <date>Sep-95</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Sanitation and Disease</keyword>
+            <keyword>Medicine</keyword>
+            <keyword>Healthcare</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Those Intriguing Errata: The Truth about Father Rossi</title>
+        <author>Raymond J. Egan</author>
+        <volume>V12 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N2.pdf</link>
+        <date>Jul-95</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Religion</keyword>
+            <keyword>Christianity</keyword>
+            <keyword>Catholicism</keyword>
+            <keyword>Priesthood</keyword>
+            <keyword>Louis Rossi</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>For Her Time and Before Her Time, Mother Joseph, the Executive</title>
+        <author>Raymond J. Egan</author>
+        <volume>V12 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N2.pdf</link>
+        <date>Jul-95</date>
+        <keywords>
+            <keyword>Mother Joseph</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Religion</keyword>
+            <keyword>Christianity</keyword>
+            <keyword>Catholicism</keyword>
+            <keyword>Women's History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>1995 Civil War Reenactment</title>
+        <author>Kenneth A . Morgan</author>
+        <volume>V12 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N2.pdf</link>
+        <date>Joly 1995</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Reenactor</keyword>
+            <keyword>Presenter</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>A View of the Life of Army Wife Henrietta M. Haller</title>
+        <author>Edited by Carol Neufeld</author>
+        <volume>V12 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V12N1.pdf</link>
+        <date>Apr-95</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Organization</keyword>
+            <keyword>4th U.S. Infantry Regiment</keyword>
+            <keyword>Travel</keyword>
+            <keyword>Transportation</keyword>
+            <keyword>Ships</keyword>
+            <keyword>Women's History</keyword>
+            <keyword>Places</keyword>
+            <keyword>Forts</keyword>
+            <keyword>Fort Vancouver</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Sanitation and Disease</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Social and Leisure Life of the Officers and Ladies at Fort Steilacoom</title>
+        <author>Carol Neufeld</author>
+        <volume>V11 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N4.pdf</link>
+        <date>Dec-94</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Entertainment</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Theater</keyword>
+            <keyword>Dances</keyword>
+            <keyword>Recreation</keyword>
+            <keyword>Weddings</keyword>
+            <keyword>Picnics</keyword>
+            <keyword>Walking</keyword>
+            <keyword>Sleighing</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Luigi Angelo Maria Rossi and His Friend Victor Wortley</title>
+        <author>Raymond Egan</author>
+        <volume>V11 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N3.pdf</link>
+        <date>Sep-94</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Religion</keyword>
+            <keyword>Christianity</keyword>
+            <keyword>Catholicism</keyword>
+            <keyword>Priesthood</keyword>
+            <keyword>Missionary</keyword>
+            <keyword>Louis Rossi</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Cannon Day ’94 – phpto page</title>
+        <author>Orville H. Stout</author>
+        <volume>V11 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N3.pdf</link>
+        <date>Sep-94</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Preservation</keyword>
+            <keyword>Restoration</keyword>
+            <keyword>Programming</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Civil War Comes to Northwest</title>
+        <author>Orville H. Stout</author>
+        <volume>V11 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N2.pdf</link>
+        <date>Jun-94</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Reenactor</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Equipment</keyword>
+            <keyword>Artillery</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Wilderness—130 Years Later</title>
+        <author>Kenneth A. Morgan</author>
+        <volume>V11 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N2.pdf</link>
+        <date>Jun-94</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Reenactor</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Fort Steilacoom and the Civil War</title>
+        <author>Gary Fuller Reese</author>
+        <volume>V11 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N2.pdf</link>
+        <date>Jun-94</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Abraham Lincoln</keyword>
+            <keyword>Fort Steilacoom</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Cartes-de-Visite</title>
+        <author>Donald G. Tempel</author>
+        <volume>V11 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N1.pdf</link>
+        <date>Mar-94</date>
+        <keywords>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Entertainment</keyword>
+            <keyword>Daily Life</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>John and Elizabeth Rigney</title>
+        <author>Carol Neufeld</author>
+        <volume>V11 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N1.pdf</link>
+        <date>Mar-94</date>
+        <keywords>
+            <keyword>John Rigney</keyword>
+            <keyword>Elizabeth Rigney</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Organization</keyword>
+            <keyword>1st U.S. Artillery Regiment</keyword>
+            <keyword>Women's History</keyword>
+            <keyword>Women Workers</keyword>
+            <keyword>Washerwomen</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Domestic Work</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Restoration of Historic Fort Steilacoom: The Work of Chuck and Pat
             Collier</title>
-       <author>Bo Cooper</author>
-       <volume>V11 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N1.pdf</link>
-       <date>Mar-94</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Preservation</keyword>
-           <keyword>Restoration</keyword>
-           <keyword>Programming</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Lost Patrol</title>
-       <author>Jerry Eckrom</author>
-       <volume>V10 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N4.pdf</link>
-       <date>Dec-93</date>
-       <keywords>
-           <keyword>Indigenous history</keyword>
-           <keyword>Nations &amp; peoples</keyword>
-           <keyword>Snohomish</keyword>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>C.H. Lanard</keyword>
-           <keyword>M. John Hamilton</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Leadership of Lyle and Lou Dunkin in the Restoration of Historic Fort
+        <author>Bo Cooper</author>
+        <volume>V11 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V11N1.pdf</link>
+        <date>Mar-94</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Preservation</keyword>
+            <keyword>Restoration</keyword>
+            <keyword>Programming</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Lost Patrol</title>
+        <author>Jerry Eckrom</author>
+        <volume>V10 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N4.pdf</link>
+        <date>Dec-93</date>
+        <keywords>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
+            <keyword>Snohomish</keyword>
+            <keyword>C. H. Lanard</keyword>
+            <keyword>M. John Hamilton</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Leadership of Lyle and Lou Dunkin in the Restoration of Historic Fort
             Steilacoom</title>
-       <author>Bo Cooper</author>
-       <volume>V10 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N4.pdf</link>
-       <date>Dec-93</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Preservation</keyword>
-           <keyword>Restoration</keyword>
-           <keyword>Programming</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The 9th Infantry at Fort Steilacoom</title>
-       <author>Alan H. Archambault</author>
-       <volume>V10 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N3.pdf</link>
-       <date>Sep-93</date>
-       <keywords>
-           <keyword>Military history</keyword>
-           <keyword>Equipment</keyword>
-           <keyword>Artillery</keyword>
-           <keyword>Military uniforms</keyword>
-           <keyword>Organization</keyword>
-           <keyword>9th U.S. Infantry Regiment</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Cannon Day ‘93</title>
-       <author>Staff</author>
-       <volume>V10 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N3.pdf</link>
-       <date>Sep-93</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Preservation</keyword>
-           <keyword>Restoration</keyword>
-           <keyword>Programming</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The 4th Infantry at Fort Steilacoom</title>
-       <author>Alan H. Archambault</author>
-       <volume>V10 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N2.pdf</link>
-       <date>Jun-93</date>
-       <keywords>
-           <keyword>Military history</keyword>
-           <keyword>Equipment</keyword>
-           <keyword>Artillery</keyword>
-           <keyword>Military uniforms</keyword>
-           <keyword>Organization</keyword>
-           <keyword>4th U.S. Infantry Regiment</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Early Roads in the Fort Steilacoom Area</title>
-       <author>George L. Wilkinson</author>
-       <volume>V10 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N1.pdf</link>
-       <date>Mar-93</date>
-       <keywords>
-           <keyword>Travel</keyword>
-           <keyword>Transportation</keyword>
-           <keyword>Roads</keyword>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Isaac Ingalls Stevens (1818-1862)</keyword>
-           <keyword>George McClellan</keyword>
-           <keyword>Richard Arnold</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Fort and the Town, Part 2</title>
-       <author>Gary Fuller Reese</author>
-       <volume>V09 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N4.pdf</link>
-       <date>Oct-92</date>
-       <keywords>
-           <keyword>Legal history</keyword>
-           <keyword>Trial</keyword>
-           <keyword>Chief Leschi Trial</keyword>
-           <keyword>Truth Teller</keyword>
-           <keyword>A Historical Court of Inquiry and Justice</keyword>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Leschi</keyword>
-           <keyword>Abram Benton Moses</keyword>
-           <keyword>Joseph Miles</keyword>
-           <keyword>Indigenous history</keyword>
-           <keyword>Nations &amp; peoples</keyword>
-           <keyword>Nisqually</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Cannon Day 1992</title>
-       <author>Jack Langston</author>
-       <volume>V09 N4</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N4.pdf</link>
-       <date>Oct-92</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Daily life</keyword>
-           <keyword>Entertainment</keyword>
-           <keyword>Social gatherings</keyword>
-           <keyword>Civic Activities</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>The Fort and the Town, Part 1</title>
-       <author>Gary Fuller Reese</author>
-       <volume>V09 N3</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N3.pdf</link>
-       <date>Aug-92</date>
-       <keywords>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>William H. Wallace (1811-1879)</keyword>
-           <keyword>William Alloway Slaughter (1827-1855)</keyword>
-           <keyword>Abraham Salatat</keyword>
-           <keyword>Isaac Ingalls Stevens (1818-1862)</keyword>
-           <keyword>Economics</keyword>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Daily life</keyword>
-           <keyword>Entertainment</keyword>
-           <keyword>Social gatherings</keyword>
-           <keyword>Civic Activities</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Company M, the 1st Artillery Regiment in Oregon Territory and at Fort Steilacoom,
+        <author>Bo Cooper</author>
+        <volume>V10 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N4.pdf</link>
+        <date>Dec-93</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Preservation</keyword>
+            <keyword>Restoration</keyword>
+            <keyword>Programming</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The 9th Infantry at Fort Steilacoom</title>
+        <author>Alan H. Archambault</author>
+        <volume>V10 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N3.pdf</link>
+        <date>Sep-93</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Equipment</keyword>
+            <keyword>Artillery</keyword>
+            <keyword>Military Uniforms</keyword>
+            <keyword>Organization</keyword>
+            <keyword>9th U.S. Infantry Regiment</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Cannon Day ‘93</title>
+        <author>Staff</author>
+        <volume>V10 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N3.pdf</link>
+        <date>Sep-93</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Preservation</keyword>
+            <keyword>Restoration</keyword>
+            <keyword>Programming</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The 4th Infantry at Fort Steilacoom</title>
+        <author>Alan H. Archambault</author>
+        <volume>V10 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N2.pdf</link>
+        <date>Jun-93</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Equipment</keyword>
+            <keyword>Artillery</keyword>
+            <keyword>Military Uniforms</keyword>
+            <keyword>Organization</keyword>
+            <keyword>4th U.S. Infantry Regiment</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Early Roads in the Fort Steilacoom Area</title>
+        <author>George L. Wilkinson</author>
+        <volume>V10 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V10N1.pdf</link>
+        <date>Mar-93</date>
+        <keywords>
+            <keyword>Travel</keyword>
+            <keyword>Transportation</keyword>
+            <keyword>Roads</keyword>
+            <keyword>Isaac Ingalls Stevens</keyword>
+            <keyword>George McClellan</keyword>
+            <keyword>Richard Arnold</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Fort and the Town, Part 2</title>
+        <author>Gary Fuller Reese</author>
+        <volume>V09 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N4.pdf</link>
+        <date>Oct-92</date>
+        <keywords>
+            <keyword>Legal History</keyword>
+            <keyword>Trial</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>Truth Teller</keyword>
+            <keyword>A Historical Court of Inquiry and Justice</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Abraham Benton Moses</keyword>
+            <keyword>Joseph Miles</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
+            <keyword>Nisqually</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Cannon Day 1992</title>
+        <author>Jack Langston</author>
+        <volume>V09 N4</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N4.pdf</link>
+        <date>Oct-92</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Entertainment</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Civic Activities</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>The Fort and the Town, Part 1</title>
+        <author>Gary Fuller Reese</author>
+        <volume>V09 N3</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N3.pdf</link>
+        <date>Aug-92</date>
+        <keywords>
+            <keyword>William H. Wallace</keyword>
+            <keyword>William Alloway Slaughter</keyword>
+            <keyword>Abraham Salatat</keyword>
+            <keyword>Isaac Ingalls Stevens</keyword>
+            <keyword>Economics</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Entertainment</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Civic Activities</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Company M, the 1st Artillery Regiment in Oregon Territory and at Fort Steilacoom,
             1849-1853</title>
-       <author>George Dickey</author>
-       <volume>V09 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N2.pdf</link>
-       <date>Apr-92</date>
-       <keywords>
-           <keyword>Military history</keyword>
-           <keyword>Equipment</keyword>
-           <keyword>Artillery</keyword>
-           <keyword>Agents</keyword>
-           <keyword>Corporate bodies</keyword>
-           <keyword>Hudson's Bay Company</keyword>
-           <keyword>Military history</keyword>
-           <keyword>Wars &amp; conflicts</keyword>
-           <keyword>Mexican-American War (1846-1848)</keyword>
-           <keyword>Indigenous history</keyword>
-           <keyword>Nations &amp; peoples</keyword>
-           <keyword>Snoqualmie</keyword>
-           <keyword>Places</keyword>
-           <keyword>Forts</keyword>
-           <keyword>Fort Nisqually</keyword>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Fort Steilacoom (1849-1868)</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-           <keyword>Reenactor</keyword>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Leschi</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Cannon carriages arrive</title>
-       <author>Staff</author>
-       <volume>V09 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N1.pdf</link>
-       <date>Jan-92</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-           <keyword>Military history</keyword>
-           <keyword>Equipment</keyword>
-           <keyword>Artillery</keyword>
-           <keyword>Wars &amp; conflicts</keyword>
-           <keyword>Puget Sound War (1855-1856)</keyword>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>William Alloway Slaughter (1827-1855)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Cannon Day Draws Crowd</title>
-       <author>Orville H. Stout</author>
-       <volume>V08 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V8N2.pdf</link>
-       <date>Sep-91</date>
-       <Keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-           <keyword>Reenactor</keyword>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Daily life</keyword>
-           <keyword>Family life</keyword>
-           <keyword>Childhood</keyword>
-           <keyword>Military history</keyword>
-       </Keywords>
-   </newsletter>
-   <newsletter>
-       <title>Fort Has Cannons!</title>
-       <author>Jack Langston &amp; Charles Collier</author>
-       <volume>V08 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V8N1.pdf</link>
-       <date>Mar-91</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Fort Steilacoom (1849-1868)</keyword>
-           <keyword>Military history</keyword>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Search for Art Leads to History</title>
-       <author>Esther Schooler</author>
-       <volume>V08 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V8N1.pdf</link>
-       <date>Mar-91</date>
-       <keywords>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Leschi</keyword>
-           <keyword>George M. Berry</keyword>
-           <keyword>Legal history</keyword>
-           <keyword>Trial</keyword>
-           <keyword>Chief Leschi Trial</keyword>
-           <keyword>Truth Teller</keyword>
-           <keyword>A Historical Court of Inquiry and Justice</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Willis and Mary Ann Boatman, Pioneer Settlers</title>
-       <author>Weldon W. Rau</author>
-       <volume>V07 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V7N2.pdf</link>
-       <date>Jul-90</date>
-       <keywords>
-           <keyword> Settler-colonialism</keyword>
-           <keyword>Social &amp; cultural history</keyword>
-           <keyword>Daily life</keyword>
-           <keyword>Family life</keyword>
-           <keyword>Domestic work</keyword>
-           <keyword>Places</keyword>
-           <keyword>Gravelly Lake</keyword>
-           <keyword>Puyallup Valley</keyword>
-           <keyword>Muckleshoot Prairie</keyword>
-           <keyword>Boatman-Ainsworth House</keyword>
-           <keyword>Military history</keyword>
-           <keyword>Wars &amp; Conflicts</keyword>
-           <keyword>Puget Sound War (1855-1856)</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Chinook Jargon: A Common Bond of Frontier Communication</title>
-       <author>J. K. Gill Co.</author>
-       <volume>V07 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V8N1.pdf</link>
-       <date>Jan-90</date>
-       <keywords>
-           <keyword>Settler-colonialism</keyword>
-           <keyword>Economics</keyword>
-           <keyword>Tradespeople</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>In and Around the Fort: Winter, Then and Now</title>
-       <author>Raymond Egan</author>
-       <volume>V06 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V6N1.pdf</link>
-       <date>Jan-89</date>
-       <Keywords>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Joseph Thomas Heath</keyword>
-           <keyword>Military history</keyword>
-           <keyword>Barracks</keyword>
-       </Keywords>
-   </newsletter>
-   <newsletter>
-       <title>President’s Report on Restoration</title>
-       <author>Raymond Egan</author>
-       <volume>V06 N1</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V6N1.pdf</link>
-       <date>Jan-89</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Programming</keyword>
-           <keyword>Centennial</keyword>
-           <keyword>Preservation</keyword>
-           <keyword>Restoration</keyword>
-           <keyword>Indigenous history</keyword>
-           <keyword>Nations &amp; Peoples</keyword>
-           <keyword>Salish</keyword>
-           <keyword>Women's history</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>E.P. Alexander: Memoirs of Fort Steilacoom</title>
-       <author>E.P. Alexander</author>
-       <volume>V06 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V6N2.pdf</link>
-       <date>Aug-89</date>
-       <keywords>
-           <keyword>Agents</keyword>
-           <keyword>People</keyword>
-           <keyword>Edward Porter Alexander</keyword>
-           <keyword>John Ector</keyword>
-           <keyword>Indigenous history</keyword>
-           <keyword>Nations &amp; People</keyword>
-           <keyword>Nisqually</keyword>
-       </keywords>
-   </newsletter>
-   <newsletter>
-       <title>Restoration Progress Report</title>
-       <author>Lyle Dunkin</author>
-       <volume>V06 N2</volume>
-       <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V6N2.pdf</link>
-       <date>Aug-89</date>
-       <keywords>
-           <keyword>Fort Steilacoom</keyword>
-           <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
-           <keyword>Preservation</keyword>
-           <keyword>Restoration</keyword>
-       </keywords>
-   </newsletter>
+        <author>George Dickey</author>
+        <volume>V09 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N2.pdf</link>
+        <date>Apr-92</date>
+        <keywords>
+            <keyword>Military History</keyword>
+            <keyword>Equipment</keyword>
+            <keyword>Artillery</keyword>
+            <keyword>Hudson's Bay Company</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
+            <keyword>Snoqualmie</keyword>
+            <keyword>Places</keyword>
+            <keyword>Forts</keyword>
+            <keyword>Fort Nisqually</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Reenactor</keyword>
+            <keyword>Leschi</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Cannon carriages arrive</title>
+        <author>Staff</author>
+        <volume>V09 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V9N1.pdf</link>
+        <date>Jan-92</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Equipment</keyword>
+            <keyword>Artillery</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>William Alloway Slaughter</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Cannon Day Draws Crowd</title>
+        <author>Orville H. Stout</author>
+        <volume>V08 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V8N2.pdf</link>
+        <date>Sep-91</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Reenactor</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Family Life</keyword>
+            <keyword>Childhood</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Fort Has Cannons!</title>
+        <author>Jack Langston &amp; Charles Collier</author>
+        <volume>V08 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V8N1.pdf</link>
+        <date>Mar-91</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Search for Art Leads to History</title>
+        <author>Esther Schooler</author>
+        <volume>V08 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V8N1.pdf</link>
+        <date>Mar-91</date>
+        <keywords>
+            <keyword>Leschi</keyword>
+            <keyword>George M. Berry</keyword>
+            <keyword>Legal History</keyword>
+            <keyword>Trial</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>Truth Teller</keyword>
+            <keyword>A Historical Court of Inquiry and Justice</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Willis and Mary Ann Boatman, Pioneer Settlers</title>
+        <author>Weldon W. Rau</author>
+        <volume>V07 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V7N2.pdf</link>
+        <date>Jul-90</date>
+        <keywords>
+            <keyword>Settler-Colonialism</keyword>
+            <keyword>Social and Cultural History</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Family Life</keyword>
+            <keyword>Domestic Work</keyword>
+            <keyword>Places</keyword>
+            <keyword>Gravelly Lake</keyword>
+            <keyword>Puyallup Valley</keyword>
+            <keyword>Muckleshoot Prairie</keyword>
+            <keyword>Boatman-Ainsworth House</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Chinook Jargon: A Common Bond of Frontier Communication</title>
+        <author>J. K. Gill Co.</author>
+        <volume>V07 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V8N1.pdf</link>
+        <date>Jan-90</date>
+        <keywords>
+            <keyword>Settler-Colonialism</keyword>
+            <keyword>Economics</keyword>
+            <keyword>Tradespeople</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>In and Around the Fort: Winter, Then and Now</title>
+        <author>Raymond Egan</author>
+        <volume>V06 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V6N1.pdf</link>
+        <date>Jan-89</date>
+        <keywords>
+            <keyword>Joseph Thomas Heath</keyword>
+            <keyword>Military History</keyword>
+            <keyword>Barracks</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>President’s Report on Restoration</title>
+        <author>Raymond Egan</author>
+        <volume>V06 N1</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V6N1.pdf</link>
+        <date>Jan-89</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Centennial</keyword>
+            <keyword>Preservation</keyword>
+            <keyword>Restoration</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
+            <keyword>Salish</keyword>
+            <keyword>Women's History</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>E.P. Alexander: Memoirs of Fort Steilacoom</title>
+        <author>E.P. Alexander</author>
+        <volume>V06 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V6N2.pdf</link>
+        <date>Aug-89</date>
+        <keywords>
+            <keyword>Edward Porter Alexander</keyword>
+            <keyword>John Ector</keyword>
+            <keyword>Indigenous History</keyword>
+            <keyword>Nations and Peoples</keyword>
+            <keyword>Nisqually</keyword>
+        </keywords>
+    </newsletter>
+    <newsletter>
+        <title>Restoration Progress Report</title>
+        <author>Lyle Dunkin</author>
+        <volume>V06 N2</volume>
+        <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V6N2.pdf</link>
+        <date>Aug-89</date>
+        <keywords>
+            <keyword>Fort Steilacoom</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Preservation</keyword>
+            <keyword>Restoration</keyword>
+        </keywords>
+    </newsletter>
 
 </newsletters>

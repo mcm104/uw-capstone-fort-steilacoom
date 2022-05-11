@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+    vc:minVersion="1.0" vc:maxVersion="1.1">
+
+    <xs:element name="newsletters">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="newsletter">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="title"/>
+                            <xs:element maxOccurs="unbounded" name="author"/>
+                            <xs:element name="volume"/>
+                            <xs:element name="link" type="xs:anyURI"/>
+                            <xs:element name="date"/>
+                            <xs:element minOccurs="0" name="keywords">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element maxOccurs="unbounded" name="keyword">
+                                            <xs:simpleType>
+                                                <xs:restriction base="xs:string">
+                                                  <xs:enumeration value="Corporations"/>
+                                                  <xs:enumeration value="American Fur Company"/>
+                                                  <xs:enumeration value="Hudson's Bay Company"/>
+                                                  <xs:enumeration value="North West Company"/>
+                                                  <xs:enumeration
+                                                  value="Puget Sound Agricultural Company"/>
+                                                  <xs:enumeration value="Union Pacific Railway"/>
+                                                  <xs:enumeration value="Politics"/>
+                                                  <xs:enumeration value="Movements"/>
+                                                  <xs:enumeration value="Abolitionism"/>
+                                                  <xs:enumeration value="Manifest Destiny"/>
+                                                  <xs:enumeration value="Nativism"/>
+                                                  <xs:enumeration value="US-Indigenous Relations"/>
+                                                  <xs:enumeration value="Indian Agent"/>
+                                                  <xs:enumeration
+                                                  value="American Indian Removal (1830-1847)"/>
+                                                  <xs:enumeration value="Indian Removal Act of 1830"/>
+                                                  <xs:enumeration
+                                                  value="Treaty of Medicine Creek (1854)"/>
+                                                  <xs:enumeration
+                                                  value="Medicine Creek Treaty Council"/>
+                                                  <xs:enumeration
+                                                  value="Permanent Indian Frontier (1840)"/>
+                                                  <xs:enumeration value="US-Great Britain Relations"/>
+                                                  <xs:enumeration value="Oregon Treaty (1846)"/>
+                                                  <xs:enumeration value="Time Periods and Events"/>
+                                                  <xs:enumeration value="Antebellum (c.1815-1861)"/>
+                                                  <xs:enumeration value="Gold Rush"/>
+                                                  <xs:enumeration
+                                                  value="Fraser Canyon Gold Rush (1858-1927)"/>
+                                                  <xs:enumeration value="California Gold Rush"/>
+                                                  <xs:enumeration value="Travel"/>
+                                                  <xs:enumeration value="Transportation"/>
+                                                  <xs:enumeration value="Roads"/>
+                                                  <xs:enumeration value="Railroads"/>
+                                                  <xs:enumeration value="Ships"/>
+                                                  <xs:enumeration value="Maps"/>
+                                                  <xs:enumeration value="Bigotry and Violence"/>
+                                                  <xs:enumeration value="Racism"/>
+                                                  <xs:enumeration value="Anti-Indigenous Racism"/>
+                                                  <xs:enumeration value="Anti-Black Racism"/>
+                                                  <xs:enumeration value="Military History"/>
+                                                  <xs:enumeration value="Equipment"/>
+                                                  <xs:enumeration value="Artillery"/>
+                                                  <xs:enumeration value="Military Uniforms"/>
+                                                  <xs:enumeration value="Barracks"/>
+                                                  <xs:enumeration value="Discipline"/>
+                                                  <xs:enumeration value="Wars and Conflicts"/>
+                                                  <xs:enumeration
+                                                  value="American Revolutionary War (1775-1783)"/>
+                                                  <xs:enumeration
+                                                  value="Mexican-American War (1846-1848)"/>
+                                                  <xs:enumeration value="Aztec Club"/>
+                                                  <xs:enumeration
+                                                      value="American Civil War (1861-1865)"/>
+                                                  <xs:enumeration value="Peninsula Campaign"/>
+                                                  <xs:enumeration value="Pig War (1859)"/>
+                                                  <xs:enumeration
+                                                  value="Puget Sound War (1855-1856)"/>
+                                                  <xs:enumeration
+                                                  value="Second Seminole War (1835-1842)"/>
+                                                  <xs:enumeration value="Massacre at Wounded Knee"/>
+                                                  <xs:enumeration value="West Point"/>
+                                                  <xs:enumeration value="Organization"/>
+                                                  <xs:enumeration
+                                                  value="1st U.S. Artillery Regiment"/>
+                                                  <xs:enumeration value="4th U.S. Infantry Regiment"/>
+                                                  <xs:enumeration value="9th U.S. Infantry Regiment"/>
+                                                  <xs:enumeration
+                                                  value="Washington Territory Volunteers"/>
+                                                  <xs:enumeration value="Puget Sound Rangers"/>
+                                                  <xs:enumeration value="Washington Mounted Rifles"/>
+                                                  <xs:enumeration
+                                                  value="Social and Cultural History"/>
+                                                  <xs:enumeration value="Religion"/>
+                                                  <xs:enumeration value="Christianity"/>
+                                                  <xs:enumeration value="Catholicism"/>
+                                                  <xs:enumeration value="Priesthood"/>
+                                                  <xs:enumeration value="Missionary"/>
+                                                  <xs:enumeration value="Protestantism"/>
+                                                  <xs:enumeration value="Episcopal Church"/>
+                                                  <xs:enumeration value="Methodist Episcopal Church"/>
+                                                  <xs:enumeration value="Sanitation and Disease"/>
+                                                  <xs:enumeration value="Cholera"/>
+                                                  <xs:enumeration value="Dysentery"/>
+                                                  <xs:enumeration value="Medicine"/>
+                                                  <xs:enumeration value="Measles"/>
+                                                  <xs:enumeration value="Scurvy"/>
+                                                  <xs:enumeration value="Smallpox"/>
+                                                  <xs:enumeration
+                                                  value="Western Sanitation Commission"/>
+                                                  <xs:enumeration value="Healthcare"/>
+                                                  <xs:enumeration value="Mental Illness"/>
+                                                  <xs:enumeration value="Holidays"/>
+                                                  <xs:enumeration value="Christmas"/>
+                                                  <xs:enumeration value="Daily Life"/>
+                                                  <xs:enumeration value="Domestic Work"/>
+                                                  <xs:enumeration value="Soap Making"/>
+                                                  <xs:enumeration value="Laundry"/>
+                                                  <xs:enumeration value="Dress"/>
+                                                  <xs:enumeration value="Men's Dress"/>
+                                                  <xs:enumeration value="Women's Dress"/>
+                                                  <xs:enumeration value="Entertainment"/>
+                                                  <xs:enumeration value="Social Gathering"/>
+                                                  <xs:enumeration value="Civic Activities"/>
+                                                  <xs:enumeration value="Theater"/>
+                                                  <xs:enumeration value="Dances"/>
+                                                  <xs:enumeration value="Newspapers"/>
+                                                  <xs:enumeration value="Puget Sound Courier"/>
+                                                  <xs:enumeration value="The Columbian"/>
+                                                  <xs:enumeration value="The Washington Republican"/>
+                                                  <xs:enumeration value="The Puget Sound Herald"/>
+                                                  <xs:enumeration value="American Ladies Magazine"/>
+                                                  <xs:enumeration value="Godey's Lady's Book"/>
+                                                  <xs:enumeration value="Ladies Fashions"/>
+                                                  <xs:enumeration value="Family Life"/>
+                                                  <xs:enumeration value="Childhood"/>
+                                                  <xs:enumeration value="School"/>
+                                                  <xs:enumeration value="Food"/>
+                                                  <xs:enumeration value="Housing"/>
+                                                  <xs:enumeration value="Fiber Arts"/>
+                                                  <xs:enumeration value="Textiles"/>
+                                                  <xs:enumeration value="Quilting"/>
+                                                  <xs:enumeration value="Sewing Circles"/>
+                                                  <xs:enumeration value="Recreation"/>
+                                                  <xs:enumeration value="Weddings"/>
+                                                  <xs:enumeration value="Picnics"/>
+                                                  <xs:enumeration value="Walking"/>
+                                                  <xs:enumeration value="Sleighing"/>
+                                                  <xs:enumeration value="Fort Steilacoom"/>
+                                                  <xs:enumeration
+                                                  value="Historic Fort Steilacoom Association (1983-present)"/>
+                                                  <xs:enumeration value="Preservation"/>
+                                                  <xs:enumeration value="Programming"/>
+                                                  <xs:enumeration value="Centennial"/>
+                                                  <xs:enumeration value="Reenactor"/>
+                                                  <xs:enumeration value="Presenter"/>
+                                                  <xs:enumeration value="Restoration"/>
+                                                  <xs:enumeration
+                                                  value="Fort Steilacoom (1849-1868)"/>
+                                                  <xs:enumeration
+                                                  value="Fort Steilacoom Army Post Cemetery"/>
+                                                  <xs:enumeration
+                                                  value="Western State Hospital (1871-Present)"/>
+                                                  <xs:enumeration value="Settler-Colonialism"/>
+                                                  <xs:enumeration value="Oregon Trail"/>
+                                                  <xs:enumeration
+                                                  value="Oregon Territory (1848-1859)"/>
+                                                  <xs:enumeration value="Donation Claim Act of 1850"/>
+                                                  <xs:enumeration value="Oregon Boundary Dispute"/>
+                                                  <xs:enumeration
+                                                  value="Washington Territory (1853-1889)"/>
+                                                  <xs:enumeration
+                                                  value="Washington State (1889-Present)"/>
+                                                  <xs:enumeration value="Settlers"/>
+                                                  <xs:enumeration value="Economics"/>
+                                                  <xs:enumeration value="Commerce"/>
+                                                  <xs:enumeration value="Depression"/>
+                                                  <xs:enumeration value="Industries"/>
+                                                  <xs:enumeration value="Fur Trade"/>
+                                                  <xs:enumeration value="Railroads (industry)"/>
+                                                  <xs:enumeration value="Whaling"/>
+                                                  <xs:enumeration value="Tradespeople"/>
+                                                  <xs:enumeration value="Argonauts"/>
+                                                  <xs:enumeration value="Engineering"/>
+                                                  <xs:enumeration value="Places"/>
+                                                  <xs:enumeration value="Forts"/>
+                                                  <xs:enumeration value="Fort Nisqually"/>
+                                                  <xs:enumeration value="Fort Vancouver"/>
+                                                  <xs:enumeration value="Fort Walla Walla"/>
+                                                  <xs:enumeration value="Fort Hamilton"/>
+                                                  <xs:enumeration value="Waiilatpu Mission"/>
+                                                  <xs:enumeration value="Joseph T. Heath Farm"/>
+                                                  <xs:enumeration value="Muckleshoot Prairie"/>
+                                                  <xs:enumeration value="Gravelly Lake"/>
+                                                  <xs:enumeration value="Puyallup Valley"/>
+                                                  <xs:enumeration value="Boatman-Ainsworth House"/>
+                                                  <xs:enumeration value="Port Steilacoom"/>
+                                                  <xs:enumeration value="Steilacoom (town)"/>
+                                                  <xs:enumeration value="Chamber Creek"/>
+                                                  <xs:enumeration value="Columbia River"/>
+                                                  <xs:enumeration value="White River"/>
+                                                  <xs:enumeration value="San Juan Islands"/>
+                                                  <xs:enumeration value="Indigenous History"/>
+                                                  <xs:enumeration value="Cultural Practice"/>
+                                                  <xs:enumeration value="Indigenous Medicine"/>
+                                                  <xs:enumeration
+                                                  value="Indigenous Spiritual Practices"/>
+                                                  <xs:enumeration value="Nations and Peoples"/>
+                                                  <xs:enumeration value="Cayuse"/>
+                                                  <xs:enumeration value="Cheyenne"/>
+                                                  <xs:enumeration value="Chichasaw"/>
+                                                  <xs:enumeration value="Chinook"/>
+                                                  <xs:enumeration value="Choctaw"/>
+                                                  <xs:enumeration value="Creek"/>
+                                                  <xs:enumeration value="Dakota"/>
+                                                  <xs:enumeration value="Deleware"/>
+                                                  <xs:enumeration value="Duwamish"/>
+                                                  <xs:enumeration value="Haida"/>
+                                                  <xs:enumeration value="Klickitat"/>
+                                                  <xs:enumeration value="Miccosukee"/>
+                                                  <xs:enumeration value="Minneconjou"/>
+                                                  <xs:enumeration value="Nez Perce"/>
+                                                  <xs:enumeration value="Niscope"/>
+                                                  <xs:enumeration value="Nisqually"/>
+                                                  <xs:enumeration value="Paiute"/>
+                                                  <xs:enumeration value="Pawnee"/>
+                                                  <xs:enumeration value="Pict"/>
+                                                  <xs:enumeration value="Puyallup"/>
+                                                  <xs:enumeration value="Salish"/>
+                                                  <xs:enumeration value="Seminole"/>
+                                                  <xs:enumeration value="Sioux"/>
+                                                  <xs:enumeration value="Skewahamish"/>
+                                                  <xs:enumeration value="Skykomish"/>
+                                                  <xs:enumeration value="Snoqualmie"/>
+                                                  <xs:enumeration value="Snohomish"/>
+                                                  <xs:enumeration value="Steilacoom"/>
+                                                  <xs:enumeration value="Stikine Tlingit"/>
+                                                  <xs:enumeration value="Squaxin Island"/>
+                                                  <xs:enumeration value="Walla Walla"/>
+                                                  <xs:enumeration value="Yakima"/>
+                                                  <xs:enumeration value="Slavery"/>
+                                                  <xs:enumeration value="Self-Emancipated Persons"/>
+                                                  <xs:enumeration value="Legal History"/>
+                                                  <xs:enumeration value="Trial"/>
+                                                  <xs:enumeration value="Chief Leschi Trial"/>
+                                                  <xs:enumeration value="Truth Teller"/>
+                                                  <xs:enumeration
+                                                  value="A Historical Court of Inquiry and Justice"/>
+                                                  <xs:enumeration
+                                                  value="White River Massacre (1885)"/>
+                                                  <xs:enumeration value="Whitman Massacre (1847)"/>
+                                                  <xs:enumeration value="Women's History"/>
+                                                  <xs:enumeration value="Women Workers"/>
+                                                  <xs:enumeration value="Washerwomen"/>
+                                                  <xs:enumeration value="Domestic Violence"/>
+                                                  <xs:enumeration value="Obituary"/>
+                                                  <xs:enumeration value="Technology"/>
+                                                  <xs:enumeration value="Casey"/>
+                                                  <xs:enumeration value="Silas Casey II"/>
+                                                  <xs:enumeration
+                                                  value="Abigail &#34;Abby&#34; Perry Pearce Casey"/>
+                                                  <xs:enumeration value="Abby Casey"/>
+                                                  <xs:enumeration value="Lewis Cass Hunt"/>
+                                                  <xs:enumeration
+                                                  value="Edward &#34;Ned&#34; Wanton Casey"/>
+                                                  <xs:enumeration
+                                                  value="Elizabeth &#34;Bessie&#34; Casey Scott"/>
+                                                  <xs:enumeration value="Thomas Lincoln Casey"/>
+                                                  <xs:enumeration value="Emma Weir Casey"/>
+                                                  <xs:enumeration value="Silas Casey III"/>
+                                                  <xs:enumeration
+                                                  value="Sophia Gray Herberton Casey"/>
+                                                  <xs:enumeration value="Bachelder"/>
+                                                  <xs:enumeration value="James M. Bachelder"/>
+                                                  <xs:enumeration value="Sarah Conklin Bachelder"/>
+                                                  <xs:enumeration value="Mary Bachelder Patterson"/>
+                                                  <xs:enumeration value="Edward M. Bachelder"/>
+                                                  <xs:enumeration value="Horace W. Bachelder"/>
+                                                  <xs:enumeration value=" Mrs. E. F. Cathart"/>
+                                                  <xs:enumeration value="Flett"/>
+                                                  <xs:enumeration value=" John Flett"/>
+                                                  <xs:enumeration value="Ellen Monro Flett"/>
+                                                  <xs:enumeration value="Anna Flett Chapman"/>
+                                                  <xs:enumeration value="George Chapman"/>
+                                                  <xs:enumeration value="Ellen Chapman Freckleton"/>
+                                                  <xs:enumeration value="Adam W. Freckleton"/>
+                                                  <xs:enumeration value="Kautz"/>
+                                                  <xs:enumeration value="August Valentine Kautz"/>
+                                                  <xs:enumeration value="Kitty"/>
+                                                  <xs:enumeration value="Nugent"/>
+                                                  <xs:enumeration value="Agustus"/>
+                                                  <xs:enumeration value="Charlotte Todd Kautz"/>
+                                                  <xs:enumeration value="Frannie Markbreit Kautz"/>
+                                                  <xs:enumeration value="Austin Kautz"/>
+                                                  <xs:enumeration
+                                                  value="Francesca &#34;Frances&#34; &#34;Frankie&#34; Kautz"/>
+                                                  <xs:enumeration value="Navarra Kautz"/>
+                                                  <xs:enumeration value="Isaac Ingalls Stevens"/>
+                                                  <xs:enumeration
+                                                  value="Margaret &#34;Meg&#34; Hazard Stevens"/>
+                                                  <xs:enumeration value="Joseph Thomas Heath"/>
+                                                  <xs:enumeration value="Abraham Benton Moses"/>
+                                                  <xs:enumeration value="Abraham Lincoln"/>
+                                                  <xs:enumeration value="Bennet Hill"/>
+                                                  <xs:enumeration value="Spotted Elk"/>
+                                                  <xs:enumeration value="Caroline Light"/>
+                                                  <xs:enumeration value="Charles H. Mason"/>
+                                                  <xs:enumeration value="Charles Prosch"/>
+                                                  <xs:enumeration value="William Fraser Tolmie"/>
+                                                  <xs:enumeration value="Jane Work Tolmie"/>
+                                                  <xs:enumeration value="Edward Porter Alexander"/>
+                                                  <xs:enumeration value="Mrs. Alexander"/>
+                                                  <xs:enumeration value="Edward Huggins"/>
+                                                  <xs:enumeration value="Lelita Work Huggins"/>
+                                                  <xs:enumeration value="John Rigney"/>
+                                                  <xs:enumeration value="Elizabeth Rigney"/>
+                                                  <xs:enumeration value="Emily Alvord"/>
+                                                  <xs:enumeration value="Benjamin Alvord"/>
+                                                  <xs:enumeration value="Erasmus D. Keyes"/>
+                                                  <xs:enumeration value="Horatio G. Pitcher"/>
+                                                  <xs:enumeration value="Annie Pitcher"/>
+                                                  <xs:enumeration value="John Nugen"/>
+                                                  <xs:enumeration value="John Swan"/>
+                                                  <xs:enumeration value="Joseph Lane"/>
+                                                  <xs:enumeration value="William H. Archbold"/>
+                                                  <xs:enumeration value="Lafayette Balch"/>
+                                                  <xs:enumeration value="Mrs. Stephen Barker"/>
+                                                  <xs:enumeration value="Stephen Barker"/>
+                                                  <xs:enumeration value="John Baptist Brondel"/>
+                                                  <xs:enumeration value="Thomas English"/>
+                                                  <xs:enumeration value="Mrs. English"/>
+                                                  <xs:enumeration value="Sarah Josepha Hale"/>
+                                                  <xs:enumeration value="Sarah McAllister Hartman"/>
+                                                  <xs:enumeration value="Kate Hewitt"/>
+                                                  <xs:enumeration value="Mrs. Phillip Keach"/>
+                                                  <xs:enumeration value="Maurice Maloney"/>
+                                                  <xs:enumeration value="Mrs. Maloney"/>
+                                                  <xs:enumeration value="Charlotte Smith McAllister"/>
+                                                  <xs:enumeration
+                                                  value="James &#34;Jim&#34; McAllister"/>
+                                                  <xs:enumeration value="Eliza C. Porter"/>
+                                                  <xs:enumeration value="Jeremiah Porter"/>
+                                                  <xs:enumeration value="Maryann Reed"/>
+                                                  <xs:enumeration value="Louis Rossi"/>
+                                                  <xs:enumeration
+                                                  value="Philip &#34;Phil&#34; Sheridan"/>
+                                                  <xs:enumeration value="Mary Wells Slaughter"/>
+                                                  <xs:enumeration value="William Alloway Slaughter"/>
+                                                  <xs:enumeration value="Margaret Whitesell Taylor"/>
+                                                  <xs:enumeration value="Miss Teen"/>
+                                                  <xs:enumeration value="Abraham Salatat"/>
+                                                  <xs:enumeration value="William H. Wallace"/>
+                                                  <xs:enumeration
+                                                  value="Luzanne &#34;Luzena&#34; Brazelton Wallace"/>
+                                                  <xs:enumeration value="Kasnasket"/>
+                                                  <xs:enumeration value="Ktsap"/>
+                                                  <xs:enumeration value="Lakalet"/>
+                                                  <xs:enumeration value="Lame Deer"/>
+                                                  <xs:enumeration value="Leschi"/>
+                                                  <xs:enumeration value="Plenty Horses"/>
+                                                  <xs:enumeration value="Red Cloud"/>
+                                                  <xs:enumeration value="Shot-Face Charlie"/>
+                                                  <xs:enumeration value="Istachus"/>
+                                                  <xs:enumeration value="Wapowety"/>
+                                                  <xs:enumeration value="John Ector"/>
+                                                  <xs:enumeration value="George M. Berry"/>
+                                                  <xs:enumeration value="Antonio B. Rabbeson"/>
+                                                  <xs:enumeration value="Joseph Miles"/>
+                                                  <xs:enumeration value="Michael Luark"/>
+                                                  <xs:enumeration value="George McClellan"/>
+                                                  <xs:enumeration value="Richard Arnold"/>
+                                                  <xs:enumeration value="C. H. Lanard"/>
+                                                  <xs:enumeration value="M. John Hamilton"/>
+                                                  <xs:enumeration value="Mother Joseph"/>
+                                                  <xs:enumeration value="Quiemuth"/>
+                                                  <xs:enumeration value="Lashimere"/>
+                                                  <xs:enumeration value="John Fulton Reynolds"/>
+                                                  <xs:enumeration value="Charles Wilkes"/>
+                                                  <xs:enumeration value="Charles Eaton"/>
+                                                  <xs:enumeration value="Marcus Whitman"/>
+                                                  <xs:enumeration value="Test"/>
+                                                </xs:restriction>
+                                            </xs:simpleType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
