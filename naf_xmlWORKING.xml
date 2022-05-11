@@ -6,7 +6,6 @@
 			<preferredName>Casey</preferredName>
 			<biographicalInfo>Family of patriarch Silas Casey II</biographicalInfo>
 		</agent>
-
 		<agent id="Silas_Casey_II" agentType="person">
 			<preferredName>Silas Casey II</preferredName>
 			<family relatedAgent="Casey"/>
@@ -20,8 +19,8 @@
 				<year>1830</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
-
 		<agent id="Abigail_Abby_Perry_Pearce_Casey" agentType="person">
 			<preferredName>Abigail "Abby" Perry Pearce Casey</preferredName>
 			<alternateName>Abigail Casey</alternateName>
@@ -32,12 +31,13 @@
 				<year>1830</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Silas_Casey_II"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
-				>Females</demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
-
 		<agent id="Abby_Casey" agentType="person">
 			<preferredName>Abby Casey</preferredName>
+			<alternateName>Abby Casey Hunt</alternateName>
+			<alternateName>Abby Hunt</alternateName>
+			<alternateName>Mrs. Hunt</alternateName>
 			<family relatedAgent="Casey"/>
 			<dateOfMarriage relatedAgent="Lewis_Cass_Hunt">
 				<year>1860</year>
@@ -45,21 +45,24 @@
 			<hasParent relatedAgent="Silas_Casey_II"/>
 			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
 			<hasSpouse relatedAgent="Lewis_Cass_Hunt"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
-				>Females</demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
-
 		<agent id="Lewis_Cass_Hunt" agentType="person">
 			<preferredName>Lewis Cass Hunt</preferredName>
+			<alternateName>Lewis Hunt</alternateName>
 			<family relatedAgent="Casey"/>
 			<dateOfMarriage relatedAgent="Abby_Casey">
 				<year>1860</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Abby_Casey"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
-
 		<agent id="Edward_Wanton_Casey" agentType="person">
 			<preferredName>Edward "Ned" Wanton Casey</preferredName>
+			<alternateName>Edward Wanton Casey</alternateName>
+			<alternateName>Ned Wanton Casey</alternateName>
+			<alternateName>Edward Casey</alternateName>
+			<alternateName>Ned Casey</alternateName>
 			<family relatedAgent="Casey"/>
 			<dateOfBirth>
 				<year>1850</year>
@@ -69,22 +72,27 @@
 			</dateOfDeath>
 			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
 			<hasParent relatedAgent="Silas_Casey_II"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
-
 		<agent id="Elizabeth_Bessie_Casey_Scott" agentType="person">
 			<preferredName>Elizabeth "Bessie" Casey Scott</preferredName>
+			<alternateName>Elizabeth Casey Scott</alternateName>
+			<alternateName>Elizabeth Scott</alternateName>
+			<alternateName>Elizabeth Casey</alternateName>
+			<alternateName>Bessie Casey Scott</alternateName>
+			<alternateName>Bessie Scott</alternateName>
+			<alternateName>Bessie Casey</alternateName>
 			<family relatedAgent="Casey"/>
 			<dateOfBirth>
 				<approximateDate>1844</approximateDate>
 			</dateOfBirth>
 			<hasParent relatedAgent="Silas_Casey_II"/>
 			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
-				>Females</demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
-
 		<agent id="Thomas_Lincoln_Casey" agentType="person">
 			<preferredName>Thomas Lincoln Casey</preferredName>
+			<alternateName>Thomas Casey</alternateName>
 			<family relatedAgent="Casey"/>
 			<dateOfBirth>
 				<approximateDate>1832</approximateDate>
@@ -95,16 +103,17 @@
 			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
 			<hasParent relatedAgent="Silas_Casey_II"/>
 			<hasSpouse relatedAgent="Emma_Weir_Casey"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
-
 		<agent id="Emma_Weir_Casey" agentType="person">
 			<preferredName>Emma Weir Casey</preferredName>
+			<alternateName>Emma Casey</alternateName>
+			<alternateName>Emma Weir</alternateName>
+			<alternateName>Mrs. Casey</alternateName>
 			<family relatedAgent="Casey"/>
 			<hasSpouse relatedAgent="Thomas_Lincoln_Casey"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
-				>Females</demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
-
 		<agent id="Silas_Casey_III" agentType="person">
 			<preferredName>Silas Casey III</preferredName>
 			<family relatedAgent="Casey"/>
@@ -120,17 +129,23 @@
 			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
 			<hasParent relatedAgent="Silas_Casey_II"/>
 			<hasSpouse relatedAgent="Sophia_Gray_Herberton_Casey"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
-
 		<agent id="Sophia_Gray_Herberton_Casey" agentType="person">
 			<preferredName>Sophia Gray Herberton Casey</preferredName>
+			<alternateName>Sophia Gray</alternateName>
+			<alternateName>Sophia Gray Herberton</alternateName>
+			<alternateName>Sophia Gray Casey</alternateName>
+			<alternateName>Sophia Herberton</alternateName>
+			<alternateName>Sophia Herberton Casey</alternateName>
+			<alternateName>Sophia Casey</alternateName>
+			<alternateName>Mrs. Casey</alternateName>
 			<family relatedAgent="Casey"/>
 			<dateOfMarriage relatedAgent="Silas_Casey_III">
 				<year>1865</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Silas_Casey_III"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
-				>Females</demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Bachelder" agentType="family">
 			<preferredName>Bachelder</preferredName>
@@ -138,6 +153,7 @@
 		</agent>
 		<agent id="James_M_Bachelder" agentType="person">
 			<preferredName>James M. Bachelder</preferredName>
+			<alternateName>James Bachelder</alternateName>
 			<family relatedAgent="Bachelder"/>
 			<dateOfBirth>
 				<year>1817</year>
@@ -146,38 +162,52 @@
 				<year>1865</year>
 			</dateOfDeath>
 			<hasSpouse relatedAgent="Sarah_Conklin_Bachelder"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Sarah_Conklin_Bachelder" agentType="person">
 			<preferredName>Sarah Conklin Bachelder</preferredName>
+			<alternateName>Sarah Conklin</alternateName>
+			<alternateName>Sarah Bachelder</alternateName>
+			<alternateName>Mrs. Bachelder</alternateName>
 			<family relatedAgent="Bachelder"/>
 			<hasSpouse relatedAgent="James_M_Bachelder"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Mary_Bachelder_Patterson" agentType="person">
 			<preferredName>Mary Bachelder Patterson</preferredName>
+			<alternateName>Mary Bachelder</alternateName>
+			<alternateName>Mary Patterson</alternateName>
 			<family relatedAgent="Bachelder"/>
 			<dateOfBirth>
 				<year>1850</year>
 			</dateOfBirth>
 			<hasParent relatedAgent="James_M_Bachelder"/>
 			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Edward_M_Bachelder" agentType="person">
 			<preferredName>Edward M. Bachelder</preferredName>
+			<alternateName>Edward Bachelder</alternateName>
 			<family relatedAgent="Bachelder"/>
 			<hasParent relatedAgent="James_M_Bachelder"/>
 			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Horace_W_Bachelder" agentType="person">
 			<preferredName>Horace W. Bachelder</preferredName>
+			<alternateName>Horace Bachelder</alternateName>
 			<family relatedAgent="Bachelder"/>
 			<hasParent relatedAgent="James_M_Bachelder"/>
 			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Mrs_E_F_Cathart" agentType="person">
 			<preferredName> Mrs. E. F. Cathart</preferredName>
+			<alternateName>Mrs. Cathart</alternateName>
 			<family relatedAgent="Bachelder"/>
 			<hasParent relatedAgent="James_M_Bachelder"/>
 			<hasParent relatedAgent="Sarah_Conklin_Bachelder"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Flett" agentType="family">
 			<preferredName>Flett</preferredName>
@@ -187,17 +217,25 @@
 			<preferredName> John Flett</preferredName>
 			<family relatedAgent="Flett"/>
 			<hasSpouse relatedAgent="Ellen_Monro_Flett"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Ellen_Monro_Flett" agentType="person">
 			<preferredName>Ellen Monro Flett</preferredName>
+			<alternateName>Ellen Monro</alternateName>
+			<alternateName>Ellen Flett</alternateName>
+			<alternateName>Mrs. Flett</alternateName>
 			<family relatedAgent="Flett"/>
 			<dateOfBirth>
 				<approximateDate>1836</approximateDate>
 			</dateOfBirth>
 			<hasSpouse relatedAgent="John_Flett"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
-		<agent id="Anna_Flett_Champman" agentType="person">
-			<preferredName>Anna Flett Champman</preferredName>
+		<agent id="Anna_Flett_Chapman" agentType="person">
+			<preferredName>Anna Flett Chapman</preferredName>
+			<alternateName>Anna Flett</alternateName>
+			<alternateName>Anna Chapman</alternateName>
+			<alternateName>Mrs. Chapman</alternateName>
 			<family relatedAgent="Flett"/>
 			<dateOfMarriage relatedAgent="George_Chapman">
 				<year>1895</year>
@@ -205,17 +243,21 @@
 			<hasParent relatedAgent="John_Flett"/>
 			<hasParent relatedAgent="Ellen_Monro_Flett"/>
 			<hasSpouse relatedAgent="George_Chapman"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="George_Chapman" agentType="person">
-			<preferredName>Goerge Chapman</preferredName>
+			<preferredName>George Chapman</preferredName>
 			<family relatedAgent="Flett"/>
-			<dateOfMarriage relatedAgent="Anna_Flett_Champman">
+			<dateOfMarriage relatedAgent="Anna_Flett_Chapman">
 				<year>1895</year>
 			</dateOfMarriage>
-			<hasSpouse relatedAgent="Anna_Flett_Champman"/>
+			<hasSpouse relatedAgent="Anna_Flett_Chapman"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Ellen_Chapman_Freckleton" agentType="person">
 			<preferredName>Ellen Chapman Freckleton</preferredName>
+			<alternateName>Ellen Freckleton</alternateName>
+			<alternateName>Mrs. Freckleton</alternateName>
 			<family relatedAgent="Flett"/>
 			<dateOfBirth>
 				<year>1902</year>
@@ -226,17 +268,20 @@
 			<dateOfMarriage relatedAgent="Adam_W_Freckleton">
 				<year>1936</year>
 			</dateOfMarriage>
-			<hasParent relatedAgent="Anna_Flett_Champman"/>
+			<hasParent relatedAgent="Anna_Flett_Chapman"/>
 			<hasParent relatedAgent="George_Chapman"/>
 			<hasSpouse relatedAgent="Adam_W_Freckleton"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Adam_W_Freckleton" agentType="person">
 			<preferredName>Adam W. Freckleton</preferredName>
+			<alternateName>Adam Freckleton</alternateName>
 			<family relatedAgent="Flett"/>
 			<dateOfMarriage relatedAgent="Ellen_Chapman_Freckleton">
 				<year>1936</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Ellen_Chapman_Freckleton"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Kautz" agentType="family">
 			<preferredName>Kautz</preferredName>
@@ -244,6 +289,7 @@
 		</agent>
 		<agent id="August_Valentine_Kautz" agentType="person">
 			<preferredName>August Valentine Kautz</preferredName>
+			<alternateName>August Kautz</alternateName>
 			<family relatedAgent="Kautz"/>
 			<dateOfBirth>
 				<year>1828</year>
@@ -259,25 +305,32 @@
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Charlotte_Todd_Kautz"/>
 			<hasSpouse relatedAgent="Fannie_Markbreit_Kautz"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Kitty" agentType="person">
-			<preferredName>"Kitty"</preferredName>
+			<preferredName>Kitty</preferredName>
 			<family relatedAgent="Kautz"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Nugent" agentType="person">
 			<preferredName>Nugent</preferredName>
 			<family relatedAgent="Kautz"/>
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
 			<hasParent relatedAgent="Kitty"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
-		<agent id="Augustus" agentType="person">
-			<preferredName>Augustus</preferredName>
+		<agent id="Agustus" agentType="person">
+			<preferredName>Agustus</preferredName>
 			<family relatedAgent="Kautz"/>
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
 			<hasParent relatedAgent="Kitty"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Charlotte_Todd_Kautz" agentType="person">
 			<preferredName>Charlotte Todd Kautz</preferredName>
+			<alternateName>Charlotte Todd</alternateName>
+			<alternateName>Charlotte Kautz</alternateName>
+			<alternateName>Mrs. Kautz</alternateName>
 			<family relatedAgent="Kautz"/>
 			<dateOfDeath>
 				<year>1868</year>
@@ -286,9 +339,13 @@
 				<year>1865</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="August_Valentine_Kautz"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Fannie_Markbreit_Kautz" agentType="person">
 			<preferredName>Frannie Markbreit Kautz</preferredName>
+			<alternateName>Frannie Kautz</alternateName>
+			<alternateName>Frannie Markbreit</alternateName>
+			<alternateName>Mrs. Kautz</alternateName>
 			<family relatedAgent="Kautz"/>
 			<dateOfBirth>
 				<year>1849</year>
@@ -300,6 +357,7 @@
 				<year>1872</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="August_Valentine_Kautz"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Austin_Kautz" agentType="person">
 			<preferredName>Austin Kautz</preferredName>
@@ -309,15 +367,20 @@
 			</dateOfBirth>
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
 			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Francesca_Frances_Frankie_Kautz" agentType="person">
 			<preferredName>Francesca "Frances" "Frankie" Kautz</preferredName>
+			<alternateName>Francesa Kautz</alternateName>
+			<alternateName>Frances Kautz</alternateName>
+			<alternateName>Frankie Kautz</alternateName>
 			<family relatedAgent="Kautz"/>
 			<dateOfBirth>
 				<year>1875</year>
 			</dateOfBirth>
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
 			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Navarra_Kautz" agentType="person">
 			<preferredName>Navarra Kautz</preferredName>
@@ -328,9 +391,9 @@
 			<hasParent relatedAgent="August_Valentine_Kautz"/>
 			<hasParent relatedAgent="Fannie_Markbreit_Kautz"/>
 		</agent>
-
 		<agent id="Isaac_Ingalls_Stevens" agentType="person">
 			<preferredName>Isaac Ingalls Stevens</preferredName>
+			<alternateName>Isaac Stevens</alternateName>
 			<dateOfBirth>
 				<year>1818</year>
 			</dateOfBirth>
@@ -341,69 +404,109 @@
 				<year>1841</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Margaret_Meg_Hazard_Stevens"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
 		</agent>
 		<agent id="Margaret_Meg_Hazard_Stevens" agentType="person">
 			<preferredName>Margaret "Meg" Hazard Stevens</preferredName>
+			<alternateName>Margaret Hazard Stevens</alternateName>
+			<alternateName>Margaret Hazard</alternateName>
+			<alternateName>Margaret Stevens</alternateName>
+			<alternateName>Meg Hazard Stevens</alternateName>
+			<alternateName>Meg Hazard</alternateName>
+			<alternateName>Meg Stevens</alternateName>
+			<alternateName>Mrs. Stevens</alternateName>
 			<dateOfMarriage relatedAgent="Isaac_Ingalls_Stevens">
 				<year>1841</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Isaac_Ingalls_Stevens"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Joseph_Thomas_Heath" agentType="person">
 			<preferredName>Joseph Thomas Heath</preferredName>
+			<alternateName>Joseph Heath</alternateName>
 			<biographicalInfo>Tenant farmer of land which later became the site for Fort
 				Steilacoom</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
 		</agent>
 		<agent id="Abraham_Benton_Moses" agentType="person">
 			<preferredName>Abraham Benton Moses</preferredName>
+			<alternateName>Abraham Moses</alternateName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
 		</agent>
 		<agent id="Abraham_Lincoln" agentType="person">
 			<preferredName>Abraham Lincoln</preferredName>
-
 			<biographicalInfo>16th President of the United States 1861- his death in
 				1865</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
 		</agent>
 		<agent id="Bennet_Hill" agentType="person">
 			<preferredName>Bennet Hill</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
-		<agent id="Big_Foot" agentType="person">
-
-			<preferredName>Big Foot</preferredName>
-			<biographicalInfo>Alleged human-like creature of North American
-				folklore.</biographicalInfo>
+		<agent id="Spotted_Elk" agentType="person">
+			<preferredName>Spotted Elk</preferredName>
+			<alternateName>Uŋpȟáŋ Glešká</alternateName>
+			<alternateName>OH-PONG-GE-LE-SKAH</alternateName>
+			<alternateName>Hupah Glešká</alternateName>
+			<alternateName>Big Foot</alternateName>
+			<alternateName>Si Tȟáŋka</alternateName>
+			<dateOfBirth>
+				<approximateDate>1826</approximateDate>
+			</dateOfBirth>
+			<dateOfDeath>
+				<date>1890-12-29</date>
+			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Spotted_Elk"/>
+			</sources>
 		</agent>
 		<agent id="Caroline_Light" agentType="person">
 			<preferredName>Caroline Light</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Charles_H_Mason" agentType="person">
 			<preferredName>Charles H. Mason</preferredName>
+			<alternateName>Charles Mason</alternateName>
 			<biographicalInfo>oliness-Pentecostal pastor and minister. Founder and first Senior
 				Bishop of the Church of God in Christ</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060860"/>
 		</agent>
 		<agent id="Charles_Prosch" agentType="person">
 			<preferredName>Charles Porsch</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="William_Fraser_Tolmie" agentType="person">
 			<preferredName>William Fraser Tolmie</preferredName>
+			<alternateName>William Tolmie</alternateName>
 			<dateOfMarriage relatedAgent="Jane_Work_Tolmie">
 				<year>1850</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Jane_Work_Tolmie"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Jane_Work_Tolmie" agentType="person">
 			<preferredName>Jane Work Tolmie</preferredName>
+			<alternateName>Jane Tolmie</alternateName>
+			<alternateName>Jane Work</alternateName>
+			<alternateName>Mrs. Tolmie</alternateName>
 			<dateOfMarriage relatedAgent="William_Fraser_Tolmie">
 				<year>1850</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="William_Fraser_Tolmie"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="E_Porter_Alexander" agentType="person">
 			<preferredName>E. Porter Alexander</preferredName>
 			<hasSpouse relatedAgent="Mrs_Alexander"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Mrs_Alexander" agentType="person">
 			<preferredName>Mrs. Alexander</preferredName>
 			<hasSpouse relatedAgent="E_Porter_Alexander"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Edward_Huggins" agentType="person">
 			<preferredName>Edward Huggins</preferredName>
@@ -411,13 +514,18 @@
 				<year>1857</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Lelita_Work_Huggins"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Lelita_Work_Huggins" agentType="person">
 			<preferredName>Lelita Work Huggins</preferredName>
+			<alternateName>Lelita Work</alternateName>
+			<alternateName>Lelita Huggins</alternateName>
+			<alternateName>Mrs. Huggins</alternateName>
 			<dateOfMarriage relatedAgent="Edward_Huggins">
 				<year>1857</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Edward_Huggins"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="John_Rigney" agentType="person">
 			<preferredName>John Rigney</preferredName>
@@ -425,35 +533,51 @@
 				<year>1848</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Elizabeth_Rigney"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Elizabeth_Rigney" agentType="person">
 			<preferredName>Elizabeth Rigney</preferredName>
+			<alternateName>Mrs. Rigney</alternateName>
 			<dateOfMarriage relatedAgent="John_Rigney">
 				<year>1848</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="John_Rigney"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Emily_Alvord" agentType="person">
 			<preferredName>Emily Alvord</preferredName>
+			<alternateName>Mrs. Alvord</alternateName>
 			<hasSpouse relatedAgent="Benjamin_Alvord"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Benjamin_Alvord" agentType="person">
 			<preferredName>Benjamin Alvord</preferredName>
 			<biographicalInfo>American soldier, mathemetician, and botanist</biographicalInfo>
 			<hasSpouse relatedAgent="Emily_Alvord"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060082"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060394"/>
 		</agent>
 		<agent id="Erasmus_D_Keyes" agentType="person">
 			<preferredName>Erasmus D. Keyes</preferredName>
+			<alternateName>Erasmus Keyes</alternateName>
 			<biographicalInfo>Served at Ft. Steilacoom as commander of Company M, 3rd Artillery
 				beginning in November 1855&#8211;Spring 1856</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
 		</agent>
 		<agent id="Horatio_G_Pitcher" agentType="person">
 			<preferredName>Horatio G. Pitcher</preferredName>
+			<alternateName>Horatio Pitcher</alternateName>
 			<hasSpouse relatedAgent="Annie_Pitcher"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Annie_Pitcher" agentType="person">
 			<preferredName>Annie Pitcher</preferredName>
+			<alternateName>Mrs. Pitcher</alternateName>
 			<hasSpouse relatedAgent="Horatio_G_Pitcher"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="John_Nugen" agentType="person">
 			<preferredName>John Nugen</preferredName>
@@ -463,21 +587,28 @@
 			<dateOfDeath>
 				<year>1857</year>
 			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="John_Swan" agentType="person">
 			<preferredName>John Swan</preferredName>
 			<biographicalInfo>Indian Agent in the Washington territory</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Joseph_Lane" agentType="person">
 			<preferredName>Joseph Lane</preferredName>
 			<biographicalInfo>American politician and soldier appointed as the first Governor of
 				Oregon Territory.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060412"/>
 		</agent>
 		<agent id="William_H_Archbold" agentType="person">
 			<preferredName>William H. Archbold</preferredName>
+			<alternateName>William Archbold</alternateName>
 			<dateOfDeath>
 				<year>1869</year>
 			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Lafayette_Balch" agentType="person">
 			<preferredName>Lafayette Balch</preferredName>
@@ -486,53 +617,72 @@
 		</agent>
 		<agent id="Mrs_Stephen_Barker" agentType="person">
 			<preferredName>Mrs. Stephen Barker</preferredName>
+			<alternateName>Mrs. Barker</alternateName>
 			<hasSpouse relatedAgent="Stephen_Barker"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
-
 		<agent id="Stephen_Barker" agentType="person">
 			<preferredName>Stephen Barker</preferredName>
 			<hasSpouse relatedAgent="Mrs_Stephen_Barker"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="John_Baptist_Brondel" agentType="person">
 			<preferredName>John Baptist Brondel</preferredName>
 			<biographicalInfo>A Belgian-born prelate of the Catholic Church. He served in Canada as
 				Bishop of Vancouver Island (1879&#8211;83) and in the United States as Bishop of
 				Helena (1884&#8211;1903).</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060724"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060668"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060259"/>
 		</agent>
-
 		<agent id="Thomas_English" agentType="person">
 			<preferredName>Thomas English</preferredName>
 			<hasSpouse relatedAgent="Mrs_English"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Mrs_English" agentType="person">
 			<preferredName>Mrs. English</preferredName>
 			<hasSpouse relatedAgent="Thomas_English"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Sarah_Josepha_Hale" agentType="person">
 			<preferredName>Sarah Josepha Hale</preferredName>
+			<alternateName>Sarah Hale</alternateName>
 			<dateOfDeath>
 				<year>1879</year>
 			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Sarah_McAllister_Hartman" agentType="person">
-			<preferredName>Sarah McAlister Hartman</preferredName>
+			<preferredName>Sarah McAllister Hartman</preferredName>
+			<alternateName>Sarah McAllister</alternateName>
+			<alternateName>Sarah Hartman</alternateName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Kate_Hewitt" agentType="person">
 			<preferredName>Kate Hewitt</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Mrs_Phillip_Keach" agentType="person">
 			<preferredName>Mrs. Phillip Keach</preferredName>
+			<alternateName>Mrs. Keach</alternateName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Maurice_Maloney" agentType="person">
 			<preferredName>Maurice Maloney</preferredName>
 			<hasSpouse relatedAgent="Mrs_Maloney"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Mrs_Maloney" agentType="person">
 			<preferredName>Mrs. Maloney</preferredName>
 			<hasSpouse relatedAgent="Maurice_Maloney"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Charlotte_Smith_McAllister" agentType="person">
 			<preferredName>Charlotte Smith McAllister</preferredName>
+			<alternateName>Charlotte Smith</alternateName>
+			<alternateName>Charlotte McAllister</alternateName>
 			<dateOfBirth>
 				<year>1818</year>
 			</dateOfBirth>
@@ -540,6 +690,7 @@
 				<year>1865</year>
 			</dateOfDeath>
 			<hasSpouse relatedAgent="James_Jim_McAllister"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="James_Jim_McAllister" agentType="person">
 			<preferredName>James "Jim" McAllister</preferredName>
@@ -552,70 +703,96 @@
 				<year>1855</year>
 			</dateOfDeath>
 			<hasSpouse relatedAgent="Charlotte_Smith_McAllister"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Eliza_C_Porter" agentType="person">
 			<preferredName>Eliza C. Porter</preferredName>
+			<alternateName>Eliza Porter</alternateName>
 			<biographicalInfo>First public school teacher in Chicago, at Fort Dearborn, established
 				normal schools, educated settlers and American Indians at Mackinac Island, aided the
 				wounded during the American Civil War as a member of the U.S. Sanitary Commission,
 				participated in the Underground Railroad, and taught freedmen.</biographicalInfo>
 			<hasSpouse relatedAgent="Jeremiah_Porter"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060216"/>
 		</agent>
 		<agent id="Jeremiah_Porter" agentType="person">
 			<preferredName>Jeremiah Porter</preferredName>
 			<biographicalInfo>Reverend Jeremiah Porter, a Yankee Presbyterian evangelist, is
 				considered Chicago's First Reformer</biographicalInfo>
 			<hasSpouse relatedAgent="Eliza_C_Porter"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060263"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060401"/>
 		</agent>
 		<agent id="Maryann_Reed" agentType="person">
 			<preferredName>Maryann Reed</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Louis_Rossi" agentType="person">
 			<preferredName>Louis Rossi</preferredName>
 			<biographicalInfo>A Catholic missionary priest who ministered for just over three years,
 				from 1856 to 1860 in Washington Territory and then for almost three more years in
 				northern California.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060259"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060300"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060402"/>
 		</agent>
 		<agent id="Philip_Phil_Sheridan" agentType="person">
 			<preferredName>Philip "Phil" Sheridan</preferredName>
+			<alternateName>Philip Sheridan</alternateName>
+			<alternateName>Phil Sheridan</alternateName>
 			<dateOfDeath>
 				<year>1888</year>
 			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Mary_Wells_Slaughter" agentType="person">
 			<preferredName>Mary Wells Slaughter</preferredName>
+			<alternateName>Mary Wells</alternateName>
+			<alternateName>Mary Slaughter</alternateName>
 			<dateOfBirth>
 				<year>1832</year>
 			</dateOfBirth>
 			<dateOfDeath>
 				<year>1862</year>
 			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="William_Alloway_Slaughter" agentType="person">
 			<preferredName>William Alloway Slaughter</preferredName>
+			<alternateName>William Slaughter</alternateName>
 			<dateOfBirth>
 				<year>1827</year>
 			</dateOfBirth>
 			<dateOfDeath>
 				<year>1855</year>
 			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Margaret_Whitesell_Taylor" agentType="person">
 			<preferredName>Margaret Whitesell Taylor</preferredName>
+			<alternateName>Margaret Taylor</alternateName>
+			<alternateName>Margaret Whitesell</alternateName>
 			<dateOfMarriage>
 				<year>1883</year>
 			</dateOfMarriage>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Miss_Teen" agentType="person">
 			<preferredName>Miss Teen</preferredName>
 			<biographicalInfo>Dear friend of Edward Porter Alexander</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 		<agent id="Abraham_Salatat" agentType="person">
 			<preferredName>Abraham Salat</preferredName>
 			<hasSpouse relatedAgent="William_H_Wallace"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="William_H_Wallace" agentType="person">
-			<preferredName>William H Wallace</preferredName>
+			<preferredName>William H. Wallace</preferredName>
+			<alternateName>William Wallace</alternateName>
 			<dateOfBirth>
 				<year>1811</year>
 			</dateOfBirth>
@@ -623,122 +800,239 @@
 				<year>1878</year>
 			</dateOfDeath>
 			<hasSpouse relatedAgent="Luzanne_Luzena_Brazelton_Wallace"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Luzanne_Luzena_Brazelton_Wallace" agentType="person">
-			<preferredName> Luzanne "Luzena" Brazelton Wallace</preferredName>
+			<preferredName>Luzanne "Luzena" Brazelton Wallace</preferredName>
+			<alternateName>Luzanne Brazelton</alternateName>
+			<alternateName>Luzanne Wallace</alternateName>
+			<alternateName>Luzena Brazelton</alternateName>
+			<alternateName>Luzena Wallace</alternateName>
+			<alternateName>Luzena Brazelton Wallace</alternateName>
+			<alternateName>Mrs. Wallace</alternateName>
 			<hasSpouse relatedAgent="William_H_Wallace"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
 		</agent>
 
 		<agent id="Kanasket" agentType="person">
 			<preferredName>Kasnasket</preferredName>
+			<alternateName>Kanaskat</alternateName>
+			<tribalAffiliation>Klickitat</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"></demographicTerm>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Kanasket"/>
+			</sources>
 		</agent>
 		<agent id="Kitsap" agentType="person">
-			<preferredName>Kitsap</preferredName>
+			<preferredName>Ktsap</preferredName>
+			<alternateName>Kitsap</alternateName>
 			<biographicalInfo>War chief of the Suquamish tribe.</biographicalInfo>
+			<dateOfDeath>
+				<date>1860-04-18</date>
+			</dateOfDeath>
+			<tribalAffiliation>Suquamish</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Ktsap"/>
+			</sources>
 		</agent>
 		<agent id="Lakalet" agentType="person">
 			<preferredName>Lakalet</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
 		</agent>
 		<agent id="Lame_Deer" agentType="person">
 			<preferredName>Lame Deer</preferredName>
 			<biographicalInfo>1st chief of the Minneconjon band of Dakota or Sioux Indians. Second
 				signatory of the 1865 Treaty with the Minneconjon Indians</biographicalInfo>
+			<dateOfBirth>
+				<year>1821</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<date>1877-05-10</date>
+			</dateOfDeath>
+			<tribalAffiliation>Miniconjou</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Lame_Deer"/>
+			</sources>
 		</agent>
 		<agent id="Leschi" agentType="person">
 			<preferredName>Leschi</preferredName>
 			<biographicalInfo>War chief of the Nisqually Tribe; accused, tried, and convicted of the
 				murder of two militiamen in a skirmish with his people.</biographicalInfo>
+			<dateOfBirth>
+				<year>1808</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<date>1858-02-19</date>
+			</dateOfDeath>
+			<tribalAffiliation>Nisqually</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Leschi_(Nisqually)"/>
+			</sources>
 		</agent>
 		<agent id="Plenty_Horses" agentType="person">
 			<preferredName>Plenty Horses</preferredName>
 			<alternateName>Senika-Wakan-Ota</alternateName>
+			<alternateName>Tasunka</alternateName>
+			<dateOfBirth>
+				<year>1869</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1933</year>
+			</dateOfDeath>
+			<tribalAffiliation>Sicangu</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Plenty_Horses"/>
+			</sources>
 		</agent>
 		<agent id="Red_Cloud" agentType="person">
 			<preferredName>Red Cloud</preferredName>
 			<biographicalInfo>One of the most important leaders of the Oglala Lakota from 1868 to
 				1909. </biographicalInfo>
+			<dateOfBirth>
+				<year>1822</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<date>1909-12-10</date>
+			</dateOfDeath>
+			<tribalAffiliation>Oglala</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Red_Cloud"/>
+			</sources>
 		</agent>
 		<agent id="Shot_Face_Charlie" agentType="person">
 			<preferredName>Shot-Face Charlie</preferredName>
 		</agent>
-		<agent id="Stickus" agentType="person">
-			<preferredName>Stickus</preferredName>
+		<agent id="Istachus" agentType="person">
+			<preferredName>Istachus</preferredName>
+			<alternateName>Stickus</alternateName>
+			<tribalAffiliation>Cayuse</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
 		</agent>
 		<agent id="Wapowety" agentType="person">
 			<preferredName>Wapowety</preferredName>
+			<biographicalInfo>American Indian guide who helped lead Lieutenant August Kautz on the first recorded attempted ascent of Mount Rainier.</biographicalInfo>
+			<tribalAffiliation>Nisqually</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"></demographicTerm>
+			<sources>
+				<source uri="https://mountrainiernps.tumblr.com/post/167320935006/how-do-we-remember-the-past-through-naming"/>
+				<source uri="http://www.npshistory.com/nature_notes/mora/vol12/vol12-4b.htm"/>
+				<source uri="http://npshistory.com/nature_notes/mora/vol15/vol15-2g.htm"/>
+			</sources>
 		</agent>
 		<agent id="John_Ector" agentType="person">
 			<preferredName>John Ector</preferredName>
 			<biographicalInfo>Brother in law of Paymaster Major A.B. Ragan. Ector suffered from some
 				form of mental illness which resulted in violent outbursts and eventually led to his
 				being admitted to an asylum. </biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="George_M_Berry" agentType="person">
-			<preferredName>Goerge M. Berry</preferredName>
+			<preferredName>George M. Berry</preferredName>
+			<alternateName>George Berry</alternateName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Antonio_B_Rabbeson" agentType="person">
-			<preferredName>Anotonio B. Rabbeson</preferredName>
+			<preferredName>Antonio B. Rabbeson</preferredName>
+			<alternateName>Antonio Rabbeson</alternateName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Joseph_Miles" agentType="person">
 			<preferredName>Joseph Miles</preferredName>
 			<biographicalInfo>Militiaman in the citizen militia of Captain Charles Eaton; killed in
 				a skirmish with the Nisqually people, and whose death was blamed on Chief
 				Leschi</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
 		</agent>
 		<agent id="Michael_Luark" agentType="person">
 			<preferredName>Michael Luark</preferredName>
 			<biographicalInfo>An early settler who was hired in 1854 to work on the construction of
 				the Steilacoom Court house</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="George_McClellan" agentType="person">
 			<preferredName>George McClellan</preferredName>
 			<biographicalInfo>American soldier, Civil War Union general, civil engineer, railroad
 				executive, and politician who served as the 24th governor of New
 				Jersey.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2017060014"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060412"/>
 		</agent>
 		<agent id="Richard_Arnold" agentType="person">
 			<preferredName>Richard Arnold</preferredName>
 			<biographicalInfo>In charge of construction at Fort Steilacoom 1854 &#8211;
 				1855</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="C_H_Lanard" agentType="person">
 			<preferredName>C. H. Lanard</preferredName>
 		</agent>
 		<agent id="M_John_Hamilton" agentType="person">
 			<preferredName>M. John Hamilton</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Mother_Joseph" agentType="person">
 			<preferredName>Mother Joseph</preferredName>
 			<biographicalInfo>A Canadian Religious Sister who led a group of the members of her
 				congregation to the Pacific Northwest of the United States and established a network
 				of schools and healthcare to service the American settlers</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060002"/>
 		</agent>
 		<agent id="Quiemuth" agentType="person">
 			<preferredName>Quiemuth</preferredName>
 			<biographicalInfo>Older brother of Chief Leschi</biographicalInfo>
+			<tribalAffiliation>Nisqually</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
 		</agent>
 		<agent id="Lashimere" agentType="person">
 			<preferredName>Lashimere</preferredName>
 		</agent>
 		<agent id="John_Fulton_Reynolds" agentType="person">
 			<preferredName>John Fulton Reynolds</preferredName>
+			<alternateName>John Reynolds</alternateName>
 			<biographicalInfo>A career United States Army officer and a general in the American
 				Civil War.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
 		</agent>
 		<agent id="Charles_Wilkes" agentType="person">
 			<preferredName>Charles Wilkes</preferredName>
 			<biographicalInfo>American naval officer, ship's captain, and
 				explorer.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
 		</agent>
 		<agent id="Charles_Eaton" agentType="person">
 			<preferredName>Charles Eaton</preferredName>
 			<biographicalInfo>Captain of citizen militia "Eaton's Rangers"</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
 		</agent>
 		<agent id="Marcus_Whitman" agentType="person">
 			<preferredName>Marcus Whitman</preferredName>
 			<biographicalInfo>An American physician and missionary who was killed, along with his
 				wife and 11 other settlers, by a group of Cayuse peoples in an event that came to be
 				known as the Whitman Massacre</biographicalInfo>
+		</agent>
+		<agent id="test" agentType="corporation">
+			<preferredName>Test</preferredName>
 		</agent>
 	</agents>
 </nameAuthorityFile>
