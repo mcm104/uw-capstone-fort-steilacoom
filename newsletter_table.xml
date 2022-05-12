@@ -7,6 +7,21 @@
         <volume>V37 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2021/03/V37N1-FS-newsletter.pdf</link>
         <date>Winter 2020</date>
+        <keywords>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>James Longmire</keyword>
+            <keyword>Quiemuth</keyword>
+            <keyword>Slug-yeh</keyword>
+            <keyword>John Mollhigh</keyword>
+            <keyword>Utsalawah</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Charles Eaton</keyword>
+            <keyword>Puyallup</keyword>
+            <keyword>White River Massacre (1855)</keyword>
+            <keyword>Puget Sound Rangers</keyword>
+            <keyword>Qualchan</keyword>
+            <keyword>Ktsap</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Dr. George Suckley, Assistant Surgeon, U.S. Army, Naturalist and Author</title>
@@ -14,6 +29,13 @@
         <volume>V37N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2021/02/V7N2-Summer-2020.pdf</link>
         <date>Summer 2020</date>
+        <keywords>
+            <keyword>George Suckley</keyword>
+            <keyword>Sanitation and Disease</keyword>
+            <keyword>Railroads</keyword>
+            <keyword>George McClellan</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Indian Attack on Connell’s Prairie</title>
@@ -21,6 +43,14 @@
         <volume>V36 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V36N2.pdf</link>
         <date>Summer-Autumn 2019</date>
+        <keywords>
+            <keyword>Abraham Benton Moses</keyword>
+            <keyword>Joseph Miles</keyword>
+            <keyword>Antonio B. Rabbeson</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Washington’s Yesterdays</title>
@@ -28,6 +58,28 @@
         <volume>V36 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V36N1.pdf</link>
         <date>Winter-Spring 2019</date>
+        <keywords>
+            <keyword>Lucile Saunders McDonald</keyword>
+            <keyword>Fort Nisqually</keyword>
+            <keyword>Patkanim</keyword>
+            <keyword>Nisqually</keyword>
+            <keyword>Lahalet</keyword>
+            <keyword>William Fraser Tolmie</keyword>
+            <keyword>Wars and Conflicts</keyword>
+            <keyword>Joseph Lane</keyword>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+            <keyword>Joseph T. Heath Farm</keyword>
+            <keyword>Puget Sound Agricultural Company</keyword>
+            <keyword>Quallahwowt</keyword>
+            <keyword>Kussass</keyword>
+            <keyword>Sturharnai</keyword>
+            <keyword>Talatarn</keyword>
+            <keyword>Whyesk</keyword>
+            <keyword>Quatthlinkyne</keyword>
+            <keyword>Fort Vancouver</keyword>
+            <keyword>Washington Territory (1853-1889)</keyword>
+            <keyword>William H. Wallace</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Remembrances of Fort Steilacoom</title>
@@ -35,6 +87,22 @@
         <volume>V35 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N3.pdf</link>
         <date>Autumn 2018</date>
+        <keywords>
+            <keyword>Edward Porter Alexander</keyword>
+            <keyword>Thomas Lincoln Casey</keyword>
+            <keyword>Emma Weir Casey</keyword>
+            <keyword>Miss Teen</keyword>
+            <keyword>Casey</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Thomas English</keyword>
+            <keyword>John Ector</keyword>
+            <keyword>Abby Casey</keyword>
+            <keyword>Lewis Cass Hunt</keyword>
+            <keyword>Elizabeth "Bessie" Casey Scott</keyword>
+            <keyword>Housing</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Touring Historic Fort Steilacoom</title>
@@ -511,7 +579,7 @@
             <keyword>Forts</keyword>
             <keyword>Washington Territory (1853-1889)</keyword>
             <keyword>Puget Sound War (1855-1856)</keyword>
-            <keyword>Yakima</keyword>
+            <keyword>Yakama</keyword>
             <keyword>Isaac Ingalls Stevens</keyword>
             <keyword>Fort Steilacoom</keyword>
             <keyword>William Alloway Slaughter</keyword>
@@ -716,7 +784,7 @@
             <keyword>Fort Steilacoom</keyword>
             <keyword>Puget Sound War (1855-1856)</keyword>
             <keyword>Klickitat</keyword>
-            <keyword>Yakima</keyword>
+            <keyword>Yakama</keyword>
             <keyword>Walla Walla</keyword>
             <keyword>William Alloway Slaughter</keyword>
             <keyword>Nugent</keyword>
@@ -835,7 +903,7 @@
             <keyword>Chinook</keyword>
             <keyword>Leschi</keyword>
             <keyword>Nisqually</keyword>
-            <keyword>Yakima</keyword>
+            <keyword>Yakama</keyword>
             <keyword>Shot-Face Charlie</keyword>
             <keyword>Fort Steilacoom</keyword>
             <keyword>Puyallup</keyword>
@@ -2282,5 +2350,4 @@
             <keyword>Restoration</keyword>
         </keywords>
     </newsletter>
-
 </newsletters>
