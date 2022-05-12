@@ -74,7 +74,7 @@
                                                   value="Mexican-American War (1846-1848)"/>
                                                   <xs:enumeration value="Aztec Club"/>
                                                   <xs:enumeration
-                                                      value="American Civil War (1861-1865)"/>
+                                                  value="American Civil War (1861-1865)"/>
                                                   <xs:enumeration value="Peninsula Campaign"/>
                                                   <xs:enumeration value="Pig War (1859)"/>
                                                   <xs:enumeration
@@ -240,7 +240,7 @@
                                                   <xs:enumeration value="Stikine Tlingit"/>
                                                   <xs:enumeration value="Squaxin Island"/>
                                                   <xs:enumeration value="Walla Walla"/>
-                                                  <xs:enumeration value="Yakima"/>
+                                                  <xs:enumeration value="Yakama"/>
                                                   <xs:enumeration value="Slavery"/>
                                                   <xs:enumeration value="Self-Emancipated Persons"/>
                                                   <xs:enumeration value="Legal History"/>
@@ -250,7 +250,7 @@
                                                   <xs:enumeration
                                                   value="A Historical Court of Inquiry and Justice"/>
                                                   <xs:enumeration
-                                                  value="White River Massacre (1885)"/>
+                                                  value="White River Massacre (1855)"/>
                                                   <xs:enumeration value="Whitman Massacre (1847)"/>
                                                   <xs:enumeration value="Women's History"/>
                                                   <xs:enumeration value="Women Workers"/>
@@ -381,7 +381,21 @@
                                                   <xs:enumeration value="Charles Wilkes"/>
                                                   <xs:enumeration value="Charles Eaton"/>
                                                   <xs:enumeration value="Marcus Whitman"/>
-                                                  <xs:enumeration value="Test"/>
+                                                  <xs:enumeration value="James Longmire"/>
+                                                  <xs:enumeration value="Slug-yeh"/>
+                                                  <xs:enumeration value="John Mollhigh"/>
+                                                  <xs:enumeration value="Utsalawah"/>
+                                                  <xs:enumeration value="Qualchan"/>
+                                                  <xs:enumeration value="George Suckley"/>
+                                                  <xs:enumeration value="Lucile Saunders McDonald"/>
+                                                  <xs:enumeration value="Patkanim"/>
+                                                  <xs:enumeration value="Lahalet"/>
+                                                  <xs:enumeration value="Quallahwowt"/>
+                                                  <xs:enumeration value="Kussass"/>
+                                                  <xs:enumeration value="Sturharnai"/>
+                                                  <xs:enumeration value="Talatarn"/>
+                                                  <xs:enumeration value="Whyesk"/>
+                                                  <xs:enumeration value="Quatthlinkyne"/>
                                                 </xs:restriction>
                                             </xs:simpleType>
                                         </xs:element>
