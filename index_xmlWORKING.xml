@@ -1,8 +1,6 @@
 <newsletterIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="index.xsd">
 	<terms>
-
-
 		<term id="Corporations">
 			<preferredTerm>Corporations</preferredTerm>
 		</term>
@@ -31,14 +29,12 @@
 			<definition>The set of activities that are associated with making decisions in groups,
 				or other forms of power relations among individuals.</definition>
 		</term>
-
 		<term id="Movements">
 			<preferredTerm>Movements</preferredTerm>
 			<parentTerm term_id="Politics"/>
 			<definition>A coordinated group action focused on a political, social, or religious
 				issue or ideology.</definition>
 		</term>
-
 		<term id="Abolitionism">
 			<preferredTerm>Abolitionism</preferredTerm>
 			<alternateTerm>Abolition</alternateTerm>
@@ -46,7 +42,6 @@
 			<parentTerm term_id="Movements"/>
 			<definition>The movement to end slavery.</definition>
 		</term>
-
 		<term id="Manifest_Destiny">
 			<preferredTerm>Manifest Destiny</preferredTerm>
 			<parentTerm term_id="Movements"/>
@@ -69,8 +64,9 @@
 
 		<term id="Indian_Agent">
 			<preferredTerm>Indian Agent</preferredTerm>
-			<parentTerm termid="US-Indigenous_Relations"/>
-			<definition>An individual authorized to interact with American Indian tribes on behalf of the government.</definition>
+			<parentTerm term_id="US-Indigenous_Relations"/>
+			<definition>An individual authorized to interact with American Indian tribes on behalf
+				of the government.</definition>
 		</term>
 		<term id="American_Indian_Removal">
 			<preferredTerm>American Indian Removal (1830-1847)</preferredTerm>
@@ -242,7 +238,7 @@
 				Mexican&#8211;American War.</definition>
 		</term>
 		<term id="American_Civil_War">
-			<preferredTerm>American Civil War (1846-1848)</preferredTerm>
+			<preferredTerm>American Civil War (1861-1865)</preferredTerm>
 			<parentTerm term_id="Wars_Conflicts"/>
 		</term>
 		<term id="Peninsula_Campaign">
@@ -259,6 +255,7 @@
 		</term>
 		<term id="Puget_Sound_War">
 			<preferredTerm>Puget Sound War (1855-1856)</preferredTerm>
+			<alternateTerm>Indian War (1855-1856)</alternateTerm>
 			<parentTerm term_id="Wars_Conflicts"/>
 			<definition>An armed conflict that took place in the Puget Sound area of the state of
 				Washington in 1855&#8211;56, between the United States military, local militias and
@@ -811,7 +808,7 @@
 				Steilacoom</definition>
 		</term>
 		<term id="Muckelshoot_Prarie">
-			<preferredTerm>Muckelshoot Prarie</preferredTerm>
+			<preferredTerm>Muckleshoot Prairie</preferredTerm>
 			<parentTerm term_id="Places"/>
 		</term>
 		<term id="Gravelly_Lake">
@@ -827,8 +824,8 @@
 				region were part of the first wagon train to cross the Cascade Range at Naches Pass
 				in 1853.</definition>
 		</term>
-		<term id="Boatman_Answorth_House">
-			<preferredTerm>Boatman-Answorth House</preferredTerm>
+		<term id="Boatman_Ainsworth_House">
+			<preferredTerm>Boatman-Ainsworth House</preferredTerm>
 			<parentTerm term_id="Places"/>
 		</term>
 		<term id="Port_Steilacoom">
@@ -1037,6 +1034,7 @@
 		</term>
 		<term id="Snoqualmie">
 			<preferredTerm>Snoqualmie</preferredTerm>
+			<alternateTerm>Snoqualmoo</alternateTerm>
 			<parentTerm term_id="Nations_Peoples"/>
 			<definition>A Coast Salish people of Washington state</definition>
 		</term>
@@ -1072,12 +1070,15 @@
 			<parentTerm term_id="Nations_Peoples"/>
 			<definition>A Sahaptin indigenous people of the Northwest Plateau.</definition>
 		</term>
-		<term id="Yakima">
-			<preferredTerm>Yakima</preferredTerm>
+		<term id="Yakama">
+			<preferredTerm>Yakama</preferredTerm>
+			<alternateTerm>Yakima</alternateTerm>
 			<parentTerm term_id="Nations_Peoples"/>
 			<definition>Originally occupied the area on both sides of the Columbia River and on the
-				northern branches of the Yakima (formerly Tapteal) and Wenatchee Rivers in the state
-				of Washington.</definition>
+				northern branches of the Yakama (formerly Tapteal) and Wenatchee Rivers in the state
+				of Washington. Originally spelled "Yakima," the Yakama nation renamed itself to
+				"Yakama" in the mid-1990s to more closely reflect the proper pronunciation in their
+				native tongue.</definition>
 		</term>
 		<term id="Slavery">
 			<preferredTerm>Slavery</preferredTerm>
@@ -1102,7 +1103,7 @@
 		<term id="Chief_Leschi_Trial">
 			<preferredTerm>Chief Leschi Trial</preferredTerm>
 			<parentTerm term_id="Trial"/>
-			<definition>Trial of Nisqually War Cheif Leschi for the "murder" of two militiamen in
+			<definition>Trial of Nisqually War Chief Leschi for the "murder" of two militiamen in
 				1856</definition>
 		</term>
 		<term id="Truth_Teller">
@@ -1118,11 +1119,14 @@
 				exoneration.</definition>
 		</term>
 		<term id="White_River_Massacre">
-			<preferredTerm>White River Massacre (1885)</preferredTerm>
+			<preferredTerm>White River Massacre (1855)</preferredTerm>
 		</term>
 		<term id="Whitman_Massacre">
 			<preferredTerm>Whitman Massacre (1847)</preferredTerm>
-			<definition>The killing of the Washington missionaries Marcus Whitman and his wife Narcissa, along with eleven others, on November 29, 1847 by members of the Cayuse tribe who accused Whitman of having poisoned 200 Cayuse in his medical care; launched the Cayuse War.</definition>
+			<definition>The killing of the Washington missionaries Marcus Whitman and his wife
+				Narcissa, along with eleven others, on November 29, 1847 by members of the Cayuse
+				tribe who accused Whitman of having poisoned 200 Cayuse in his medical care;
+				launched the Cayuse War.</definition>
 		</term>
 		<term id="Womens_History">
 			<preferredTerm>Women's History</preferredTerm>
@@ -1138,7 +1142,7 @@
 				clothing</definition>
 		</term>
 		<term id="Domestic_Violence">
-			<preferredTerm>Domestic_Violence</preferredTerm>
+			<preferredTerm>Domestic Violence</preferredTerm>
 			<parentTerm term_id="Womens_History"/>
 		</term>
 		<term id="Obituary">
