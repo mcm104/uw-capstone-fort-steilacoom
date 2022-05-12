@@ -75,7 +75,7 @@
                                             name="tribalAffiliation"/>
                                         <xs:element maxOccurs="unbounded" minOccurs="0"
                                             name="demographicTerm">
-                                            <xs:complexType mixed="true">
+                                            <xs:complexType mixed="false">
                                                 <xs:attribute ref="uri" use="required"/>
                                             </xs:complexType>
                                         </xs:element>
@@ -97,7 +97,7 @@
                                             <xs:restriction base="xs:string">
                                                 <xs:enumeration value="person"/>
                                                 <xs:enumeration value="family"/>
-                                                <xs:enumeration value="corporate body"/>
+                                                <xs:enumeration value="corporation"/>
                                             </xs:restriction>
                                         </xs:simpleType>
                                     </xs:attribute>
