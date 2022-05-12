@@ -1,6 +1,5 @@
 <nameAuthorityFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="naf.xsd">
-	<!-- NOTE TO SELF: RESCUE MILES' COMMENTS FROM PREVIOUS COMMIT -->
 	<agents>
 		<agent id="Casey" agentType="family">
 			<preferredName>Casey</preferredName>
@@ -50,6 +49,7 @@
 		<agent id="Lewis_Cass_Hunt" agentType="person">
 			<preferredName>Lewis Cass Hunt</preferredName>
 			<alternateName>Lewis Hunt</alternateName>
+			<alternateName>Captain Hunt</alternateName>
 			<family relatedAgent="Casey"/>
 			<dateOfMarriage relatedAgent="Abby_Casey">
 				<year>1860</year>
@@ -82,6 +82,8 @@
 			<alternateName>Bessie Casey Scott</alternateName>
 			<alternateName>Bessie Scott</alternateName>
 			<alternateName>Bessie Casey</alternateName>
+			<alternateName>Mrs. Scott</alternateName>
+			<alternateName>Mrs. Robert N. Scott</alternateName>
 			<family relatedAgent="Casey"/>
 			<dateOfBirth>
 				<approximateDate>1844</approximateDate>
@@ -404,7 +406,7 @@
 				<year>1841</year>
 			</dateOfMarriage>
 			<hasSpouse relatedAgent="Margaret_Meg_Hazard_Stevens"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Margaret_Meg_Hazard_Stevens" agentType="person">
 			<preferredName>Margaret "Meg" Hazard Stevens</preferredName>
@@ -426,18 +428,19 @@
 			<alternateName>Joseph Heath</alternateName>
 			<biographicalInfo>Tenant farmer of land which later became the site for Fort
 				Steilacoom</biographicalInfo>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Abraham_Benton_Moses" agentType="person">
 			<preferredName>Abraham Benton Moses</preferredName>
 			<alternateName>Abraham Moses</alternateName>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
+			<alternateName>A. B. Moses</alternateName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Abraham_Lincoln" agentType="person">
 			<preferredName>Abraham Lincoln</preferredName>
 			<biographicalInfo>16th President of the United States 1861- his death in
 				1865</biographicalInfo>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Bennet_Hill" agentType="person">
 			<preferredName>Bennet Hill</preferredName>
@@ -456,7 +459,7 @@
 			<dateOfDeath>
 				<date>1890-12-29</date>
 			</dateOfDeath>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 			<sources>
 				<source uri="https://en.wikipedia.org/wiki/Spotted_Elk"/>
@@ -469,7 +472,7 @@
 		<agent id="Charles_H_Mason" agentType="person">
 			<preferredName>Charles H. Mason</preferredName>
 			<alternateName>Charles Mason</alternateName>
-			<biographicalInfo>oliness-Pentecostal pastor and minister. Founder and first Senior
+			<biographicalInfo>Holiness-Pentecostal pastor and minister. Founder and first Senior
 				Bishop of the Church of God in Christ</biographicalInfo>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060860"/>
@@ -502,8 +505,27 @@
 			<preferredName>Edward Porter Alexander</preferredName>
 			<alternateName>E. Porter Alexander</alternateName>
 			<alternateName>Edward Alexander</alternateName>
+			<dateOfBirth>
+				<date>1835-05-26</date>
+			</dateOfBirth>
+			<dateOfDeath>
+				<date>1910-04-28</date>
+			</dateOfDeath>
+			<dateOfMarriage>
+				<date>1860-04-03</date>
+			</dateOfMarriage>
+			<dateOfMarriage>
+				<year>1901</year>
+			</dateOfMarriage>
 			<hasSpouse relatedAgent="Mrs_Alexander"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060178"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060215"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060292"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Edward_Porter_Alexander"/>
+			</sources>
 		</agent>
 		<agent id="Mrs_Alexander" agentType="person">
 			<preferredName>Mrs. Alexander</preferredName>
@@ -557,7 +579,7 @@
 			<biographicalInfo>American soldier, mathemetician, and botanist</biographicalInfo>
 			<hasSpouse relatedAgent="Emily_Alvord"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060082"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060394"/>
 		</agent>
@@ -821,7 +843,7 @@
 			<alternateName>Kanaskat</alternateName>
 			<tribalAffiliation>Klickitat</tribalAffiliation>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
 			<sources>
 				<source uri="https://en.wikipedia.org/wiki/Kanasket"/>
 			</sources>
@@ -871,6 +893,7 @@
 			<dateOfDeath>
 				<date>1858-02-19</date>
 			</dateOfDeath>
+			<hasParent relatedAgent="Lahalet"/>
 			<tribalAffiliation>Nisqually</tribalAffiliation>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
@@ -924,12 +947,14 @@
 		</agent>
 		<agent id="Wapowety" agentType="person">
 			<preferredName>Wapowety</preferredName>
-			<biographicalInfo>American Indian guide who helped lead Lieutenant August Kautz on the first recorded attempted ascent of Mount Rainier.</biographicalInfo>
+			<biographicalInfo>American Indian guide who helped lead Lieutenant August Kautz on the
+				first recorded attempted ascent of Mount Rainier.</biographicalInfo>
 			<tribalAffiliation>Nisqually</tribalAffiliation>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
 			<sources>
-				<source uri="https://mountrainiernps.tumblr.com/post/167320935006/how-do-we-remember-the-past-through-naming"/>
+				<source
+					uri="https://mountrainiernps.tumblr.com/post/167320935006/how-do-we-remember-the-past-through-naming"/>
 				<source uri="http://www.npshistory.com/nature_notes/mora/vol12/vol12-4b.htm"/>
 				<source uri="http://npshistory.com/nature_notes/mora/vol15/vol15-2g.htm"/>
 			</sources>
@@ -949,6 +974,7 @@
 		<agent id="Antonio_B_Rabbeson" agentType="person">
 			<preferredName>Antonio B. Rabbeson</preferredName>
 			<alternateName>Antonio Rabbeson</alternateName>
+			<alternateName>A. B. Rabbeson</alternateName>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
 		<agent id="Joseph_Miles" agentType="person">
@@ -967,10 +993,11 @@
 		</agent>
 		<agent id="George_McClellan" agentType="person">
 			<preferredName>George McClellan</preferredName>
+			<alternateName>George B. McClellan</alternateName>
 			<biographicalInfo>American soldier, Civil War Union general, civil engineer, railroad
 				executive, and politician who served as the 24th governor of New
 				Jersey.</biographicalInfo>
-			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"></demographicTerm>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2017060014"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060412"/>
@@ -1023,6 +1050,7 @@
 		</agent>
 		<agent id="Charles_Eaton" agentType="person">
 			<preferredName>Charles Eaton</preferredName>
+			<alternateName>Charley Eaton</alternateName>
 			<biographicalInfo>Captain of citizen militia "Eaton's Rangers"</biographicalInfo>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
@@ -1032,9 +1060,142 @@
 			<biographicalInfo>An American physician and missionary who was killed, along with his
 				wife and 11 other settlers, by a group of Cayuse peoples in an event that came to be
 				known as the Whitman Massacre</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
 		</agent>
-		<agent id="test" agentType="corporation">
-			<preferredName>Test</preferredName>
+		<agent id="James_Longmire" agentType="person">
+			<preferredName>James Longmire</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+		</agent>
+		<agent id="Slug-yeh" agentType="person">
+			<preferredName>Slug-yeh</preferredName>
+			<alternateName>Slugyi</alternateName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+		</agent>
+		<agent id="John_Mollhigh" agentType="person">
+			<preferredName>John Mollhigh</preferredName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+		</agent>
+		<agent id="Utsalawah" agentType="person">
+			<preferredName>Utsalawah</preferredName>
+			<alternateName>Chuck-Note</alternateName>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+		</agent>
+		<agent id="Qualchan" agentType="person">
+			<preferredName>Qualchan</preferredName>
+			<alternateName>Qualchin</alternateName>
+			<biographicalInfo>Qualchan was a Yakama chieftain of the We-ow-icht family. He was a
+				warrior and participated in the Yakama War. He was executed by the U.S. Army in
+				1858.</biographicalInfo>
+			<dateOfDeath>
+				<date>1858-09-24</date>
+			</dateOfDeath>
+			<tribalAffiliation>Yakama</tribalAffiliation>
+			<tribalAffiliation>Klickitat</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Qualchan"/>
+			</sources>
+		</agent>
+		<agent id="George_Suckley" agentType="person">
+			<preferredName>George Suckley</preferredName>
+			<dateOfBirth>
+				<year>1830</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<date>1869-07-30</date>
+			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060003"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060530"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060088"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060344"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060292"/>
+		</agent>
+		<agent id="Lucile_Saunders_McDonald" agentType="person">
+			<preferredName>Lucile Saunders McDonald</preferredName>
+			<alternateName>Lucile McDonald</alternateName>
+			<biographicalInfo>Lucile Saunderes McDonald was a Pacific Northwest journalist,
+				historian, and author.</biographicalInfo>
+			<dateOfBirth>
+				<year>1898</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1992</year>
+			</dateOfDeath>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060521"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060077"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2016060292"/>
+		</agent>
+		<agent id="Patkanim" agentType="person">
+			<preferredName>Patkanim</preferredName>
+			<alternateName>Pat-ka-nam</alternateName>
+			<alternateName>Pat Kanim</alternateName>
+			<biographicalInfo>Chief Patkanim was chief of the Snoqualmie and Snohomish tribe.</biographicalInfo>
+			<tribalAffiliation>Snoqualmie</tribalAffiliation>
+			<tribalAffiliation>Snohomish</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://en.wikipedia.org/wiki/Patkanim"/>
+			</sources>
+		</agent>
+		<agent id="Lahalet" agentType="person">
+			<preferredName>Lahalet</preferredName>
+			<biographicalInfo>Chief of the Nisqually tribe and father of Leschi.</biographicalInfo>
+			<tribalAffiliation>Nisqually</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+		</agent>
+		<agent id="Quallahwowt" agentType="person">
+			<preferredName>Quallahwowt</preferredName>
+			<biographicalInfo>Quallahwowt was a sub-chief of the Snoqualmie tribe. He was one of six men arrested for the death of Leander Wallace at Fort Nisqually in 1849, and one of two executed.</biographicalInfo>
+			<tribalAffiliation>Snoqualmie</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://books.google.com/books?id=LoEUAAAAYAAJ&amp;pg=PA160&amp;lpg=PA160&amp;dq=Quallahwowt&amp;source=bl&amp;ots=SV1qmw_zXd&amp;sig=ACfU3U391_Y-QE2nHkwwWJhjBaHMgUme3w&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwi75OTHhdv3AhX1OX0KHYKlAToQ6AF6BAgDEAM#v=onepage&amp;q=Quallahwowt&amp;f=false"/>
+				<source uri="https://www.historylink.org/file/20675"/>
+			</sources>
+		</agent>
+		<agent id="Kussass" agentType="person">
+			<preferredName>Kussass</preferredName>
+			<biographicalInfo>Kussass was a chief of the Skykomish. He was one of six men arrested for the death of Leander Wallace at Fort Nisqually in 1849, and one of two executed.</biographicalInfo>
+			<tribalAffiliation>Snoqualmie</tribalAffiliation>
+			<tribalAffiliation>Skykomish</tribalAffiliation>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="https://www.historylink.org/file/20675"/>
+				<source uri="http://www.usgennet.org/usa/wa/state/leanderwallace.html"/>
+			</sources>
+		</agent>
+		<agent id="Sturharnai" agentType="person">
+			<preferredName>Sturharnai</preferredName>
+			<biographicalInfo>Sturharnai was one of six men arrested for the death of Leander Wallace at Fort Nisqually in 1849.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="http://www.usgennet.org/usa/wa/state/leanderwallace.html"/>
+			</sources>
+		</agent>
+		<agent id="Talatarn" agentType="person">
+			<preferredName>Talatarn</preferredName>
+			<biographicalInfo>Talatarn was one of six men arrested for the death of Leander Wallace at Fort Nisqually in 1849.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="http://www.usgennet.org/usa/wa/state/leanderwallace.html"/>
+			</sources>
+		</agent>
+		<agent id="Whyesk" agentType="person">
+			<preferredName>Whyesk</preferredName>
+			<biographicalInfo>Whyesk was one of six men arrested for the death of Leander Wallace at Fort Nisqually in 1849.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="http://www.usgennet.org/usa/wa/state/leanderwallace.html"/>
+			</sources>
+		</agent>
+		<agent id="Quatthlinkyne" agentType="person">
+			<preferredName>Quatthlinkyne</preferredName>
+			<biographicalInfo>Quatthlinkyne was one of six men arrested for the death of Leander Wallace at Fort Nisqually in 1849.</biographicalInfo>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2022060012"/>
+			<sources>
+				<source uri="http://www.usgennet.org/usa/wa/state/leanderwallace.html"/>
+			</sources>
 		</agent>
 	</agents>
 </nameAuthorityFile>
