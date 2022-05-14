@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsletterIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="index.xsd">
+    <terms>
+        <term id=""> <!-- 1...* --> <!-- id (xs:ID) required -->
+            <preferredTerm></preferredTerm> <!-- 1...1 -->
+            <alternateTerm></alternateTerm> <!-- 0...* -->
+            <parentTerm term_id=""/> <!-- 0...1 --> <!-- term_id (xs:IDREF) required -->
+            <relatedTerm term_id=""/> <!-- 0...* --> <!-- term_id (xs:IDREF) required -->
+            <scopeNotes></scopeNotes> <!-- 0...1 -->
+            <definition></definition> <!-- 0...1 -->
+            <sources> <!-- 0...1 -->
+                <source uri=""/> <!-- 1...* --> <!-- uri (xs:anyURI) required -->
+            </sources>
+        </term>
+    </terms>
+</newsletterIndex>

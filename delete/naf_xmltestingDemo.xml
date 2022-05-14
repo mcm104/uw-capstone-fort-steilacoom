@@ -1,0 +1,147 @@
+<nameAuthorityFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="naf.xsd">
+	<agents>
+		<!-- <agent id='' agentType=''>
+			<preferredName></preferredName>
+			<alternateName/>
+			<parentTerm agent=''></parentTerm>
+			<relatedTerm agent=''></relatedTerm>
+			<scopeNotes/>
+			<definition/>
+			<sources>
+				<source uri=''/>
+			</sources>
+		</agent> -->
+
+		<agent id="Casey" agentType="family">
+			<preferredName>Casey</preferredName>
+		</agent>
+
+		<agent id="Silas_Casey_II" agentType="person">
+			<preferredName>Silas Casey II</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<year>1807</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1882</year>
+			</dateOfDeath>
+			<dateOfMarriage relatedAgent="Abigail_Abby_Perry_Pearce_Casey">
+				<year>1830</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+		</agent>
+
+		<agent id="Abigail_Abby_Perry_Pearce_Casey" agentType="person">
+			<preferredName>Abigail "Abby" Perry Pearce Casey</preferredName>
+			<alternateName>Abigail Casey</alternateName>
+			<alternateName>Abby Casey</alternateName>
+			<alternateName>Mrs. Casey</alternateName>
+			<family relatedAgent="Casey"/>
+			<dateOfMarriage relatedAgent="Silas_Casey_II">
+				<year>1830</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Silas_Casey_II"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+		<agent id="Abby_Casey" agentType="person">
+			<preferredName>Abby Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfMarriage relatedAgent="Lewis_Cass_Hunt">
+				<year>1860</year>
+			</dateOfMarriage>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<hasSpouse relatedAgent="Lewis_Cass_Hunt"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+		<agent id="Lewis_Cass_Hunt" agentType="person">
+			<preferredName>Lewis Cass Hunt</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfMarriage relatedAgent="Abby_Casey">
+				<year>1860</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Abby_Casey"/>
+		</agent>
+
+		<agent id="Edward_Wanton_Casey" agentType="person">
+			<preferredName>Edward "Ned" Wanton Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<year>1850</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1891</year>
+			</dateOfDeath>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+		</agent>
+
+		<agent id="Elizabeth_Bessie_Casey_Scott" agentType="person">
+			<preferredName>Elizabeth "Bessie" Casey Scott</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<approximateDate>1844</approximateDate>
+			</dateOfBirth>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+		<agent id="Thomas_Lincoln_Casey" agentType="person">
+			<preferredName>Thomas Lincoln Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<approximateDate>1832</approximateDate>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1896</year>
+			</dateOfDeath>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+			<hasSpouse relatedAgent="Emma_Weir_Casey"/>
+		</agent>
+
+		<agent id="Emma_Weir_Casey" agentType="person">
+			<preferredName>Emma Weir Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<hasSpouse relatedAgent="Thomas_Lincoln_Casey"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+		<agent id="Silas_Casey_III" agentType="person">
+			<preferredName>Silas Casey III</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfBirth>
+				<year>1841</year>
+			</dateOfBirth>
+			<dateOfDeath>
+				<year>1913</year>
+			</dateOfDeath>
+			<dateOfMarriage relatedAgent="Sophia_Gray_Herberton_Casey">
+				<year>1865</year>
+			</dateOfMarriage>
+			<hasParent relatedAgent="Abigail_Abby_Perry_Pearce_Casey"/>
+			<hasParent relatedAgent="Silas_Casey_II"/>
+			<hasSpouse relatedAgent="Sophia_Gray_Herberton_Casey"/>
+		</agent>
+
+		<agent id="Sophia_Gray_Herberton_Casey" agentType="person">
+			<preferredName>Sophia Gray Herberton Casey</preferredName>
+			<family relatedAgent="Casey"/>
+			<dateOfMarriage relatedAgent="Silas_Casey_III">
+				<year>1865</year>
+			</dateOfMarriage>
+			<hasSpouse relatedAgent="Silas_Casey_III"/>
+			<demographicTerm uri="http://id.loc.gov/authorities/demographicTerms/dg2015060004"
+				>Females</demographicTerm>
+		</agent>
+
+	</agents>
+</nameAuthorityFile>
