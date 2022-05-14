@@ -1,29 +1,6 @@
 <newsletterIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="index.xsd">
 	<terms>
-		<term id="Corporations">
-			<preferredTerm>Corporations</preferredTerm>
-		</term>
-		<term id="American_Fur_Company">
-			<preferredTerm>American Fur Company</preferredTerm>
-			<parentTerm term_id="Corporations"/>
-		</term>
-		<term id="Hudsons_Bay_Company">
-			<preferredTerm>Hudson's Bay Company</preferredTerm>
-			<parentTerm term_id="Corporations"/>
-		</term>
-		<term id="North_West_Copmany">
-			<preferredTerm>North West Company</preferredTerm>
-			<parentTerm term_id="Corporations"/>
-		</term>
-		<term id="Puget_Sound_Agricultural_Company">
-			<preferredTerm>Puget Sound Agricultural Company</preferredTerm>
-			<parentTerm term_id="Corporations"/>
-		</term>
-		<term id="Union_Pacific_Railway">
-			<preferredTerm>Union Pacific Railway</preferredTerm>
-			<parentTerm term_id="Corporations"/>
-		</term>
 		<term id="Politics">
 			<preferredTerm>Politics</preferredTerm>
 			<definition>The set of activities that are associated with making decisions in groups,
