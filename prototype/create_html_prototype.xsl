@@ -4,8 +4,8 @@
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" exclude-result-prefixes="xs madsrdf rdf"
     version="2.0">
     <xsl:template match="/">
-        <xsl:variable name="index_xml" select="document('../index_xmlWORKING.xml')"/>
-        <xsl:variable name="naf_xml" select="document('../naf_xmlWORKING.xml')"/>
+        <xsl:variable name="index_xml" select="document('../index.xml')"/>
+        <xsl:variable name="naf_xml" select="document('../naf.xml')"/>
         <xsl:call-template name="one_page_navigation">
             <xsl:with-param name="index_xml" select="$index_xml"/>
             <xsl:with-param name="naf_xml" select="$naf_xml"/>
@@ -14,7 +14,7 @@
     <xsl:template name="one_page_navigation">
         <xsl:param name="index_xml"/>
         <xsl:param name="naf_xml"/>
-        <xsl:result-document href="one_page_index.html">
+        <xsl:result-document href="prototype.html">
             <div class="page"
                 style="width: 100%; max-width: 1000px; margin: 0 auto; border: 1px solid gray; overflow:hidden; background-color: white;">
                 <div class="navigation"
@@ -183,17 +183,27 @@
     <xsl:template name="list_child_terms">
         <xsl:param name="parent_term"/>
         <xsl:param name="parent_id"/>
-        <xsl:variable name="index_xml" select="document('../index_xmlWORKING.xml')"/>
+        <xsl:variable name="index_xml" select="document('../index.xml')"/>
         <xsl:variable name="newsletter_xml" select="document('../newsletter_table.xml')"/>
         <xsl:choose>
             <xsl:when test="$index_xml/newsletterIndex/terms/term/parentTerm/@term_id = $parent_id">
                 <li>
-                    <span class="caret">
-                        <a href="#{$parent_id}">
-                            <xsl:value-of select="$parent_term"/>
-                        </a> (<xsl:value-of
-                            select="count($newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_term])"
-                        />) </span>
+                    <xsl:choose>
+                        <xsl:when test="count($newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_term])!=0">
+                            <span class="caret">
+                                <a href="#{$parent_id}">
+                                    <xsl:value-of select="$parent_term"/>
+                                </a> (<xsl:value-of
+                                    select="count($newsletter_xml/newsletters/newsletter[keywords/keyword = $parent_term])"
+                                />) </span>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <span class="caret">
+                                <a href="#{$parent_id}">
+                                    <xsl:value-of select="$parent_term"/>
+                                </a></span>
+                        </xsl:otherwise>
+                    </xsl:choose>
                     <ul class="nested">
                         <xsl:for-each
                             select="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id = $parent_id]">
@@ -221,7 +231,7 @@
         <xsl:variable name="newsletter_xml" select="document('../newsletter_table.xml')"/>
 
         <!-- Agents -->
-        <xsl:variable name="naf_xml" select="document('../naf_xmlWORKING.xml')"/>
+        <xsl:variable name="naf_xml" select="document('../naf.xml')"/>
         <!-- Persons -->
         <xsl:for-each select="$naf_xml/nameAuthorityFile/agents/agent[@agentType = 'person']">
             <xsl:sort select="preferredName"/>
@@ -566,7 +576,7 @@
         </xsl:for-each>
 
         <!-- Corporations -->
-        <xsl:for-each select="$naf_xml/nameAuthorityFile/agents/agent[@agentType = 'family']">
+        <xsl:for-each select="$naf_xml/nameAuthorityFile/agents/agent[@agentType = 'corporation']">
             <xsl:sort select="preferredName"/>
             <xsl:variable name="preferred_name" select="preferredName"/>
             <xsl:variable name="agent_id" select="@id"/>
@@ -626,7 +636,7 @@
                             <!-- Both exact -->
                             <xsl:otherwise>
                                 <p>Started <xsl:value-of select="startDate/*"/>; ended <xsl:value-of
-                                        select="endDate/approximateDate"/></p>
+                                        select="endDate/*"/></p>
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:when>
@@ -665,7 +675,7 @@
         </xsl:for-each>
 
         <!-- Topics -->
-        <xsl:variable name="index_xml" select="document('../index_xmlWORKING.xml')"/>
+        <xsl:variable name="index_xml" select="document('../index.xml')"/>
         <xsl:for-each select="$index_xml/newsletterIndex/terms/term">
             <xsl:variable name="preferred_term" select="preferredTerm"/>
             <xsl:variable name="term_id" select="@id"/>
@@ -771,7 +781,7 @@
         <!-- Additional options if subject is a person -->
         <xsl:if test="$term_type = 'person'">
             <!-- Additional options if subject is a member of a family -->
-            <xsl:variable name="naf_xml" select="document('../naf_xmlWORKING.xml')"/>
+            <xsl:variable name="naf_xml" select="document('../naf.xml')"/>
             <xsl:if
                 test="$naf_xml/nameAuthorityFile/agents/agent[preferredName = $current_term]/family">
                 <xsl:variable name="family_id"
@@ -898,7 +908,7 @@
 
         <!-- Additional options if subject is a family -->
         <xsl:if test="$term_type = 'family'">
-            <xsl:variable name="naf_xml" select="document('../naf_xmlWORKING.xml')"/>
+            <xsl:variable name="naf_xml" select="document('../naf.xml')"/>
             <xsl:variable name="family_id"
                 select="$naf_xml/nameAuthorityFile/agents/agent[preferredName = $current_term]/@id"/>
             <!-- Additional options if there are newsletters about other members of subject's family -->
@@ -995,7 +1005,7 @@
         <!-- Additional options if subject is a topic -->
         <xsl:if test="$term_type = 'topic'">
             <!-- For subjects with broader terms... -->
-            <xsl:variable name="index_xml" select="document('../index_xmlWORKING.xml')"/>
+            <xsl:variable name="index_xml" select="document('../index.xml')"/>
             <!-- Current term is Tier 6 or higher -->
             <!-- Parent of tier 6+ (tier 5 or higher) -->
             <xsl:variable name="parent_id_1"
@@ -1140,7 +1150,7 @@
         
             <!-- For subjects with narrower terms... -->
             <!-- The following variables may be lists if there are multiple children -->
-            <xsl:variable name="index_xml" select="document('../index_xmlWORKING.xml')"/>
+            <xsl:variable name="index_xml" select="document('../index.xml')"/>
             <!-- Current term is Tier 1 or lower -->
             <xsl:variable name="current_id" select="$index_xml/newsletterIndex/terms/term[preferredTerm=$current_term]/@id"/>
             <xsl:if test="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$current_id]">
