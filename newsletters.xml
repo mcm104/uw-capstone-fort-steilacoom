@@ -110,6 +110,9 @@
         <volume>V35 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N2.pdf</link>
         <date>Summer 2018</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>August Valentine Kautz Family: Charlotte and Fannie</title>
@@ -117,6 +120,19 @@
         <volume>V35 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V35N1.pdf</link>
         <date>Spring 2018</date>
+        <keywords>
+            <keyword>Kautz</keyword>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>Tenas Puss</keyword>
+            <keyword>Charlotte Todd Kautz</keyword>
+            <keyword>Sanitation and Disease</keyword>
+            <keyword>Fannie Markbreit Kautz</keyword>
+            <keyword>Austin Kautz</keyword>
+            <keyword>Francesca &quot;Frances&quot; &quot;Frankie&quot; Kautz</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Theater</keyword>
+            <keyword>Navarra Kautz</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Climbing Mount Rainier</title>
@@ -124,6 +140,11 @@
         <volume>V34 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N4.pdf</link>
         <date>Winter 2017</date>
+        <keywords>
+            <keyword>August Valentine Kautz</keyword>
+            <keyword>Wapowety</keyword>
+            <keyword>Travel</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Fort Steilacoom – Refuge during the Indian War</title>
@@ -131,6 +152,17 @@
         <volume>V34 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N3.pdf</link>
         <date>Autumn 2017</date>
+        <keywords>
+            <keyword>Daily Life</keyword>
+            <keyword>Religion</keyword>
+            <keyword>School</keyword>
+            <keyword>Margaret Whitesell Taylor</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+            <keyword>Housing</keyword>
+            <keyword>George M. Berry</keyword>
+            <keyword>Catholicism</keyword>
+            <keyword>Methodist Episcopal Church</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Lure of Gold on Fraser River</title>
@@ -138,6 +170,9 @@
         <volume>V34 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N2.pdf</link>
         <date>Summer 2017</date>
+        <keywords>
+            <keyword>Fraser Canyon Gold Rush (1858-1927)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>William H. Archbolt, The Ordnance Sergeant of Fort Steilacoom, Part 2</title>
@@ -145,6 +180,12 @@
         <volume>V34 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N1.pdf</link>
         <date>Spring 2017</date>
+        <keywords>
+            <keyword>Louis Rossi</keyword>
+            <keyword>William H. Archbold</keyword>
+            <keyword>Catholicism</keyword>
+            <keyword>Daily Life</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Nancy Covert</title>
@@ -152,6 +193,10 @@
         <volume>V34 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V34N1.pdf</link>
         <date>Spring 2017</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Obituary</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>William H. Archbold, The Ordnance Sergeant of Fort Steilacoom</title>
@@ -159,6 +204,10 @@
         <volume>V33 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N4.pdf</link>
         <date>Winter 2016</date>
+        <keywords>
+            <keyword>William H. Archbold</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Fort Steilacoom to Fort Bellingham Road (map)</title>
@@ -166,6 +215,9 @@
         <volume>V33 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N4.pdf</link>
         <date>Winter 2016</date>
+        <keywords>
+            <keyword>Maps</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Reminiscence of Lt. James McAllister’s Daughter Sarah McAllister Hartman</title>
@@ -173,13 +225,27 @@
         <volume>V33 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N3.pdf</link>
         <date>Autumn 2016</date>
+        <keywords>
+            <keyword>Charlotte Smith McAllister</keyword>
+            <keyword>James &quot;Jim&quot; McAllister</keyword>
+            <keyword>Sarah McAllister Hartman</keyword>
+            <keyword>Puget Sound Rangers</keyword>
+            <keyword>Lahalet</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Anti-Indigenous Racism</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
-        <title>Reorganized and Expanded ResearchCenter</title>
+        <title>Reorganized and Expanded Research Center</title>
         <author>Loran Bures</author>
         <volume>V33 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N2.pdf</link>
         <date>Summer 2016</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>The Catholic Connection to Fort Steilacoom</title>
@@ -187,6 +253,14 @@
         <volume>V33 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V33N1.pdf</link>
         <date>Spring 2016</date>
+        <keywords>
+            <keyword>Catholicism</keyword>
+            <keyword>Louis Rossi</keyword>
+            <keyword>Leschi</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>John Baptist Brondel</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Chaplains at Fort Steilacoom</title>
@@ -194,6 +268,14 @@
         <volume>V32 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N4.pdf</link>
         <date>Winter 2015</date>
+        <keywords>
+            <keyword>Methodist Episcopal Church</keyword>
+            <keyword>George M. Berry</keyword>
+            <keyword>Episcopal Church</keyword>
+            <keyword>Chief Leschi Trial</keyword>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Heath Monument</title>
@@ -201,6 +283,10 @@
         <volume>V32 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N4.pdf</link>
         <date>Winter 2015</date>
+        <keywords>
+            <keyword>Joseph T. Heath Farm</keyword>
+            <keyword>Joseph Thomas Heath</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>The Boundary Question</title>
@@ -208,6 +294,16 @@
         <volume>V32 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N3.pdf</link>
         <date>Autumn 2015</date>
+        <keywords>
+            <keyword>American Fur Company</keyword>
+            <keyword>Fur Trade</keyword>
+            <keyword>North West Company</keyword>
+            <keyword>Oregon Boundary Dispute</keyword>
+            <keyword>Oregon Treaty (1846)</keyword>
+            <keyword>Oregon Territory (1848-1859)</keyword>
+            <keyword>Hudson's Bay Company</keyword>
+            <keyword>US-Great Britain Relations</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Silas Casey III, Rear Admiral U.S. Navy</title>
@@ -215,6 +311,13 @@
         <volume>V32 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N2.pdf</link>
         <date>Summer 2015</date>
+        <keywords>
+            <keyword>Silas Casey III</keyword>
+            <keyword>Sophia Gray Herberton Casey</keyword>
+            <keyword>Casey</keyword>
+            <keyword>Ships</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Fort Steilacoom Army Post Cemetery</title>
@@ -222,6 +325,15 @@
         <volume>V32 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V32N1.pdf</link>
         <date>Spring 2015</date>
+        <keywords>
+            <keyword>Fort Steilacoom Army Post Cemetery</keyword>
+            <keyword>John Nugen</keyword>
+            <keyword>Mary Wells Slaughter</keyword>
+            <keyword>William Alloway Slaughter</keyword>
+            <keyword>William H. Archbold</keyword>
+            <keyword>William H. Wallace</keyword>
+            <keyword>Military History</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>The Pacific Northwest and the United States Sanitary Commission: A Matter of
@@ -230,6 +342,20 @@
         <volume>V31 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N4.pdf</link>
         <date>Winter 2014</date>
+        <keywords>
+            <keyword>Western Sanitation Commission</keyword>
+            <keyword>Entertainment</keyword>
+            <keyword>Dances</keyword>
+            <keyword>Food</keyword>
+            <keyword>Sanitation and Disease</keyword>
+            <keyword>Scurvy</keyword>
+            <keyword>Social Gathering</keyword>
+            <keyword>Eliza C. Porter</keyword>
+            <keyword>Jeremiah Porter</keyword>
+            <keyword>Mrs. Stephen Barker</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Charles Prosch</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>A California Company on the Sound</title>
@@ -237,6 +363,10 @@
         <volume>V31 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N3.pdf</link>
         <date>Autumn 2014</date>
+        <keywords>
+            <keyword>Charles Prosch</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Ellen Chapman Freckleton—A Guardian of History</title>
@@ -244,6 +374,17 @@
         <volume>V31 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N2.pdf</link>
         <date>Summer 2014</date>
+        <keywords>
+            <keyword>Daily Life</keyword>
+            <keyword>School</keyword>
+            <keyword>Adam W. Freckleton</keyword>
+            <keyword>Anna Flett Chapman</keyword>
+            <keyword>Ellen Chapman Freckleton</keyword>
+            <keyword>Ellen Monro Flett</keyword>
+            <keyword>Flett</keyword>
+            <keyword>George Chapman</keyword>
+            <keyword>John Flett</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Isaac Ingalls Stevens</title>
@@ -251,6 +392,16 @@
         <volume>V31 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V31N1.pdf</link>
         <date>Spring 2014</date>
+        <keywords>
+            <keyword>Anti-Indigenous Racism</keyword>
+            <keyword>Railroads</keyword>
+            <keyword>Margaret &quot;Meg&quot; Hazard Stevens</keyword>
+            <keyword>Isaac Ingalls Stevens</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Mexican-American War (1846-1848)</keyword>
+            <keyword>George McClellan</keyword>
+            <keyword>Washington Territory (1853-1889)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Casey’s Service Career Ends</title>
@@ -258,6 +409,14 @@
         <volume>V30 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N4.pdf</link>
         <date>Winter 2013</date>
+        <keywords>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Military History</keyword>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Anti-Black Racism</keyword>
+            <keyword>Slavery</keyword>
+            <keyword>Abraham Lincoln</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>The Casey Farm</title>
@@ -265,6 +424,11 @@
         <volume>V30 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N4.pdf</link>
         <date>Winter 2013</date>
+        <keywords>
+            <keyword>Casey</keyword>
+            <keyword>Thomas Lincoln Casey</keyword>
+            <keyword>Edward &quot;Ned&quot; Wanton Casey</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>General Casey’s Post Fair Oaks Service</title>
@@ -272,6 +436,12 @@
         <volume>V30 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N3.pdf</link>
         <date>Autumn 2013</date>
+        <keywords>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Silas Casey II</keyword>
+            <keyword>Artillery</keyword>
+            <keyword>George McClellan</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Wallace Restored</title>
@@ -279,6 +449,11 @@
         <volume>V30 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N3.pdf</link>
         <date>Autumn 2013</date>
+        <keywords>
+            <keyword>William H. Wallace</keyword>
+            <keyword>Abraham Lincoln</keyword>
+            <keyword>Luzanne &quot;Luzena&quot; Brazelton Wallace</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Fort Steilacoom Moves Ahead</title>
@@ -286,6 +461,11 @@
         <volume>V30 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
         <date>Summer 2013</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Housing</keyword>
+            <keyword>Restoration</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>William Wallace, a Friend of Lincoln</title>
@@ -293,6 +473,11 @@
         <volume>V30 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
         <date>Summer 2013</date>
+        <keywords>
+            <keyword>William H. Wallace</keyword>
+            <keyword>Luzanne &quot;Luzena&quot; Brazelton Wallace</keyword>
+            <keyword>Abraham Lincoln</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>William Wallace tombstone</title>
@@ -300,6 +485,10 @@
         <volume>V30 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N2.pdf</link>
         <date>Summer 2013</date>
+        <keywords>
+            <keyword>William H. Wallace</keyword>
+            <keyword>Luzanne &quot;Luzena&quot; Brazelton Wallace</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Historic Fort Steilacoom Association—History of the Organization (Part 3)</title>
@@ -307,6 +496,12 @@
         <volume>V30 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V30N1.pdf</link>
         <date>Spring 2013</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Preservation</keyword>
+            <keyword>Programming</keyword>
+            <keyword>Restoration</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Historic Fort Steilacoom Association—History of the Organization (Part 2)</title>
@@ -314,6 +509,10 @@
         <volume>V29 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N4.pdf</link>
         <date>Winter 2012</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Restoration</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Historic Fort Steilacoom Association—History of the Organization (Part 1)</title>
@@ -321,6 +520,11 @@
         <volume>V29 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N3.pdf</link>
         <date>Autumn 2012</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+            <keyword>Western State Hospital (1871-Present)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Jack Langston</title>
@@ -328,6 +532,10 @@
         <volume>V29 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N3.pdf</link>
         <date>Autumn 2012</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Obituary</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Building Fort Steilacoom—Part 2</title>
@@ -335,6 +543,10 @@
         <volume>V29 N2</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N2.pdf</link>
         <date>Summer 2012</date>
+        <keywords>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+            <keyword>Puget Sound War (1855-1856)</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Building Fort Steilacoom—Part 1</title>
@@ -342,6 +554,12 @@
         <volume>V29 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N1.pdf</link>
         <date>Spring 2012</date>
+        <keywords>
+            <keyword>Fort Steilacoom (1849-1868)</keyword>
+            <keyword>Hudson's Bay Company</keyword>
+            <keyword>Joseph T. Heath Farm</keyword>
+            <keyword>Joseph Thomas Heath</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Robert “Bob” Demorest</title>
@@ -349,6 +567,10 @@
         <volume>V29 N1</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V29N1.pdf</link>
         <date>Spring 2012</date>
+        <keywords>
+            <keyword>Historic Fort Steilacoom Association (1983-present)</keyword>
+            <keyword>Obituary</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>The Pig War—Soldiers Occupy San Juan Island</title>
@@ -356,6 +578,10 @@
         <volume>V28 N4</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N4.pdf</link>
         <date>Winter 2011</date>
+        <keywords>
+            <keyword>Pig War (1859)</keyword>
+            <keyword>Hudson's Bay Company</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>Letter from a Civil War Soldier—1861</title>
@@ -363,6 +589,16 @@
         <volume>V28 N3</volume>
         <link>https://secureservercdn.net/45.40.148.147/n8z.9d8.myftpupload.com/wp-content/uploads/2020/11/V28N3.pdf</link>
         <date>Autumn 2011</date>
+        <keywords>
+            <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Horatio G. Pitcher</keyword>
+            <keyword>Annie Pitcher</keyword>
+            <keyword>Food</keyword>
+            <keyword>Daily Life</keyword>
+            <keyword>Self-Emancipated Persons</keyword>
+            <keyword>Anti-Black Racism</keyword>
+            <keyword>Slavery</keyword>
+        </keywords>
     </newsletter>
     <newsletter>
         <title>S.S. Beaver</title>
@@ -384,6 +620,8 @@
             <keyword>Treaty of Medicine Creek (1854)</keyword>
             <keyword>Puget Sound War (1855-1856)</keyword>
             <keyword>Maurice Maloney</keyword>
+            <keyword>Erasmus D. Keyes</keyword>
+            <keyword>John Swan</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -481,6 +719,7 @@
             <keyword>Housing</keyword>
             <keyword>Daily Life</keyword>
             <keyword>Military Uniforms</keyword>
+            <keyword>Antebellum (c.1815-1861)</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -498,6 +737,7 @@
             <keyword>Daily Life</keyword>
             <keyword>Social Gathering</keyword>
             <keyword>Equipment</keyword>
+            <keyword>Maryann Reed</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -525,6 +765,7 @@
             <keyword>Hudson's Bay Company</keyword>
             <keyword>Daily Life</keyword>
             <keyword>Food</keyword>
+            <keyword>Lakalet</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -542,6 +783,7 @@
             <keyword>Elizabeth "Bessie" Casey Scott</keyword>
             <keyword>Hudson's Bay Company</keyword>
             <keyword>Maurice Maloney</keyword>
+            <keyword>Domestic Violence</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -566,6 +808,8 @@
             <keyword>Depression</keyword>
             <keyword>Railroads</keyword>
             <keyword>Plenty Horses</keyword>
+            <keyword>Red Cloud</keyword>
+            <keyword>Spotted Elk</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -594,6 +838,7 @@
             <keyword>Leschi</keyword>
             <keyword>Chief Leschi Trial</keyword>
             <keyword>Social Gathering</keyword>
+            <keyword>Charles H. Mason</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -701,6 +946,7 @@
             <keyword>Sarah Conklin Bachelder</keyword>
             <keyword>Lelita Work Huggins</keyword>
             <keyword>Jane Work Tolmie</keyword>
+            <keyword>Benjamin Alvord</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -733,6 +979,10 @@
             <keyword>Sarah Conklin Bachelder</keyword>
             <keyword>Daily Life</keyword>
             <keyword>Horace W. Bachelder</keyword>
+            <keyword>Mrs. E. F. Cathart</keyword>
+            <keyword>Edward M. Bachelder</keyword>
+            <keyword>Mary Bachelder Patterson</keyword>
+            <keyword>Bachelder</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -752,6 +1002,7 @@
             <keyword>Washington Territory Volunteers</keyword>
             <keyword>Nisqually</keyword>
             <keyword>William Fraser Tolmie</keyword>
+            <keyword>Abolitionism</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -768,6 +1019,7 @@
             <keyword>William Alloway Slaughter</keyword>
             <keyword>White River</keyword>
             <keyword>Daily Life</keyword>
+            <keyword>Philip &quot;Phil&quot; Sheridan</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -787,7 +1039,8 @@
             <keyword>Yakama</keyword>
             <keyword>Walla Walla</keyword>
             <keyword>William Alloway Slaughter</keyword>
-            <keyword>Nugent</keyword>
+            <keyword>Nugent Kautz</keyword>
+            <keyword>Philip &quot;Phil&quot; Sheridan</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -878,6 +1131,8 @@
             <keyword>Argonauts</keyword>
             <keyword>Gold Rush</keyword>
             <keyword>Railroads (industry)</keyword>
+            <keyword>Caroline Light</keyword>
+            <keyword>California Gold Rush</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -916,6 +1171,8 @@
             <keyword>John Rigney</keyword>
             <keyword>Elizabeth Rigney</keyword>
             <keyword>American Civil War (1861-1865)</keyword>
+            <keyword>Charles Wilkes</keyword>
+            <keyword>John Swan</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -961,6 +1218,7 @@
             <keyword>Christianity</keyword>
             <keyword>American Civil War (1861-1865)</keyword>
             <keyword>Second Seminole War (1835-1842)</keyword>
+            <keyword>Union Pacific Railway</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -1058,7 +1316,7 @@
             <keyword>Silas Casey II</keyword>
             <keyword>Maurice Maloney</keyword>
             <keyword>Lewis Cass Hunt</keyword>
-            <keyword>Agustus</keyword>
+            <keyword>Augustus Kautz</keyword>
             <keyword>James M. Bachelder</keyword>
             <keyword>Sarah Conklin Bachelder</keyword>
             <keyword>Edward Huggins</keyword>
@@ -1110,6 +1368,7 @@
             <keyword>Wars and Conflicts</keyword>
             <keyword>Organization</keyword>
             <keyword>Indigenous History</keyword>
+            <keyword>Permanent Indian Frontier (1840)</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -1125,6 +1384,7 @@
             <keyword>Wars and Conflicts</keyword>
             <keyword>American Civil War (1861-1865)</keyword>
             <keyword>Peninsula Campaign</keyword>
+            <keyword>Erasmus D. Keyes</keyword>
         </keywords>
     </newsletter>
     <newsletter>
@@ -1557,9 +1817,9 @@
         <keywords>
             <keyword>Kautz</keyword>
             <keyword>August Valentine Kautz</keyword>
-            <keyword>Kitty</keyword>
-            <keyword>Agustus</keyword>
-            <keyword>Nugent</keyword>
+            <keyword>Tenas Puss</keyword>
+            <keyword>Augustus Kautz</keyword>
+            <keyword>Nugent Kautz</keyword>
             <keyword>Quiemuth</keyword>
             <keyword>Indigenous History</keyword>
             <keyword>Nations and Peoples</keyword>
@@ -1628,9 +1888,9 @@
         <keywords>
             <keyword>Kautz</keyword>
             <keyword>August Valentine Kautz</keyword>
-            <keyword>Kitty</keyword>
-            <keyword>Agustus</keyword>
-            <keyword>Nugent</keyword>
+            <keyword>Tenas Puss</keyword>
+            <keyword>Augustus Kautz</keyword>
+            <keyword>Nugent Kautz</keyword>
             <keyword>Lashimere</keyword>
             <keyword>Indigenous History</keyword>
             <keyword>Nations and Peoples</keyword>
