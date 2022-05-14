@@ -20,7 +20,6 @@
                                         <xs:element maxOccurs="unbounded" name="keyword">
                                             <xs:simpleType>
                                                 <xs:restriction base="xs:string">
-                                                  <xs:enumeration value="Corporations"/>
                                                   <xs:enumeration value="American Fur Company"/>
                                                   <xs:enumeration value="Hudson's Bay Company"/>
                                                   <xs:enumeration value="North West Company"/>
@@ -279,9 +278,9 @@
                                                   <xs:enumeration value="Mary Bachelder Patterson"/>
                                                   <xs:enumeration value="Edward M. Bachelder"/>
                                                   <xs:enumeration value="Horace W. Bachelder"/>
-                                                  <xs:enumeration value=" Mrs. E. F. Cathart"/>
+                                                  <xs:enumeration value="Mrs. E. F. Cathart"/>
                                                   <xs:enumeration value="Flett"/>
-                                                  <xs:enumeration value=" John Flett"/>
+                                                  <xs:enumeration value="John Flett"/>
                                                   <xs:enumeration value="Ellen Monro Flett"/>
                                                   <xs:enumeration value="Anna Flett Chapman"/>
                                                   <xs:enumeration value="George Chapman"/>
@@ -289,11 +288,11 @@
                                                   <xs:enumeration value="Adam W. Freckleton"/>
                                                   <xs:enumeration value="Kautz"/>
                                                   <xs:enumeration value="August Valentine Kautz"/>
-                                                  <xs:enumeration value="Kitty"/>
-                                                  <xs:enumeration value="Nugent"/>
-                                                  <xs:enumeration value="Agustus"/>
+                                                  <xs:enumeration value="Tenas Puss"/>
+                                                  <xs:enumeration value="Nugent Kautz"/>
+                                                  <xs:enumeration value="Augustus Kautz"/>
                                                   <xs:enumeration value="Charlotte Todd Kautz"/>
-                                                  <xs:enumeration value="Frannie Markbreit Kautz"/>
+                                                  <xs:enumeration value="Fannie Markbreit Kautz"/>
                                                   <xs:enumeration value="Austin Kautz"/>
                                                   <xs:enumeration
                                                   value="Francesca &#34;Frances&#34; &#34;Frankie&#34; Kautz"/>
@@ -396,6 +395,7 @@
                                                   <xs:enumeration value="Talatarn"/>
                                                   <xs:enumeration value="Whyesk"/>
                                                   <xs:enumeration value="Quatthlinkyne"/>
+                                                  <xs:enumeration value="Mrs. Mahon"/>
                                                 </xs:restriction>
                                             </xs:simpleType>
                                         </xs:element>
