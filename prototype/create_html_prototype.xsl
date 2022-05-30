@@ -470,7 +470,7 @@
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:if>
-                <h2>Newsletters</h2>
+                <h2>Newsletter Articles</h2>
                 <div>
                     <xsl:call-template name="featured_newsletters">
                         <xsl:with-param name="current_term" select="$preferred_name"/>
@@ -544,7 +544,7 @@
                         </xsl:for-each>
                     </ul>
                 </xsl:if>
-                <h2>Newsletters</h2>
+                <h2>Newsletter Articles</h2>
                 <div>
                     <xsl:call-template name="featured_newsletters">
                         <xsl:with-param name="current_term" select="$preferred_name"/>
@@ -659,7 +659,7 @@
                     </p>
                 </xsl:if>
                 <xsl:variable name="newsletter_xml" select="document('../newsletter_table.xml')"/>
-                <h2>Newsletters</h2>
+                <h2>Newsletter Articles</h2>
                 <div>
                     <xsl:call-template name="featured_newsletters">
                         <xsl:with-param name="current_term" select="$preferred_name"/>
@@ -717,7 +717,7 @@
                 </xsl:if>
                 <xsl:variable name="newsletter_xml" select="document('../newsletter_table.xml')"/>
                 <xsl:variable name="current_term" select="preferredTerm"/>
-                <h2>Newsletters</h2>
+                <h2>Newsletter Articles</h2>
                 <div>
                     <xsl:call-template name="featured_newsletters">
                         <xsl:with-param name="current_term" select="$current_term"/>
@@ -757,7 +757,7 @@
                     <ul id="index">
                         <!-- Newsletters directly about subject -->
                         <li>
-                            <span class="caret">Newsletters about <xsl:value-of
+                            <span class="caret">Newsletter articles about <xsl:value-of
                                     select="$current_term"/></span>
                             <ul class="nested">
                                 <xsl:for-each
@@ -772,7 +772,7 @@
                 </xsl:when>
                 <xsl:otherwise>
                     <p>
-                        <i>There are currently no newsletters about <xsl:value-of
+                        <i>There are currently no newsletter articles about <xsl:value-of
                                 select="$current_term"/>.</i>
                     </p>
                 </xsl:otherwise>
@@ -794,7 +794,7 @@
                     <div>
                         <ul id="index">
                             <li>
-                                <span class="caret">Newsletters featuring other members of the
+                                <span class="caret">Newsletter articles featuring other members of the
                                         <xsl:value-of select="$family_name"/> family</span>
                                 <ul class="nested">
                                     <xsl:for-each
@@ -836,7 +836,7 @@
                     <div>
                         <ul id="index">
                             <li>
-                                <span class="caret">Newsletters about the <xsl:value-of
+                                <span class="caret">Newsletter articles about the <xsl:value-of
                                         select="$family_name"/> family</span>
                                 <ul class="nested">
                                     <xsl:for-each
@@ -864,7 +864,7 @@
                     <ul id="index">
                         <!-- Newsletters about other subjects with the same demographic term(s) -->
                         <li>
-                            <span class="caret">Newsletters about subjects from similar
+                            <span class="caret">Newsletter articles about subjects from similar
                                 demographics</span>
                             <ul class="nested">
                                 <xsl:for-each
@@ -916,7 +916,7 @@
                 <div>
                     <ul id="index">
                         <li>
-                            <span class="caret">Newsletters featuring members of the <xsl:value-of
+                            <span class="caret">Newsletter articles featuring members of the <xsl:value-of
                                     select="$current_term"/> family</span>
                             <ul class="nested">
                                 <xsl:for-each
@@ -1037,7 +1037,7 @@
                 test="$newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_1 or $newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_2 or $newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_3 or $newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_4 or $newsletter_xml/newsletters/newsletter/keywords/keyword = $parent_name_5">
                 <div>
                     <ul id="index">
-                        <li><span class="caret">Newsletters about broader terms</span>
+                        <li><span class="caret">Newsletter articles about broader terms</span>
                         <ul class="nested">
                             <!-- Parent of tier 6+ (tier 5 or higher) -->
                             <xsl:if
@@ -1156,7 +1156,7 @@
             <xsl:if test="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$current_id]">
                 <div>
                     <ul id="index">
-                        <li><span class="caret">Newsletters about narrower terms</span>
+                        <li><span class="caret">Newsletter articles about narrower terms</span>
                             <ul class="nested">
                                 <!-- For each child term of current term (tier 1 or lower) -->
                                 <xsl:for-each select="$index_xml/newsletterIndex/terms/term[parentTerm/@term_id=$current_id]">
